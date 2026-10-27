@@ -1082,6 +1082,101 @@
       "sha256": "bf6b772d48879c801c9a5b05a2e3eebc9e2faac21c27c9b597558187ba9ff2b9",
       "bytes": 1393864
     },
+    "assets/wardrobe/kitsune-rose/birds.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e0af592ff673cd7f061241d763047746a1f6a4b52e167086edfa06ea8116dbf2.png",
+      "sha256": "e0af592ff673cd7f061241d763047746a1f6a4b52e167086edfa06ea8116dbf2",
+      "bytes": 95406
+    },
+    "assets/wardrobe/kitsune-rose/dress.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c2c2442f2e9e900220b6964232c47b8890e680c8d6589ab99191138ecea28f3e.png",
+      "sha256": "c2c2442f2e9e900220b6964232c47b8890e680c8d6589ab99191138ecea28f3e",
+      "bytes": 1524413
+    },
+    "assets/wardrobe/kitsune-rose/earrings.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1be23d9d3f33fcfe46265ea42550e90e0dd3d374a62710bd6a74192aa6cc8fbb.png",
+      "sha256": "1be23d9d3f33fcfe46265ea42550e90e0dd3d374a62710bd6a74192aa6cc8fbb",
+      "bytes": 18634
+    },
+    "assets/wardrobe/kitsune-rose/ears.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/79306e8c19fe0c9e51a45311f67bab00d56ec037163921c73998c2c082876b4e.png",
+      "sha256": "79306e8c19fe0c9e51a45311f67bab00d56ec037163921c73998c2c082876b4e",
+      "bytes": 96229
+    },
+    "assets/wardrobe/kitsune-rose/fur.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d7602c50c0ad7571b0bd3c5b1be29a20d7939806dbefbf8b7fa6628aa70c8cd4.png",
+      "sha256": "d7602c50c0ad7571b0bd3c5b1be29a20d7939806dbefbf8b7fa6628aa70c8cd4",
+      "bytes": 525181
+    },
+    "assets/wardrobe/kitsune-rose/hair-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d50dcc2be9fb927a15fabc9a6e7c9f43cb61d58da41256e8216d4cdc17256ae1.png",
+      "sha256": "d50dcc2be9fb927a15fabc9a6e7c9f43cb61d58da41256e8216d4cdc17256ae1",
+      "bytes": 200155
+    },
+    "assets/wardrobe/kitsune-rose/hair-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dde14f6c9a650fbc3c6aa0c276b87c05d186717db85939b2f9e1a1ca4073ef1d.png",
+      "sha256": "dde14f6c9a650fbc3c6aa0c276b87c05d186717db85939b2f9e1a1ca4073ef1d",
+      "bytes": 221686
+    },
+    "assets/wardrobe/kitsune-rose/jade.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8ddc0429a3532539e64a9d69c244cd2f433496277f413108ae360e19c09b784c.png",
+      "sha256": "8ddc0429a3532539e64a9d69c244cd2f433496277f413108ae360e19c09b784c",
+      "bytes": 69666
+    },
+    "assets/wardrobe/kitsune-rose/necklace.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/eb81231685a171b0370189569ae7c4b8a4597f58df31cc532e8636190e300a5a.png",
+      "sha256": "eb81231685a171b0370189569ae7c4b8a4597f58df31cc532e8636190e300a5a",
+      "bytes": 12852
+    },
+    "assets/wardrobe/kitsune-rose/shoes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c1fe1cdab0957eefbffc7a213f9c44c974d9182fff2194804ef798d8d09c4c8f.png",
+      "sha256": "c1fe1cdab0957eefbffc7a213f9c44c974d9182fff2194804ef798d8d09c4c8f",
+      "bytes": 122094
+    },
+    "assets/wardrobe/kitsune-rose/thumb-earrings-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/511d1b29a64a3762d5891ed00f485936a7d00d044c314d3cea7d28d81ff1c4ba.webp",
+      "sha256": "511d1b29a64a3762d5891ed00f485936a7d00d044c314d3cea7d28d81ff1c4ba",
+      "bytes": 9352
+    },
+    "assets/wardrobe/kitsune-rose/thumb-equipment-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c9f9c129ad6b6a95d6ca336507909c13255427db25bb97b343b463af25f7d60b.webp",
+      "sha256": "c9f9c129ad6b6a95d6ca336507909c13255427db25bb97b343b463af25f7d60b",
+      "bytes": 9350
+    },
+    "assets/wardrobe/kitsune-rose/thumb-hair-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/513e2c0231d6141b36fafe026f14f90bb4566615f2e3c7a000358062b64947d2.webp",
+      "sha256": "513e2c0231d6141b36fafe026f14f90bb4566615f2e3c7a000358062b64947d2",
+      "bytes": 9288
+    },
+    "assets/wardrobe/kitsune-rose/thumb-misc1-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e15570e20710502d15f6b1cc819da6efd130cae08d85ccd9d8c77cb9f9a0649d.webp",
+      "sha256": "e15570e20710502d15f6b1cc819da6efd130cae08d85ccd9d8c77cb9f9a0649d",
+      "bytes": 9942
+    },
+    "assets/wardrobe/kitsune-rose/thumb-necklace-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c3fcffe0ed70691a9cd9db8a4963d8de53af8e95485f5962bd37fa046899c60d.webp",
+      "sha256": "c3fcffe0ed70691a9cd9db8a4963d8de53af8e95485f5962bd37fa046899c60d",
+      "bytes": 9324
+    },
+    "assets/wardrobe/kitsune-rose/thumb-ornament-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f31ec488e36936d570308a954054ef6e1383261acb1bab43de870e624457a3df.webp",
+      "sha256": "f31ec488e36936d570308a954054ef6e1383261acb1bab43de870e624457a3df",
+      "bytes": 9958
+    },
+    "assets/wardrobe/kitsune-rose/thumb-outer-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/aac3245f902e1f609b0312cd7d5317974801c947e2390020837133edb72f091b.webp",
+      "sha256": "aac3245f902e1f609b0312cd7d5317974801c947e2390020837133edb72f091b",
+      "bytes": 12462
+    },
+    "assets/wardrobe/kitsune-rose/thumb-outfit-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/61e0c6d01f95d71a7384470159a67c5504bba06da6be022e60955b0f0d68b694.webp",
+      "sha256": "61e0c6d01f95d71a7384470159a67c5504bba06da6be022e60955b0f0d68b694",
+      "bytes": 17052
+    },
+    "assets/wardrobe/kitsune-rose/thumb-shoes-kitsune-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1baf7e881ab116081ef06e72495cd0c0756180735696ed0573395d07c2ad6caa.webp",
+      "sha256": "1baf7e881ab116081ef06e72495cd0c0756180735696ed0573395d07c2ad6caa",
+      "bytes": 9340
+    },
     "assets/wardrobe/misc1-pilots/misc1-cat-yarn.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f2971d5cfd5859f437098c1e1fe506c3bdaa0a40f89eb88ee1b8830ce56cea81.png",
       "sha256": "f2971d5cfd5859f437098c1e1fe506c3bdaa0a40f89eb88ee1b8830ce56cea81",
