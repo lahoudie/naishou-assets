@@ -882,96 +882,6 @@
       "sha256": "0365147cd2847cac21fe7939b0a2577b0bd74b016fd84de28fec2cbb79075941",
       "bytes": 14780
     },
-    "assets/wardrobe/glycine-saule/lantern.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/36a73066efa489307a2e64dd5d381bcb2b94a33c12a08e9bfe320cfd720ce559.webp",
-      "sha256": "36a73066efa489307a2e64dd5d381bcb2b94a33c12a08e9bfe320cfd720ce559",
-      "bytes": 118512
-    },
-    "assets/wardrobe/glycine-saule/pipa.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e666a3dbecaa2a24e59ffadec0b4733093f69d50550583b173f4de0e310c17c2.webp",
-      "sha256": "e666a3dbecaa2a24e59ffadec0b4733093f69d50550583b173f4de0e310c17c2",
-      "bytes": 154068
-    },
-    "assets/wardrobe/glycine-saule/thumb-access-wisteria-lantern.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e5acbb6119dc2bbb627e6d60126dd1bdeb780d86c02e918e4324c0ea481ad705.webp",
-      "sha256": "e5acbb6119dc2bbb627e6d60126dd1bdeb780d86c02e918e4324c0ea481ad705",
-      "bytes": 8664
-    },
-    "assets/wardrobe/glycine-saule/thumb-decor-silver-willow.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c271132a24774ff9cc320cd34f91f52761c91eb496f7e0a069aa37c785ad1c4f.webp",
-      "sha256": "c271132a24774ff9cc320cd34f91f52761c91eb496f7e0a069aa37c785ad1c4f",
-      "bytes": 20624
-    },
-    "assets/wardrobe/glycine-saule/thumb-decor-wisteria-arch.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3890a9cb7c5e3aadb303f1111323cc0e1b4487e3772be459870c4a29e0329da8.webp",
-      "sha256": "3890a9cb7c5e3aadb303f1111323cc0e1b4487e3772be459870c4a29e0329da8",
-      "bytes": 14280
-    },
-    "assets/wardrobe/glycine-saule/thumb-equipment-wisteria-pipa.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/06bf1d0831f961a3a586f5ef25d2522627bb8f001625663acc062740820a9dbc.webp",
-      "sha256": "06bf1d0831f961a3a586f5ef25d2522627bb8f001625663acc062740820a9dbc",
-      "bytes": 9794
-    },
-    "assets/wardrobe/glycine-saule/thumb-ornament-willow-comb.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c3f92fd40aba914da44bf3d17df584ba702c21ed7b6bccf3735183bb4d527e19.webp",
-      "sha256": "c3f92fd40aba914da44bf3d17df584ba702c21ed7b6bccf3735183bb4d527e19",
-      "bytes": 10624
-    },
-    "assets/wardrobe/glycine-saule/thumb-ornament-wisteria-comb.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4c781691d0fab6ba75b04e830d788f9935f9af740337965f2e9c64417d5e5ffe.webp",
-      "sha256": "4c781691d0fab6ba75b04e830d788f9935f9af740337965f2e9c64417d5e5ffe",
-      "bytes": 10354
-    },
-    "assets/wardrobe/glycine-saule/thumb-outfit-willow-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2b8a40fabf608f900ffb29d85b351fa31989e779e9a66333ff1391c72404351a.webp",
-      "sha256": "2b8a40fabf608f900ffb29d85b351fa31989e779e9a66333ff1391c72404351a",
-      "bytes": 23380
-    },
-    "assets/wardrobe/glycine-saule/thumb-outfit-wisteria-song.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/bd0b16ecf622bdbc5654aa7cc0ca85a6a6d553fcf2c16c03232da5c2a4289a98.webp",
-      "sha256": "bd0b16ecf622bdbc5654aa7cc0ca85a6a6d553fcf2c16c03232da5c2a4289a98",
-      "bytes": 25212
-    },
-    "assets/wardrobe/glycine-saule/willow-comb.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3ecd72d6afd13f8ceda20e1f7c350bf689f3c31479e28e86b7303a42a2dcdb39.webp",
-      "sha256": "3ecd72d6afd13f8ceda20e1f7c350bf689f3c31479e28e86b7303a42a2dcdb39",
-      "bytes": 33876
-    },
-    "assets/wardrobe/glycine-saule/willow-dress-back.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c3c9e615086e67cc5ed90489f0a4f68dbd9f5e7214d6b981b50816e0f6310a92.webp",
-      "sha256": "c3c9e615086e67cc5ed90489f0a4f68dbd9f5e7214d6b981b50816e0f6310a92",
-      "bytes": 1258742
-    },
-    "assets/wardrobe/glycine-saule/willow-dress-front.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ed998a096f53972d02840d7e43b6446a44424d6a09e351cc37d7cbdc87e84df3.webp",
-      "sha256": "ed998a096f53972d02840d7e43b6446a44424d6a09e351cc37d7cbdc87e84df3",
-      "bytes": 1259022
-    },
-    "assets/wardrobe/glycine-saule/willow-tree.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/5ddbdf95dbeb49cb409fca2c5cf1843931077990605198fcc11af81234360fd8.webp",
-      "sha256": "5ddbdf95dbeb49cb409fca2c5cf1843931077990605198fcc11af81234360fd8",
-      "bytes": 1771350
-    },
-    "assets/wardrobe/glycine-saule/wisteria-arch.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/82cd97158d4cee08e4c2109ae563d64a1ddc3e45b6b2336734fc940ed1e78697.webp",
-      "sha256": "82cd97158d4cee08e4c2109ae563d64a1ddc3e45b6b2336734fc940ed1e78697",
-      "bytes": 1175836
-    },
-    "assets/wardrobe/glycine-saule/wisteria-comb.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/97255d1c495149f137768260a49e4e0938f6411f414a4df43ac6da4399f690a4.webp",
-      "sha256": "97255d1c495149f137768260a49e4e0938f6411f414a4df43ac6da4399f690a4",
-      "bytes": 27288
-    },
-    "assets/wardrobe/glycine-saule/wisteria-dress-back.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ea948ff99bbdb88a1f0fd0712fc06eac4a50016bd0bf881ea20604d6524c26f0.webp",
-      "sha256": "ea948ff99bbdb88a1f0fd0712fc06eac4a50016bd0bf881ea20604d6524c26f0",
-      "bytes": 1296504
-    },
-    "assets/wardrobe/glycine-saule/wisteria-dress-front.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3c80f661cc5250dc89ba1a719c5f8b98735d32ab6dffe660b9af4ad4d9480114.webp",
-      "sha256": "3c80f661cc5250dc89ba1a719c5f8b98735d32ab6dffe660b9af4ad4d9480114",
-      "bytes": 1292338
-    },
     "assets/wardrobe/hair-braid-back.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/84740f62b71613726ebbf31825df972532c5df748929310d4cc5ae5acda50f9e.png",
       "sha256": "84740f62b71613726ebbf31825df972532c5df748929310d4cc5ae5acda50f9e",
@@ -1172,90 +1082,210 @@
       "sha256": "bf6b772d48879c801c9a5b05a2e3eebc9e2faac21c27c9b597558187ba9ff2b9",
       "bytes": 1393864
     },
-    "assets/wardrobe/lotus-celeste/belt.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1080379ad44fd94c439b1822bf76508f57071dca010c9b6cc9ceb07a0e4a3069.png",
-      "sha256": "1080379ad44fd94c439b1822bf76508f57071dca010c9b6cc9ceb07a0e4a3069",
-      "bytes": 156727
+    "assets/wardrobe/lapins-lanternes/blue-crown.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/48e892768b8f25a8a6f02aaad00340b8092dcfa485ad512d63fa0c57ee3fea06.png",
+      "sha256": "48e892768b8f25a8a6f02aaad00340b8092dcfa485ad512d63fa0c57ee3fea06",
+      "bytes": 54987
     },
-    "assets/wardrobe/lotus-celeste/crown.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/05838e74ea7b46906b8321f6a51eb8036fb4ed3ab21d6ded7f87d3e1f5007e02.png",
-      "sha256": "05838e74ea7b46906b8321f6a51eb8036fb4ed3ab21d6ded7f87d3e1f5007e02",
-      "bytes": 44340
+    "assets/wardrobe/lapins-lanternes/blue-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/eb4d4a60ec875746156314014e67c314de6ab0b2b4a6c1cdfb24e4b8c5a0f244.png",
+      "sha256": "eb4d4a60ec875746156314014e67c314de6ab0b2b4a6c1cdfb24e4b8c5a0f244",
+      "bytes": 1237498
     },
-    "assets/wardrobe/lotus-celeste/dress.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/307139922329d2c5fa88250441d2dd2224f01bf95cbfd0b433642e2efebc3d17.png",
-      "sha256": "307139922329d2c5fa88250441d2dd2224f01bf95cbfd0b433642e2efebc3d17",
-      "bytes": 1803571
+    "assets/wardrobe/lapins-lanternes/blue-sleeves.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0bb13801c920295a438210406b202cb31d392be86d5d2d44eed1a8abb65f9ad1.png",
+      "sha256": "0bb13801c920295a438210406b202cb31d392be86d5d2d44eed1a8abb65f9ad1",
+      "bytes": 447982
     },
-    "assets/wardrobe/lotus-celeste/earrings.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f7daa5caec7044459f242859d8ddc3639167bebc300e87c1a60f811572c8e612.png",
-      "sha256": "f7daa5caec7044459f242859d8ddc3639167bebc300e87c1a60f811572c8e612",
-      "bytes": 15947
+    "assets/wardrobe/lapins-lanternes/book.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/859cf9f4751def4a982ed7dad1abf5e80e37ab82e7b36f3c5a14a6d1b6c3f383.png",
+      "sha256": "859cf9f4751def4a982ed7dad1abf5e80e37ab82e7b36f3c5a14a6d1b6c3f383",
+      "bytes": 75086
     },
-    "assets/wardrobe/lotus-celeste/lanterns.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/26bd5dee60979f4b67da14c5311a28eb85902e5af54fb015647506cbcdc246b0.png",
-      "sha256": "26bd5dee60979f4b67da14c5311a28eb85902e5af54fb015647506cbcdc246b0",
-      "bytes": 385949
+    "assets/wardrobe/lapins-lanternes/garden.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e603bbcb21a30365015e4acde54095cef57c0f672a823724581059a84a1ab65a.png",
+      "sha256": "e603bbcb21a30365015e4acde54095cef57c0f672a823724581059a84a1ab65a",
+      "bytes": 3028714
     },
-    "assets/wardrobe/lotus-celeste/mandala.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1a96b4e2f3f2e5b22f15d9fb0ca40b70af4fc2e724309e91ae3a57afc7b25f67.png",
-      "sha256": "1a96b4e2f3f2e5b22f15d9fb0ca40b70af4fc2e724309e91ae3a57afc7b25f67",
-      "bytes": 696941
+    "assets/wardrobe/lapins-lanternes/green-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/18ac4579e9e1b4333b8ed019ffa9b7fa2fb637a977681d7f32d66967a5a6d71d.png",
+      "sha256": "18ac4579e9e1b4333b8ed019ffa9b7fa2fb637a977681d7f32d66967a5a6d71d",
+      "bytes": 1311112
     },
-    "assets/wardrobe/lotus-celeste/necklace.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dfdab74f0cb3ac48c08b2f0794755b38ffe3c46ec8ad4e1e881ed0a4f82c4ed6.png",
-      "sha256": "dfdab74f0cb3ac48c08b2f0794755b38ffe3c46ec8ad4e1e881ed0a4f82c4ed6",
-      "bytes": 26510
+    "assets/wardrobe/lapins-lanternes/green-shoes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d66c92303c7b4a4327900a9bbf8ca1e82b49aadec9fa82aad601abc77bbda604.png",
+      "sha256": "d66c92303c7b4a4327900a9bbf8ca1e82b49aadec9fa82aad601abc77bbda604",
+      "bytes": 47505
     },
-    "assets/wardrobe/lotus-celeste/pedestal.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/6089fac2b2a985aadb7abeddd8aece622f639abd5d790574028344c5a06ce010.png",
-      "sha256": "6089fac2b2a985aadb7abeddd8aece622f639abd5d790574028344c5a06ce010",
-      "bytes": 190930
+    "assets/wardrobe/lapins-lanternes/hair-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3d467698c4950b424aed11102c7b79a25b3816f594a5b537261440bd2187d353.png",
+      "sha256": "3d467698c4950b424aed11102c7b79a25b3816f594a5b537261440bd2187d353",
+      "bytes": 539739
     },
-    "assets/wardrobe/lotus-celeste/stole.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/38c90f81772f121f02c0410834aa3db116287623e1ece5f25bec1807f80c6fe4.png",
-      "sha256": "38c90f81772f121f02c0410834aa3db116287623e1ece5f25bec1807f80c6fe4",
-      "bytes": 1283393
+    "assets/wardrobe/lapins-lanternes/hair-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/20d804c15c3e6312bb6d26db4913a3b3785e69ef7819df52f4fa44674a70a9e3.png",
+      "sha256": "20d804c15c3e6312bb6d26db4913a3b3785e69ef7819df52f4fa44674a70a9e3",
+      "bytes": 73399
     },
-    "assets/wardrobe/lotus-celeste/thumb-earrings-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/5b867922c6e1758e83d7ded00be46a3f8fba42b5d43e19e32b8f950ea44ecb7c.webp",
-      "sha256": "5b867922c6e1758e83d7ded00be46a3f8fba42b5d43e19e32b8f950ea44ecb7c",
-      "bytes": 4902
+    "assets/wardrobe/lapins-lanternes/jade-flowers.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1e8d037c560fa963c9368948e15da2b7577b6de456ea5e4f5566345c8dee04d8.png",
+      "sha256": "1e8d037c560fa963c9368948e15da2b7577b6de456ea5e4f5566345c8dee04d8",
+      "bytes": 35438
     },
-    "assets/wardrobe/lotus-celeste/thumb-equipment-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7485381ab89521f7ae4d792615923e619960445d0baa52abc83526bbb4e7b202.webp",
-      "sha256": "7485381ab89521f7ae4d792615923e619960445d0baa52abc83526bbb4e7b202",
-      "bytes": 6734
+    "assets/wardrobe/lapins-lanternes/lanterns.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b656e528e2aabf0d42fcb862aca34de4e2da6f6a41c3243a473a50f1cb9076d0.png",
+      "sha256": "b656e528e2aabf0d42fcb862aca34de4e2da6f6a41c3243a473a50f1cb9076d0",
+      "bytes": 243002
     },
-    "assets/wardrobe/lotus-celeste/thumb-misc2-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1d002fce12622ff956b0086cf54c07e3cf6b1e62544fef4ba50b531bce082a52.webp",
-      "sha256": "1d002fce12622ff956b0086cf54c07e3cf6b1e62544fef4ba50b531bce082a52",
-      "bytes": 7950
+    "assets/wardrobe/lapins-lanternes/palace.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8c6e2e815a38914a3671f39f81e71aaab74f076a347745acdd19bb1c3d65fd69.png",
+      "sha256": "8c6e2e815a38914a3671f39f81e71aaab74f076a347745acdd19bb1c3d65fd69",
+      "bytes": 3337907
     },
-    "assets/wardrobe/lotus-celeste/thumb-necklace-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f7f90bac1566c304f77fcfa29c3bf95ef9cc5927a57ca5fc558df524e2509c88.webp",
-      "sha256": "f7f90bac1566c304f77fcfa29c3bf95ef9cc5927a57ca5fc558df524e2509c88",
-      "bytes": 12522
+    "assets/wardrobe/lapins-lanternes/pink-flowers.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1767a989d0de6e41df6bc7214811c7f90982afafb335a00bcfca7ee1a0801fe4.png",
+      "sha256": "1767a989d0de6e41df6bc7214811c7f90982afafb335a00bcfca7ee1a0801fe4",
+      "bytes": 39006
     },
-    "assets/wardrobe/lotus-celeste/thumb-obi-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/27c643c6c074e8fb361f2f4dcefc7d89bec6b949fe95f85744ffe20ee2002b25.webp",
-      "sha256": "27c643c6c074e8fb361f2f4dcefc7d89bec6b949fe95f85744ffe20ee2002b25",
-      "bytes": 15944
+    "assets/wardrobe/lapins-lanternes/pink-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/23ea56c9b6121f45270e19537b48d4c92e21945d02b5c07f4a4c800c236e361e.png",
+      "sha256": "23ea56c9b6121f45270e19537b48d4c92e21945d02b5c07f4a4c800c236e361e",
+      "bytes": 903148
     },
-    "assets/wardrobe/lotus-celeste/thumb-ornament-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c4acdd36489b583da2d7ba2457be675cef6d7c17f3f5f1d8c8e210d856e9480b.webp",
-      "sha256": "c4acdd36489b583da2d7ba2457be675cef6d7c17f3f5f1d8c8e210d856e9480b",
-      "bytes": 11612
+    "assets/wardrobe/lapins-lanternes/pink-shoes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9da6279e2e6f596065766bbb66bb331c6bcc509830b8e6efd85b03f99ce83046.png",
+      "sha256": "9da6279e2e6f596065766bbb66bb331c6bcc509830b8e6efd85b03f99ce83046",
+      "bytes": 126105
     },
-    "assets/wardrobe/lotus-celeste/thumb-outer-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9fc4ca5dfbbc982d05cd509ce9b02173394f58eb99e971ef2f97d7e5cf359d90.webp",
-      "sha256": "9fc4ca5dfbbc982d05cd509ce9b02173394f58eb99e971ef2f97d7e5cf359d90",
-      "bytes": 19836
+    "assets/wardrobe/lapins-lanternes/pink-sleeves.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3e4b246c09c03b907d22a4ab4ff529c4ca324a94055e12085f1d44ea407a7bce.png",
+      "sha256": "3e4b246c09c03b907d22a4ab4ff529c4ca324a94055e12085f1d44ea407a7bce",
+      "bytes": 567525
     },
-    "assets/wardrobe/lotus-celeste/thumb-outfit-lotus-celeste.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/fcbe9f87259c8e61c1c68edab8324bacd6f54e7bf898c5f520dbd414339e6097.webp",
-      "sha256": "fcbe9f87259c8e61c1c68edab8324bacd6f54e7bf898c5f520dbd414339e6097",
-      "bytes": 21520
+    "assets/wardrobe/lapins-lanternes/rabbits.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/49f9dbb7d63eaf7a8f1cfd9603bc1893e69c65ed4fc22e80e1fac371df9b303d.png",
+      "sha256": "49f9dbb7d63eaf7a8f1cfd9603bc1893e69c65ed4fc22e80e1fac371df9b303d",
+      "bytes": 108358
+    },
+    "assets/wardrobe/lapins-lanternes/red-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cf5cca8f101303b2c2b024ffc4d59d3e5098854e7434e4d5f74bd14a5f6efa2f.png",
+      "sha256": "cf5cca8f101303b2c2b024ffc4d59d3e5098854e7434e4d5f74bd14a5f6efa2f",
+      "bytes": 1987622
+    },
+    "assets/wardrobe/lapins-lanternes/red-shoes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c15e1080ae175bb773c0b366a34d2932ed44553d0e38053829573c395e1f8050.png",
+      "sha256": "c15e1080ae175bb773c0b366a34d2932ed44553d0e38053829573c395e1f8050",
+      "bytes": 62981
+    },
+    "assets/wardrobe/lapins-lanternes/sage-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bcbb8d469096f4c87d20921b9965776e61d9f52a912c7137062fbcbd6327f4d6.png",
+      "sha256": "bcbb8d469096f4c87d20921b9965776e61d9f52a912c7137062fbcbd6327f4d6",
+      "bytes": 1711556
+    },
+    "assets/wardrobe/lapins-lanternes/sage-shoes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a683a91d34785b949259eb6faa89f933a73072bc93b59f0c36a556649853ac42.png",
+      "sha256": "a683a91d34785b949259eb6faa89f933a73072bc93b59f0c36a556649853ac42",
+      "bytes": 72135
+    },
+    "assets/wardrobe/lapins-lanternes/staff.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/467792645fd83f66adcaaab40eb5f5d3660dcb8a7fab661bbb9c5dce1bb7d9e3.png",
+      "sha256": "467792645fd83f66adcaaab40eb5f5d3660dcb8a7fab661bbb9c5dce1bb7d9e3",
+      "bytes": 480791
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-decor-moon-garden.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a115c1b2ca42b31552a557d4fb72cc60ed8b94ebe4242d3e38558a72ea0e7703.webp",
+      "sha256": "a115c1b2ca42b31552a557d4fb72cc60ed8b94ebe4242d3e38558a72ea0e7703",
+      "bytes": 23390
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-decor-moon-palace.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/88b3c7a1a6f734f07d1b36ab5ce34917f39a7c3c030401115003bbe6623a0937.webp",
+      "sha256": "88b3c7a1a6f734f07d1b36ab5ce34917f39a7c3c030401115003bbe6623a0937",
+      "bytes": 25144
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-equipment-moon-staff.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/70f0ff60393c3b51d5488d6f5d597bba6a0bd70942841d312bf4b298b05a016d.webp",
+      "sha256": "70f0ff60393c3b51d5488d6f5d597bba6a0bd70942841d312bf4b298b05a016d",
+      "bytes": 6434
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-hair-moon-silver.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/655d8249c9586f1c7b9f8d4af6a1e916b2d50c7511c61c27eec90170a1e75886.webp",
+      "sha256": "655d8249c9586f1c7b9f8d4af6a1e916b2d50c7511c61c27eec90170a1e75886",
+      "bytes": 11522
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-misc1-moon-rabbits.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9bf7d3a3476efdb231f63e6c1880f637c85a8553bacb14d20130eb21cbfc8867.webp",
+      "sha256": "9bf7d3a3476efdb231f63e6c1880f637c85a8553bacb14d20130eb21cbfc8867",
+      "bytes": 8564
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-misc2-moon-book.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/045cfa2b2a8fa87d77341f6e82570b4874d3e353d2719c7f51d2119a40b1f9ce.webp",
+      "sha256": "045cfa2b2a8fa87d77341f6e82570b4874d3e353d2719c7f51d2119a40b1f9ce",
+      "bytes": 9584
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-misc2-moon-lanterns.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/89bec99afdd8876da4b9bfe10436edf6b6d6a896a80f1bdcb9d0014291a72588.webp",
+      "sha256": "89bec99afdd8876da4b9bfe10436edf6b6d6a896a80f1bdcb9d0014291a72588",
+      "bytes": 5906
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-ornament-moon-blue.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6077b8a513bc839584033d1156738ec6f26bc5e2c00ae3be409f669cb1869b64.webp",
+      "sha256": "6077b8a513bc839584033d1156738ec6f26bc5e2c00ae3be409f669cb1869b64",
+      "bytes": 11180
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-ornament-moon-jade.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/793f898f61a196b3265593e6289503f9bfa431fe9e8de9f5320ed0760f4522bc.webp",
+      "sha256": "793f898f61a196b3265593e6289503f9bfa431fe9e8de9f5320ed0760f4522bc",
+      "bytes": 6154
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-ornament-moon-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cb85d3f3ad4eec2f7e8ac7b650ce1739b3c71256d875ae46aa72d00cb2fbac61.webp",
+      "sha256": "cb85d3f3ad4eec2f7e8ac7b650ce1739b3c71256d875ae46aa72d00cb2fbac61",
+      "bytes": 7560
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outer-moon-blue.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fff54395333a50534edb088e9bdc4e16d415b2e4a5260a7b3076df5a4d737f15.webp",
+      "sha256": "fff54395333a50534edb088e9bdc4e16d415b2e4a5260a7b3076df5a4d737f15",
+      "bytes": 7072
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outer-moon-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5870d463d87f6356dd09c3f605d1c3f140a7ce2979f924666b646e156ebe2362.webp",
+      "sha256": "5870d463d87f6356dd09c3f605d1c3f140a7ce2979f924666b646e156ebe2362",
+      "bytes": 7426
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outfit-moon-blue.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e48491ae18b20529a301e95c50ffc7c745e74f99a2c90db9f2f6ce0c23806c78.webp",
+      "sha256": "e48491ae18b20529a301e95c50ffc7c745e74f99a2c90db9f2f6ce0c23806c78",
+      "bytes": 14396
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outfit-moon-jade.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c1ad40768cc09748469ca61ed8390b2394a30d97ab25ecd5f45426a785724f3f.webp",
+      "sha256": "c1ad40768cc09748469ca61ed8390b2394a30d97ab25ecd5f45426a785724f3f",
+      "bytes": 16016
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outfit-moon-osmanthus.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2a0b94e13a260c6a52697cde70bf14e5f7214a105a60d51ee53a4a76f452f368.webp",
+      "sha256": "2a0b94e13a260c6a52697cde70bf14e5f7214a105a60d51ee53a4a76f452f368",
+      "bytes": 18974
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outfit-moon-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dbcf5dfc28229317ad8c5cbb54be507559495d4af7c432980fbf184f08831a49.webp",
+      "sha256": "dbcf5dfc28229317ad8c5cbb54be507559495d4af7c432980fbf184f08831a49",
+      "bytes": 10154
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-outfit-moon-scholar.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1be512592be168d51527d0ff8e5c2545845b3ecdad8f4c1412091c1efa9abc4e.webp",
+      "sha256": "1be512592be168d51527d0ff8e5c2545845b3ecdad8f4c1412091c1efa9abc4e",
+      "bytes": 21010
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-shoes-moon-jade.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d05396752a9718c5900528cc31e27b45e2401ed9f568622a14eff6f9e04a911e.webp",
+      "sha256": "d05396752a9718c5900528cc31e27b45e2401ed9f568622a14eff6f9e04a911e",
+      "bytes": 9052
+    },
+    "assets/wardrobe/lapins-lanternes/thumb-shoes-moon-rose.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/811dc38f34e024d13f8e26583a878b92098d8deaacc2baaf60e5565ed81930e7.webp",
+      "sha256": "811dc38f34e024d13f8e26583a878b92098d8deaacc2baaf60e5565ed81930e7",
+      "bytes": 16154
     },
     "assets/wardrobe/misc1-pilots/misc1-cat-yarn.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f2971d5cfd5859f437098c1e1fe506c3bdaa0a40f89eb88ee1b8830ce56cea81.png",
@@ -1276,81 +1306,6 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/de55898979610f39f112d0c81ea7130f6e3024c8f5382fbec073c3b09a186efa.webp",
       "sha256": "de55898979610f39f112d0c81ea7130f6e3024c8f5382fbec073c3b09a186efa",
       "bytes": 17330
-    },
-    "assets/wardrobe/myriade-astres/companion.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1d150e3b998dd6bcd6868a4ae3e4a53657602ad33940123b459bbb0c8444558f.png",
-      "sha256": "1d150e3b998dd6bcd6868a4ae3e4a53657602ad33940123b459bbb0c8444558f",
-      "bytes": 85282
-    },
-    "assets/wardrobe/myriade-astres/hair-back.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a1fe9647add4a1679252f664002d250d7488ea3a24d711fdbcc7060f57997a5b.png",
-      "sha256": "a1fe9647add4a1679252f664002d250d7488ea3a24d711fdbcc7060f57997a5b",
-      "bytes": 676793
-    },
-    "assets/wardrobe/myriade-astres/hair-front.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e.png",
-      "sha256": "3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e",
-      "bytes": 437742
-    },
-    "assets/wardrobe/myriade-astres/mantle.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b27b2d81b78d8d4d70fe3819c72697fd748a91684b7be9ed4c87e328033a0c33.png",
-      "sha256": "b27b2d81b78d8d4d70fe3819c72697fd748a91684b7be9ed4c87e328033a0c33",
-      "bytes": 1779662
-    },
-    "assets/wardrobe/myriade-astres/necklace.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/56ef1a05bedffe452eec48a9efd8ccf96bf70a2c018db400a2dfafeee7ee07c8.png",
-      "sha256": "56ef1a05bedffe452eec48a9efd8ccf96bf70a2c018db400a2dfafeee7ee07c8",
-      "bytes": 56883
-    },
-    "assets/wardrobe/myriade-astres/obi.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/403f82d6940512775f9d6927281155d833f4aaa3f781eea20aa5785117f25e77.png",
-      "sha256": "403f82d6940512775f9d6927281155d833f4aaa3f781eea20aa5785117f25e77",
-      "bytes": 125878
-    },
-    "assets/wardrobe/myriade-astres/ornament.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c0fe7042fbba63eaf66be0cefe78b915c39415e1fd0b581bf7420811b187da7b.png",
-      "sha256": "c0fe7042fbba63eaf66be0cefe78b915c39415e1fd0b581bf7420811b187da7b",
-      "bytes": 36954
-    },
-    "assets/wardrobe/myriade-astres/robe.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809.png",
-      "sha256": "2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809",
-      "bytes": 1359182
-    },
-    "assets/wardrobe/myriade-astres/thumb-hair-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1.webp",
-      "sha256": "963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1",
-      "bytes": 16248
-    },
-    "assets/wardrobe/myriade-astres/thumb-misc2-myriade-companion.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2df2efb913d3d8e30aa81dcf568346d3908d2645bfb19aecfc6985865c00cedd.webp",
-      "sha256": "2df2efb913d3d8e30aa81dcf568346d3908d2645bfb19aecfc6985865c00cedd",
-      "bytes": 12582
-    },
-    "assets/wardrobe/myriade-astres/thumb-necklace-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c67bc3bb95aed13b3f8efdfdfb4e5fe05a1c52a9ef37e46156f686c13ab0f0da.webp",
-      "sha256": "c67bc3bb95aed13b3f8efdfdfb4e5fe05a1c52a9ef37e46156f686c13ab0f0da",
-      "bytes": 11460
-    },
-    "assets/wardrobe/myriade-astres/thumb-obi-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/afbcd022a40c3aaddebe3a9a6b26590c541d382fc3e39bc85bc8e71fe86460d7.webp",
-      "sha256": "afbcd022a40c3aaddebe3a9a6b26590c541d382fc3e39bc85bc8e71fe86460d7",
-      "bytes": 13020
-    },
-    "assets/wardrobe/myriade-astres/thumb-ornament-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c3fc0bb23cfd69679372c6e6687c790b6c8b67695ba3fdbcccb359254eeb4252.webp",
-      "sha256": "c3fc0bb23cfd69679372c6e6687c790b6c8b67695ba3fdbcccb359254eeb4252",
-      "bytes": 10516
-    },
-    "assets/wardrobe/myriade-astres/thumb-outer-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/04187ead15a4b81d78fd442955c1289dc07e5c9909478d42551e296eda7a9f03.webp",
-      "sha256": "04187ead15a4b81d78fd442955c1289dc07e5c9909478d42551e296eda7a9f03",
-      "bytes": 25166
-    },
-    "assets/wardrobe/myriade-astres/thumb-outfit-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa.webp",
-      "sha256": "0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa",
-      "bytes": 19714
     },
     "assets/wardrobe/necklace-pilots/necklace-jade-drop.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f3f6188a93f055e3366f6f5701bb38846e7aeef31a74003c92e0352c40b95b49.png",
@@ -3597,126 +3552,6 @@
       "sha256": "cf5adefc114479fd35af15ceefe411eaf5f84c786a37e0db7c8b912ec9d5f4e1",
       "bytes": 43890
     },
-    "assets/wardrobe/war-collection/commander-armor.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eafa05d8ec0d713412b89b911b71c68c0f993562e6790084a48192da6655c846.png",
-      "sha256": "eafa05d8ec0d713412b89b911b71c68c0f993562e6790084a48192da6655c846",
-      "bytes": 1892694
-    },
-    "assets/wardrobe/war-collection/commander-banner.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8c56223925c01b5f8a6c8cde1cd7904669240be6744e2b07a8aa40521d12b759.png",
-      "sha256": "8c56223925c01b5f8a6c8cde1cd7904669240be6744e2b07a8aa40521d12b759",
-      "bytes": 1052522
-    },
-    "assets/wardrobe/war-collection/commander-cape.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2787796dd3f331c1c621a3bf3bd2761cce687bb59da32338cf54446f05b25043.png",
-      "sha256": "2787796dd3f331c1c621a3bf3bd2761cce687bb59da32338cf54446f05b25043",
-      "bytes": 2324822
-    },
-    "assets/wardrobe/war-collection/commander-sword.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/921c4edba8cc229864fe12351f681c1e922a481dc8af6e13c04e9c16dc10df09.png",
-      "sha256": "921c4edba8cc229864fe12351f681c1e922a481dc8af6e13c04e9c16dc10df09",
-      "bytes": 1094524
-    },
-    "assets/wardrobe/war-collection/guard-armor.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/566736650f521d3a92fd2a9590e6364e5aeb0090ba62ffedd52dffc488c3e615.png",
-      "sha256": "566736650f521d3a92fd2a9590e6364e5aeb0090ba62ffedd52dffc488c3e615",
-      "bytes": 1926893
-    },
-    "assets/wardrobe/war-collection/guard-banner.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/926f5d2c388cc2be781569b1d85c1ea9e94d2d8a6e6f3efa3fa2cc5c560511e2.png",
-      "sha256": "926f5d2c388cc2be781569b1d85c1ea9e94d2d8a6e6f3efa3fa2cc5c560511e2",
-      "bytes": 1641761
-    },
-    "assets/wardrobe/war-collection/guard-cape.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/cfdd4ae4987f91f2b962065e5bcfc53c5c67b387f0df33bc7a21c74df3696f44.png",
-      "sha256": "cfdd4ae4987f91f2b962065e5bcfc53c5c67b387f0df33bc7a21c74df3696f44",
-      "bytes": 2083712
-    },
-    "assets/wardrobe/war-collection/guard-sword.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9d4709b1b788050335e0e8196fcf31c8d27bba878e38d8bf4db232a5c158e31e.png",
-      "sha256": "9d4709b1b788050335e0e8196fcf31c8d27bba878e38d8bf4db232a5c158e31e",
-      "bytes": 1384835
-    },
-    "assets/wardrobe/war-collection/scout-armor.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/76e9c00be43765faed733439f877f35bbc58eb2dc0f0d521f96efd8307e09ea6.png",
-      "sha256": "76e9c00be43765faed733439f877f35bbc58eb2dc0f0d521f96efd8307e09ea6",
-      "bytes": 1870874
-    },
-    "assets/wardrobe/war-collection/scout-banner.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e9d0d08050fcf73d1c4b52c5e2ad15b488495ee0e5afbe90f3acaa2f9f15a924.png",
-      "sha256": "e9d0d08050fcf73d1c4b52c5e2ad15b488495ee0e5afbe90f3acaa2f9f15a924",
-      "bytes": 1718474
-    },
-    "assets/wardrobe/war-collection/scout-cape.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8601485c731066ca8feb0d1f53b851dfce85801a85f88202d2d5dfc050311715.png",
-      "sha256": "8601485c731066ca8feb0d1f53b851dfce85801a85f88202d2d5dfc050311715",
-      "bytes": 2260755
-    },
-    "assets/wardrobe/war-collection/scout-sword.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4d107ec7c238f4fed037e19dc17080adcac8d6beb33b395850137a9d5ee8fbe9.png",
-      "sha256": "4d107ec7c238f4fed037e19dc17080adcac8d6beb33b395850137a9d5ee8fbe9",
-      "bytes": 1320453
-    },
-    "assets/wardrobe/war-collection/thumb-equipment-war-commander.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/527cf5ad46c4a48f0b3c78a23f08d4d827dc059ae944b028cd03a4d0d64ca921.webp",
-      "sha256": "527cf5ad46c4a48f0b3c78a23f08d4d827dc059ae944b028cd03a4d0d64ca921",
-      "bytes": 9024
-    },
-    "assets/wardrobe/war-collection/thumb-equipment-war-guard.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d8130b3397d16023cf5335994e934e6269ad19492eefcd6e44233a26658e5744.webp",
-      "sha256": "d8130b3397d16023cf5335994e934e6269ad19492eefcd6e44233a26658e5744",
-      "bytes": 8974
-    },
-    "assets/wardrobe/war-collection/thumb-equipment-war-scout.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8881a40d9dcee9ff3883a3cbad9710835e6221c610488c7fd3a084d4747015bc.webp",
-      "sha256": "8881a40d9dcee9ff3883a3cbad9710835e6221c610488c7fd3a084d4747015bc",
-      "bytes": 8988
-    },
-    "assets/wardrobe/war-collection/thumb-misc2-war-commander.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9039f3001dc6cf0fb91b0d63844b7cf45356a3becb62a76bc621ad2974956ea3.webp",
-      "sha256": "9039f3001dc6cf0fb91b0d63844b7cf45356a3becb62a76bc621ad2974956ea3",
-      "bytes": 11354
-    },
-    "assets/wardrobe/war-collection/thumb-misc2-war-guard.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d15faf9534ebe06183911df2ee28b0874919eb0c51f119931bde84225df41283.webp",
-      "sha256": "d15faf9534ebe06183911df2ee28b0874919eb0c51f119931bde84225df41283",
-      "bytes": 11186
-    },
-    "assets/wardrobe/war-collection/thumb-misc2-war-scout.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/90a79bba519edf9d10d045cf956b18f10441c74fcf526e0ab71544fb3b21f0ec.webp",
-      "sha256": "90a79bba519edf9d10d045cf956b18f10441c74fcf526e0ab71544fb3b21f0ec",
-      "bytes": 10164
-    },
-    "assets/wardrobe/war-collection/thumb-outer-war-commander.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d2070ff840d1c2629f36e6624a95132b608361ca17e8fd2dfe411545127597a6.webp",
-      "sha256": "d2070ff840d1c2629f36e6624a95132b608361ca17e8fd2dfe411545127597a6",
-      "bytes": 11618
-    },
-    "assets/wardrobe/war-collection/thumb-outer-war-guard.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f6900681030e5baa7fe24baf3b36d94835a2076195385e388b398bec01266be5.webp",
-      "sha256": "f6900681030e5baa7fe24baf3b36d94835a2076195385e388b398bec01266be5",
-      "bytes": 11688
-    },
-    "assets/wardrobe/war-collection/thumb-outer-war-scout.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/03e91322db6a32de63f3078007a642ffa76bec14ede3fb99c581deb522713f2a.webp",
-      "sha256": "03e91322db6a32de63f3078007a642ffa76bec14ede3fb99c581deb522713f2a",
-      "bytes": 11960
-    },
-    "assets/wardrobe/war-collection/thumb-outfit-war-commander.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f0cc88d562f292c21926d22b89d0597e228ba01114b60145cb706e01ef3bcecc.webp",
-      "sha256": "f0cc88d562f292c21926d22b89d0597e228ba01114b60145cb706e01ef3bcecc",
-      "bytes": 10430
-    },
-    "assets/wardrobe/war-collection/thumb-outfit-war-guard.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a25ef4bf8daa21031acca4cfb134725f5434e012b77509deb12ad490ff9630ab.webp",
-      "sha256": "a25ef4bf8daa21031acca4cfb134725f5434e012b77509deb12ad490ff9630ab",
-      "bytes": 10228
-    },
-    "assets/wardrobe/war-collection/thumb-outfit-war-scout.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957.webp",
-      "sha256": "9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957",
-      "bytes": 9690
-    },
     "assets/portraits/akari.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc.webp",
       "sha256": "b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc",
@@ -4466,301 +4301,6 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
-    },
-    "assets/wardrobe/kitsune-rose/birds.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e0af592ff673cd7f061241d763047746a1f6a4b52e167086edfa06ea8116dbf2.png",
-      "sha256": "e0af592ff673cd7f061241d763047746a1f6a4b52e167086edfa06ea8116dbf2",
-      "bytes": 95406
-    },
-    "assets/wardrobe/kitsune-rose/dress.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c2c2442f2e9e900220b6964232c47b8890e680c8d6589ab99191138ecea28f3e.png",
-      "sha256": "c2c2442f2e9e900220b6964232c47b8890e680c8d6589ab99191138ecea28f3e",
-      "bytes": 1524413
-    },
-    "assets/wardrobe/kitsune-rose/earrings.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1be23d9d3f33fcfe46265ea42550e90e0dd3d374a62710bd6a74192aa6cc8fbb.png",
-      "sha256": "1be23d9d3f33fcfe46265ea42550e90e0dd3d374a62710bd6a74192aa6cc8fbb",
-      "bytes": 18634
-    },
-    "assets/wardrobe/kitsune-rose/ears.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/79306e8c19fe0c9e51a45311f67bab00d56ec037163921c73998c2c082876b4e.png",
-      "sha256": "79306e8c19fe0c9e51a45311f67bab00d56ec037163921c73998c2c082876b4e",
-      "bytes": 96229
-    },
-    "assets/wardrobe/kitsune-rose/fur.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d7602c50c0ad7571b0bd3c5b1be29a20d7939806dbefbf8b7fa6628aa70c8cd4.png",
-      "sha256": "d7602c50c0ad7571b0bd3c5b1be29a20d7939806dbefbf8b7fa6628aa70c8cd4",
-      "bytes": 525181
-    },
-    "assets/wardrobe/kitsune-rose/hair-back.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d50dcc2be9fb927a15fabc9a6e7c9f43cb61d58da41256e8216d4cdc17256ae1.png",
-      "sha256": "d50dcc2be9fb927a15fabc9a6e7c9f43cb61d58da41256e8216d4cdc17256ae1",
-      "bytes": 200155
-    },
-    "assets/wardrobe/kitsune-rose/hair-front.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dde14f6c9a650fbc3c6aa0c276b87c05d186717db85939b2f9e1a1ca4073ef1d.png",
-      "sha256": "dde14f6c9a650fbc3c6aa0c276b87c05d186717db85939b2f9e1a1ca4073ef1d",
-      "bytes": 221686
-    },
-    "assets/wardrobe/kitsune-rose/jade.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8ddc0429a3532539e64a9d69c244cd2f433496277f413108ae360e19c09b784c.png",
-      "sha256": "8ddc0429a3532539e64a9d69c244cd2f433496277f413108ae360e19c09b784c",
-      "bytes": 69666
-    },
-    "assets/wardrobe/kitsune-rose/necklace.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eb81231685a171b0370189569ae7c4b8a4597f58df31cc532e8636190e300a5a.png",
-      "sha256": "eb81231685a171b0370189569ae7c4b8a4597f58df31cc532e8636190e300a5a",
-      "bytes": 12852
-    },
-    "assets/wardrobe/kitsune-rose/shoes.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c1fe1cdab0957eefbffc7a213f9c44c974d9182fff2194804ef798d8d09c4c8f.png",
-      "sha256": "c1fe1cdab0957eefbffc7a213f9c44c974d9182fff2194804ef798d8d09c4c8f",
-      "bytes": 122094
-    },
-    "assets/wardrobe/kitsune-rose/thumb-earrings-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/511d1b29a64a3762d5891ed00f485936a7d00d044c314d3cea7d28d81ff1c4ba.webp",
-      "sha256": "511d1b29a64a3762d5891ed00f485936a7d00d044c314d3cea7d28d81ff1c4ba",
-      "bytes": 9352
-    },
-    "assets/wardrobe/kitsune-rose/thumb-equipment-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c9f9c129ad6b6a95d6ca336507909c13255427db25bb97b343b463af25f7d60b.webp",
-      "sha256": "c9f9c129ad6b6a95d6ca336507909c13255427db25bb97b343b463af25f7d60b",
-      "bytes": 9350
-    },
-    "assets/wardrobe/kitsune-rose/thumb-hair-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/513e2c0231d6141b36fafe026f14f90bb4566615f2e3c7a000358062b64947d2.webp",
-      "sha256": "513e2c0231d6141b36fafe026f14f90bb4566615f2e3c7a000358062b64947d2",
-      "bytes": 9288
-    },
-    "assets/wardrobe/kitsune-rose/thumb-misc1-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e15570e20710502d15f6b1cc819da6efd130cae08d85ccd9d8c77cb9f9a0649d.webp",
-      "sha256": "e15570e20710502d15f6b1cc819da6efd130cae08d85ccd9d8c77cb9f9a0649d",
-      "bytes": 9942
-    },
-    "assets/wardrobe/kitsune-rose/thumb-necklace-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c3fcffe0ed70691a9cd9db8a4963d8de53af8e95485f5962bd37fa046899c60d.webp",
-      "sha256": "c3fcffe0ed70691a9cd9db8a4963d8de53af8e95485f5962bd37fa046899c60d",
-      "bytes": 9324
-    },
-    "assets/wardrobe/kitsune-rose/thumb-ornament-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f31ec488e36936d570308a954054ef6e1383261acb1bab43de870e624457a3df.webp",
-      "sha256": "f31ec488e36936d570308a954054ef6e1383261acb1bab43de870e624457a3df",
-      "bytes": 9958
-    },
-    "assets/wardrobe/kitsune-rose/thumb-outer-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/aac3245f902e1f609b0312cd7d5317974801c947e2390020837133edb72f091b.webp",
-      "sha256": "aac3245f902e1f609b0312cd7d5317974801c947e2390020837133edb72f091b",
-      "bytes": 12462
-    },
-    "assets/wardrobe/kitsune-rose/thumb-outfit-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/61e0c6d01f95d71a7384470159a67c5504bba06da6be022e60955b0f0d68b694.webp",
-      "sha256": "61e0c6d01f95d71a7384470159a67c5504bba06da6be022e60955b0f0d68b694",
-      "bytes": 17052
-    },
-    "assets/wardrobe/kitsune-rose/thumb-shoes-kitsune-rose.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1baf7e881ab116081ef06e72495cd0c0756180735696ed0573395d07c2ad6caa.webp",
-      "sha256": "1baf7e881ab116081ef06e72495cd0c0756180735696ed0573395d07c2ad6caa",
-      "bytes": 9340
-    },
-    "assets/wardrobe/jade-immortels/bird.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f1cf1bd6d9176e26d1d51dd220428d5b5a8580d42685f8d7382867b82b8422b8.webp",
-      "sha256": "f1cf1bd6d9176e26d1d51dd220428d5b5a8580d42685f8d7382867b82b8422b8",
-      "bytes": 20326
-    },
-    "assets/wardrobe/jade-immortels/cabinet.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9c216db4a34a60a927e6e45e528e0fbdd3ec4b29b2d8d7a138dbede09b56638e.webp",
-      "sha256": "9c216db4a34a60a927e6e45e528e0fbdd3ec4b29b2d8d7a138dbede09b56638e",
-      "bytes": 232054
-    },
-    "assets/wardrobe/jade-immortels/cat.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/855f9b1a3e6705101a967f2d33a9cafd8f8d7fb0126c8b5d5df2f4b8e0fd6fa4.webp",
-      "sha256": "855f9b1a3e6705101a967f2d33a9cafd8f8d7fb0126c8b5d5df2f4b8e0fd6fa4",
-      "bytes": 117064
-    },
-    "assets/wardrobe/jade-immortels/chair.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3aa8725c30f74d27cbc5d98e817f85d3e48deb64c3287195a4eed7a6228ac358.webp",
-      "sha256": "3aa8725c30f74d27cbc5d98e817f85d3e48deb64c3287195a4eed7a6228ac358",
-      "bytes": 232904
-    },
-    "assets/wardrobe/jade-immortels/court-main.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/319578a87529574127103b2fcb61b686f34825c63a27ff79a2fb4a9f4fd64c9b.webp",
-      "sha256": "319578a87529574127103b2fcb61b686f34825c63a27ff79a2fb4a9f4fd64c9b",
-      "bytes": 687502
-    },
-    "assets/wardrobe/jade-immortels/court-ornament.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e56b225d6d1093d32ae8dbd1732a5c8d73f6b4bf872cfd4f3fbc2316e5879f02.webp",
-      "sha256": "e56b225d6d1093d32ae8dbd1732a5c8d73f6b4bf872cfd4f3fbc2316e5879f02",
-      "bytes": 52714
-    },
-    "assets/wardrobe/jade-immortels/court-outer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d7008c21a464d32c962dbbea0c813bf238872c708e9b3f76faaa2457d6d8f8d5.webp",
-      "sha256": "d7008c21a464d32c962dbbea0c813bf238872c708e9b3f76faaa2457d6d8f8d5",
-      "bytes": 420526
-    },
-    "assets/wardrobe/jade-immortels/court-shoes.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3becca297351535fb1a00be03e8441a8bf9fb4ccb132ad7272dccf5625032bdc.webp",
-      "sha256": "3becca297351535fb1a00be03e8441a8bf9fb4ccb132ad7272dccf5625032bdc",
-      "bytes": 23824
-    },
-    "assets/wardrobe/jade-immortels/jade-main.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/870abba20ab589c6d3a443b840cc2aa260a47105926ebec5bef3430d67117ca2.webp",
-      "sha256": "870abba20ab589c6d3a443b840cc2aa260a47105926ebec5bef3430d67117ca2",
-      "bytes": 854374
-    },
-    "assets/wardrobe/jade-immortels/jade-ornament.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9a308f95477e43d181f41a560902aca358419c18fecfccdf60bc13483b0e1292.webp",
-      "sha256": "9a308f95477e43d181f41a560902aca358419c18fecfccdf60bc13483b0e1292",
-      "bytes": 80506
-    },
-    "assets/wardrobe/jade-immortels/jade-outer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1bacff7038544fca3885268745a1af4ada223739b073248e112bbcaa925af872.webp",
-      "sha256": "1bacff7038544fca3885268745a1af4ada223739b073248e112bbcaa925af872",
-      "bytes": 582218
-    },
-    "assets/wardrobe/jade-immortels/jade-shoes.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/506803bc334722be486a23d533a5ac34c4c1baa4e4297c2083ac41843e82cc34.webp",
-      "sha256": "506803bc334722be486a23d533a5ac34c4c1baa4e4297c2083ac41843e82cc34",
-      "bytes": 37382
-    },
-    "assets/wardrobe/jade-immortels/palace.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/107a9a1604e366e62b47b925d8190398a30b972fe087d3f4e351fb1ff00074fb.webp",
-      "sha256": "107a9a1604e366e62b47b925d8190398a30b972fe087d3f4e351fb1ff00074fb",
-      "bytes": 2197996
-    },
-    "assets/wardrobe/jade-immortels/physician-main.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7615481472414627d54e2a2a7ca05de4cdf5ee2185e9359ff0f4a2890720cc86.webp",
-      "sha256": "7615481472414627d54e2a2a7ca05de4cdf5ee2185e9359ff0f4a2890720cc86",
-      "bytes": 355326
-    },
-    "assets/wardrobe/jade-immortels/physician-outer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/288f315bb0b858f3fbf731892aee8531e1d45eaa8efabb7b4bee08eed640e253.webp",
-      "sha256": "288f315bb0b858f3fbf731892aee8531e1d45eaa8efabb7b4bee08eed640e253",
-      "bytes": 441240
-    },
-    "assets/wardrobe/jade-immortels/physician-shoes.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/5c1bd1f7576a002f3c8319b220eb03031934925ad455859f5feb773d20070579.webp",
-      "sha256": "5c1bd1f7576a002f3c8319b220eb03031934925ad455859f5feb773d20070579",
-      "bytes": 58778
-    },
-    "assets/wardrobe/jade-immortels/sage-main.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/6aa500dae67367a765ff51292640e7cb8ffe6150ff913f6d39568e6e13214cd2.webp",
-      "sha256": "6aa500dae67367a765ff51292640e7cb8ffe6150ff913f6d39568e6e13214cd2",
-      "bytes": 878802
-    },
-    "assets/wardrobe/jade-immortels/sage-ornament.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/65f2dacdf9c2ab17ce9bf9e72d15f34aafbc9a9b8dff380dd34159f841721083.webp",
-      "sha256": "65f2dacdf9c2ab17ce9bf9e72d15f34aafbc9a9b8dff380dd34159f841721083",
-      "bytes": 83006
-    },
-    "assets/wardrobe/jade-immortels/sage-outer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/5da0642c2b7e88b4f9d6f4542308c364bccce16fa092447dee1aabd1742259be.webp",
-      "sha256": "5da0642c2b7e88b4f9d6f4542308c364bccce16fa092447dee1aabd1742259be",
-      "bytes": 553640
-    },
-    "assets/wardrobe/jade-immortels/sage-shoes.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/abb9d64a0894984c832092150f66b9d9656f922526d6dad81621f1d393c7e147.webp",
-      "sha256": "abb9d64a0894984c832092150f66b9d9656f922526d6dad81621f1d393c7e147",
-      "bytes": 26652
-    },
-    "assets/wardrobe/jade-immortels/thumb-accessory-jade-bird.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/308efc0ee920b870093e84c367b8b83feb5fdb7d7400812db0bd06b6784128b0.webp",
-      "sha256": "308efc0ee920b870093e84c367b8b83feb5fdb7d7400812db0bd06b6784128b0",
-      "bytes": 24074
-    },
-    "assets/wardrobe/jade-immortels/thumb-decor-jade-palace.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/25898005d0b0de9e46c246ad01d6821c2000191376ce0814b285874c40ed8dc0.webp",
-      "sha256": "25898005d0b0de9e46c246ad01d6821c2000191376ce0814b285874c40ed8dc0",
-      "bytes": 19688
-    },
-    "assets/wardrobe/jade-immortels/thumb-misc1-jade-cabinet.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/057be3f83156dd754e80ed290d35880d9c90a835437dc693ec2f008bb737807f.webp",
-      "sha256": "057be3f83156dd754e80ed290d35880d9c90a835437dc693ec2f008bb737807f",
-      "bytes": 17154
-    },
-    "assets/wardrobe/jade-immortels/thumb-misc1-jade-chair.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f51692803d3f766d50ce07372a23fde01379b58cb7acebba2844b710b35ae187.webp",
-      "sha256": "f51692803d3f766d50ce07372a23fde01379b58cb7acebba2844b710b35ae187",
-      "bytes": 21236
-    },
-    "assets/wardrobe/jade-immortels/thumb-misc2-jade-cat.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/75fb1a4a5d21a46de66d2ff7108bba70db9fa7a365c628b913bbffb518d0fb61.webp",
-      "sha256": "75fb1a4a5d21a46de66d2ff7108bba70db9fa7a365c628b913bbffb518d0fb61",
-      "bytes": 23564
-    },
-    "assets/wardrobe/jade-immortels/thumb-ornament-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f1ba4e4d82eabe6449a142b5267f4b8049041110d196f5b43638971c22d8ac45.webp",
-      "sha256": "f1ba4e4d82eabe6449a142b5267f4b8049041110d196f5b43638971c22d8ac45",
-      "bytes": 32232
-    },
-    "assets/wardrobe/jade-immortels/thumb-ornament-jade-jade.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8431502973948092f02b7e18824def257759cb5acedb759d47d73f915899cafc.webp",
-      "sha256": "8431502973948092f02b7e18824def257759cb5acedb759d47d73f915899cafc",
-      "bytes": 31086
-    },
-    "assets/wardrobe/jade-immortels/thumb-ornament-jade-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/fea92eebc79aae14e70f177f6170739ea96a75e10534c8dd28d04269f8b68fbc.webp",
-      "sha256": "fea92eebc79aae14e70f177f6170739ea96a75e10534c8dd28d04269f8b68fbc",
-      "bytes": 34760
-    },
-    "assets/wardrobe/jade-immortels/thumb-outer-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/49e8e4bed0b76ca75f41fd37aef21cb4a3bdeef6395b924bfed5548a3cb519fe.webp",
-      "sha256": "49e8e4bed0b76ca75f41fd37aef21cb4a3bdeef6395b924bfed5548a3cb519fe",
-      "bytes": 14900
-    },
-    "assets/wardrobe/jade-immortels/thumb-outer-jade-jade.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/858cbf43453f83db87fc8a0d83325ff8c3a49bb7eb806879b5936ff68e09fe14.webp",
-      "sha256": "858cbf43453f83db87fc8a0d83325ff8c3a49bb7eb806879b5936ff68e09fe14",
-      "bytes": 18306
-    },
-    "assets/wardrobe/jade-immortels/thumb-outer-jade-physician.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ea8511be65032a86e059529c86f1bc72cd92aad6c824851fb980da9986c792ab.webp",
-      "sha256": "ea8511be65032a86e059529c86f1bc72cd92aad6c824851fb980da9986c792ab",
-      "bytes": 16242
-    },
-    "assets/wardrobe/jade-immortels/thumb-outer-jade-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/370b1ec7f218c156a59fa235b710212611537f68b552c6adf4d30b6c73ebba90.webp",
-      "sha256": "370b1ec7f218c156a59fa235b710212611537f68b552c6adf4d30b6c73ebba90",
-      "bytes": 16104
-    },
-    "assets/wardrobe/jade-immortels/thumb-outfit-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a2f7becac7758c1a290061e083fe7dac748847ded1fad4126979da58bd0ffef6.webp",
-      "sha256": "a2f7becac7758c1a290061e083fe7dac748847ded1fad4126979da58bd0ffef6",
-      "bytes": 14498
-    },
-    "assets/wardrobe/jade-immortels/thumb-outfit-jade-jade.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a1d667775b05584bdb41dac79347a8d42d9cfce9b99040fca1de8e2c02763839.webp",
-      "sha256": "a1d667775b05584bdb41dac79347a8d42d9cfce9b99040fca1de8e2c02763839",
-      "bytes": 18974
-    },
-    "assets/wardrobe/jade-immortels/thumb-outfit-jade-physician.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8315c11ef02d83b3c72913a7319b42348dcacae83fffff2fcd97424cacb803bb.webp",
-      "sha256": "8315c11ef02d83b3c72913a7319b42348dcacae83fffff2fcd97424cacb803bb",
-      "bytes": 10024
-    },
-    "assets/wardrobe/jade-immortels/thumb-outfit-jade-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2dae95c16b1022d6256e286fde319efaf1f52bb1eda624351cb36bc3b6a83977.webp",
-      "sha256": "2dae95c16b1022d6256e286fde319efaf1f52bb1eda624351cb36bc3b6a83977",
-      "bytes": 16432
-    },
-    "assets/wardrobe/jade-immortels/thumb-shoes-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eb82956892c683b224b7762b08f2b087b0d5fdf852635be12287d05a52b6813b.webp",
-      "sha256": "eb82956892c683b224b7762b08f2b087b0d5fdf852635be12287d05a52b6813b",
-      "bytes": 4534
-    },
-    "assets/wardrobe/jade-immortels/thumb-shoes-jade-jade.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/50a66e0d8fa1cc70ac51a5b45dce93fa86344d8b91bcc87f143497351d15ad95.webp",
-      "sha256": "50a66e0d8fa1cc70ac51a5b45dce93fa86344d8b91bcc87f143497351d15ad95",
-      "bytes": 5650
-    },
-    "assets/wardrobe/jade-immortels/thumb-shoes-jade-physician.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/97f2ebb037cdcadab35ef37a36b9e174c9e1aa2a3d4a47ed1bcbc724e7472192.webp",
-      "sha256": "97f2ebb037cdcadab35ef37a36b9e174c9e1aa2a3d4a47ed1bcbc724e7472192",
-      "bytes": 7486
-    },
-    "assets/wardrobe/jade-immortels/thumb-shoes-jade-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/bdebb6434aa325db485d8498374f5192a56cc940cd137b53a63738be7a0afdfa.webp",
-      "sha256": "bdebb6434aa325db485d8498374f5192a56cc940cd137b53a63738be7a0afdfa",
-      "bytes": 9988
     }
   }
 }
