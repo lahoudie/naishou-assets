@@ -1187,6 +1187,81 @@
       "sha256": "de55898979610f39f112d0c81ea7130f6e3024c8f5382fbec073c3b09a186efa",
       "bytes": 17330
     },
+    "assets/wardrobe/myriade-astres/companion.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1d150e3b998dd6bcd6868a4ae3e4a53657602ad33940123b459bbb0c8444558f.png",
+      "sha256": "1d150e3b998dd6bcd6868a4ae3e4a53657602ad33940123b459bbb0c8444558f",
+      "bytes": 85282
+    },
+    "assets/wardrobe/myriade-astres/hair-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a1fe9647add4a1679252f664002d250d7488ea3a24d711fdbcc7060f57997a5b.png",
+      "sha256": "a1fe9647add4a1679252f664002d250d7488ea3a24d711fdbcc7060f57997a5b",
+      "bytes": 676793
+    },
+    "assets/wardrobe/myriade-astres/hair-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e.png",
+      "sha256": "3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e",
+      "bytes": 437742
+    },
+    "assets/wardrobe/myriade-astres/mantle.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b27b2d81b78d8d4d70fe3819c72697fd748a91684b7be9ed4c87e328033a0c33.png",
+      "sha256": "b27b2d81b78d8d4d70fe3819c72697fd748a91684b7be9ed4c87e328033a0c33",
+      "bytes": 1779662
+    },
+    "assets/wardrobe/myriade-astres/necklace.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/56ef1a05bedffe452eec48a9efd8ccf96bf70a2c018db400a2dfafeee7ee07c8.png",
+      "sha256": "56ef1a05bedffe452eec48a9efd8ccf96bf70a2c018db400a2dfafeee7ee07c8",
+      "bytes": 56883
+    },
+    "assets/wardrobe/myriade-astres/obi.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/403f82d6940512775f9d6927281155d833f4aaa3f781eea20aa5785117f25e77.png",
+      "sha256": "403f82d6940512775f9d6927281155d833f4aaa3f781eea20aa5785117f25e77",
+      "bytes": 125878
+    },
+    "assets/wardrobe/myriade-astres/ornament.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c0fe7042fbba63eaf66be0cefe78b915c39415e1fd0b581bf7420811b187da7b.png",
+      "sha256": "c0fe7042fbba63eaf66be0cefe78b915c39415e1fd0b581bf7420811b187da7b",
+      "bytes": 36954
+    },
+    "assets/wardrobe/myriade-astres/robe.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809.png",
+      "sha256": "2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809",
+      "bytes": 1359182
+    },
+    "assets/wardrobe/myriade-astres/thumb-hair-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1.webp",
+      "sha256": "963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1",
+      "bytes": 16248
+    },
+    "assets/wardrobe/myriade-astres/thumb-misc2-myriade-companion.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2df2efb913d3d8e30aa81dcf568346d3908d2645bfb19aecfc6985865c00cedd.webp",
+      "sha256": "2df2efb913d3d8e30aa81dcf568346d3908d2645bfb19aecfc6985865c00cedd",
+      "bytes": 12582
+    },
+    "assets/wardrobe/myriade-astres/thumb-necklace-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c67bc3bb95aed13b3f8efdfdfb4e5fe05a1c52a9ef37e46156f686c13ab0f0da.webp",
+      "sha256": "c67bc3bb95aed13b3f8efdfdfb4e5fe05a1c52a9ef37e46156f686c13ab0f0da",
+      "bytes": 11460
+    },
+    "assets/wardrobe/myriade-astres/thumb-obi-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/afbcd022a40c3aaddebe3a9a6b26590c541d382fc3e39bc85bc8e71fe86460d7.webp",
+      "sha256": "afbcd022a40c3aaddebe3a9a6b26590c541d382fc3e39bc85bc8e71fe86460d7",
+      "bytes": 13020
+    },
+    "assets/wardrobe/myriade-astres/thumb-ornament-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c3fc0bb23cfd69679372c6e6687c790b6c8b67695ba3fdbcccb359254eeb4252.webp",
+      "sha256": "c3fc0bb23cfd69679372c6e6687c790b6c8b67695ba3fdbcccb359254eeb4252",
+      "bytes": 10516
+    },
+    "assets/wardrobe/myriade-astres/thumb-outer-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/04187ead15a4b81d78fd442955c1289dc07e5c9909478d42551e296eda7a9f03.webp",
+      "sha256": "04187ead15a4b81d78fd442955c1289dc07e5c9909478d42551e296eda7a9f03",
+      "bytes": 25166
+    },
+    "assets/wardrobe/myriade-astres/thumb-outfit-myriade-astres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa.webp",
+      "sha256": "0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa",
+      "bytes": 19714
+    },
     "assets/wardrobe/necklace-pilots/necklace-jade-drop.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f3f6188a93f055e3366f6f5701bb38846e7aeef31a74003c92e0352c40b95b49.png",
       "sha256": "f3f6188a93f055e3366f6f5701bb38846e7aeef31a74003c92e0352c40b95b49",
