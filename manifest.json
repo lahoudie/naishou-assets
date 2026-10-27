@@ -1207,11 +1207,6 @@
       "sha256": "3aa8725c30f74d27cbc5d98e817f85d3e48deb64c3287195a4eed7a6228ac358",
       "bytes": 232904
     },
-    "assets/wardrobe/jade-immortels/court-main-tailored.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/bd0b87c5be81246553c3b70ae6576e5d4855aecff3d1ef9347f99184c72fb168.png",
-      "sha256": "bd0b87c5be81246553c3b70ae6576e5d4855aecff3d1ef9347f99184c72fb168",
-      "bytes": 1011408
-    },
     "assets/wardrobe/jade-immortels/court-main.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/319578a87529574127103b2fcb61b686f34825c63a27ff79a2fb4a9f4fd64c9b.webp",
       "sha256": "319578a87529574127103b2fcb61b686f34825c63a27ff79a2fb4a9f4fd64c9b",
@@ -1228,9 +1223,9 @@
       "bytes": 420526
     },
     "assets/wardrobe/jade-immortels/court-shoes.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3becca297351535fb1a00be03e8441a8bf9fb4ccb132ad7272dccf5625032bdc.webp",
-      "sha256": "3becca297351535fb1a00be03e8441a8bf9fb4ccb132ad7272dccf5625032bdc",
-      "bytes": 23824
+      "url": "https://lahoudie.github.io/naishou-assets/objects/46ad06a75a241be168ef0a92c01ae353348996804e9ea3dbe85e68fac5c296e2.webp",
+      "sha256": "46ad06a75a241be168ef0a92c01ae353348996804e9ea3dbe85e68fac5c296e2",
+      "bytes": 15294
     },
     "assets/wardrobe/jade-immortels/jade-main.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/dbbc633cfd66a0ca13b3a1cb77ffc88a4b7a281fad468cfbefd3b8fb804a3fb1.webp",
@@ -1273,9 +1268,9 @@
       "bytes": 58778
     },
     "assets/wardrobe/jade-immortels/sage-main.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/77ad25935673f32292c26d4e65f4a06dd0553bc3be655d007dad7bd28f340fed.webp",
-      "sha256": "77ad25935673f32292c26d4e65f4a06dd0553bc3be655d007dad7bd28f340fed",
-      "bytes": 881594
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6817a605929383a270be702a3e8186e288c300c7ee902d4fbb77fb7069f165d5.webp",
+      "sha256": "6817a605929383a270be702a3e8186e288c300c7ee902d4fbb77fb7069f165d5",
+      "bytes": 887136
     },
     "assets/wardrobe/jade-immortels/sage-ornament.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/65f2dacdf9c2ab17ce9bf9e72d15f34aafbc9a9b8dff380dd34159f841721083.webp",
@@ -1353,9 +1348,9 @@
       "bytes": 16104
     },
     "assets/wardrobe/jade-immortels/thumb-outfit-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/98f39c646a76af3e5a401c875fe07eea535a2a9bf54c17b7235db4e1152bd440.webp",
-      "sha256": "98f39c646a76af3e5a401c875fe07eea535a2a9bf54c17b7235db4e1152bd440",
-      "bytes": 8696
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a2f7becac7758c1a290061e083fe7dac748847ded1fad4126979da58bd0ffef6.webp",
+      "sha256": "a2f7becac7758c1a290061e083fe7dac748847ded1fad4126979da58bd0ffef6",
+      "bytes": 14498
     },
     "assets/wardrobe/jade-immortels/thumb-outfit-jade-jade.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/dfe1c831fd48140a959efe62b9d893931564290db1603fbb4379b47c9f2f79da.webp",
@@ -1368,14 +1363,14 @@
       "bytes": 10024
     },
     "assets/wardrobe/jade-immortels/thumb-outfit-jade-sage.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a101faa42047edc3457ef1274c4dd2e1440e5a15fb923fd94eaf0c05523b68e9.webp",
-      "sha256": "a101faa42047edc3457ef1274c4dd2e1440e5a15fb923fd94eaf0c05523b68e9",
-      "bytes": 13568
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b4fe3e017b1d78613fe6f99ab93a63eb333990d5e4795c407bcb413aedb7c7e0.webp",
+      "sha256": "b4fe3e017b1d78613fe6f99ab93a63eb333990d5e4795c407bcb413aedb7c7e0",
+      "bytes": 13566
     },
     "assets/wardrobe/jade-immortels/thumb-shoes-jade-court.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eb82956892c683b224b7762b08f2b087b0d5fdf852635be12287d05a52b6813b.webp",
-      "sha256": "eb82956892c683b224b7762b08f2b087b0d5fdf852635be12287d05a52b6813b",
-      "bytes": 4534
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6850f855ddfc1a5099e5856a8a0676a9224b04736557a10de4e05b12938c405a.webp",
+      "sha256": "6850f855ddfc1a5099e5856a8a0676a9224b04736557a10de4e05b12938c405a",
+      "bytes": 5594
     },
     "assets/wardrobe/jade-immortels/thumb-shoes-jade-jade.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/50a66e0d8fa1cc70ac51a5b45dce93fa86344d8b91bcc87f143497351d15ad95.webp",
@@ -1748,9 +1743,9 @@
       "bytes": 676793
     },
     "assets/wardrobe/myriade-astres/hair-front.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e.png",
-      "sha256": "3da5547bc8515e6561c8794b24040c2dab6651e40794ef333fb8cdd99c64c92e",
-      "bytes": 437742
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e45234166428edb411123f1864ea13dbc8622f758e66012a95570bab9257bdba.png",
+      "sha256": "e45234166428edb411123f1864ea13dbc8622f758e66012a95570bab9257bdba",
+      "bytes": 471607
     },
     "assets/wardrobe/myriade-astres/mantle.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/b27b2d81b78d8d4d70fe3819c72697fd748a91684b7be9ed4c87e328033a0c33.png",
@@ -1773,14 +1768,14 @@
       "bytes": 36954
     },
     "assets/wardrobe/myriade-astres/robe.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809.png",
-      "sha256": "2794bc65f27ad9f3f7f4cdb6d7ff4d4cb7b052c0b96bb2961c1f053984b4b809",
-      "bytes": 1359182
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f29268c61c9de385fd8b4e64c905d7efb5c2a07801ff0c75170ed4bc6616cd22.png",
+      "sha256": "f29268c61c9de385fd8b4e64c905d7efb5c2a07801ff0c75170ed4bc6616cd22",
+      "bytes": 1377431
     },
     "assets/wardrobe/myriade-astres/thumb-hair-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1.webp",
-      "sha256": "963281c4d2bfae343c0fb0df8b497df08b8e032915c4561d5ea7195e75a0aae1",
-      "bytes": 16248
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f3af034ab1054af2690156b80149f118b12076eb0547ade803445b78c63d42c.webp",
+      "sha256": "0f3af034ab1054af2690156b80149f118b12076eb0547ade803445b78c63d42c",
+      "bytes": 16838
     },
     "assets/wardrobe/myriade-astres/thumb-misc2-myriade-companion.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/2df2efb913d3d8e30aa81dcf568346d3908d2645bfb19aecfc6985865c00cedd.webp",
@@ -1808,9 +1803,9 @@
       "bytes": 25166
     },
     "assets/wardrobe/myriade-astres/thumb-outfit-myriade-astres.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa.webp",
-      "sha256": "0be84742ddddb3c54d89157b7dcf25d9aca20fbb6e12d81219de7b6e1cb6c0fa",
-      "bytes": 19714
+      "url": "https://lahoudie.github.io/naishou-assets/objects/23817c68ef01781c8a07286eb4a81912e5c52a483881530b53f84a0315c0faf4.webp",
+      "sha256": "23817c68ef01781c8a07286eb4a81912e5c52a483881530b53f84a0315c0faf4",
+      "bytes": 19382
     },
     "assets/wardrobe/necklace-pilots/necklace-jade-drop.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f3f6188a93f055e3366f6f5701bb38846e7aeef31a74003c92e0352c40b95b49.png",
