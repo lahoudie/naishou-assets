@@ -597,6 +597,11 @@
       "sha256": "abcb4956783c885b94889270c74cf207e16ed023f66fac741c46326a91e827b6",
       "bytes": 1506713
     },
+    "assets/wardrobe/emerald-raven/cuirass-shoulders-v2.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e35ad5fc7d535d79162854049886bbf7ddcec3117ffb66c4bdde24922c333f42.png",
+      "sha256": "e35ad5fc7d535d79162854049886bbf7ddcec3117ffb66c4bdde24922c333f42",
+      "bytes": 287833
+    },
     "assets/wardrobe/emerald-raven/cuirass.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/9110ef1bd0793faae044a9b2d078cf3eea87be53ec1cf7f99f8d28012a0bf221.png",
       "sha256": "9110ef1bd0793faae044a9b2d078cf3eea87be53ec1cf7f99f8d28012a0bf221",
@@ -661,6 +666,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/e7678d2a7df5c71b8101f922272b7e4a9252a28315cb53a995d1d0f3ee119c24.webp",
       "sha256": "e7678d2a7df5c71b8101f922272b7e4a9252a28315cb53a995d1d0f3ee119c24",
       "bytes": 7032
+    },
+    "assets/wardrobe/emerald-raven/thumb-top-emerald-raven-v2.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b7844f5a1971c1dc2ff0c56f78938fef35e55c50876d8a6a21c9613e2567ca38.webp",
+      "sha256": "b7844f5a1971c1dc2ff0c56f78938fef35e55c50876d8a6a21c9613e2567ca38",
+      "bytes": 7070
     },
     "assets/wardrobe/emerald-raven/thumb-top-emerald-raven.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/d040e02eedcde3b78ff1f1cd72d9251c383ed80be59ba05134f1d0731c7e8a8a.webp",
@@ -4036,6 +4046,126 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/cf5adefc114479fd35af15ceefe411eaf5f84c786a37e0db7c8b912ec9d5f4e1.png",
       "sha256": "cf5adefc114479fd35af15ceefe411eaf5f84c786a37e0db7c8b912ec9d5f4e1",
       "bytes": 43890
+    },
+    "assets/wardrobe/war-collection/commander-armor.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/eafa05d8ec0d713412b89b911b71c68c0f993562e6790084a48192da6655c846.png",
+      "sha256": "eafa05d8ec0d713412b89b911b71c68c0f993562e6790084a48192da6655c846",
+      "bytes": 1892694
+    },
+    "assets/wardrobe/war-collection/commander-banner.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8c56223925c01b5f8a6c8cde1cd7904669240be6744e2b07a8aa40521d12b759.png",
+      "sha256": "8c56223925c01b5f8a6c8cde1cd7904669240be6744e2b07a8aa40521d12b759",
+      "bytes": 1052522
+    },
+    "assets/wardrobe/war-collection/commander-cape.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2787796dd3f331c1c621a3bf3bd2761cce687bb59da32338cf54446f05b25043.png",
+      "sha256": "2787796dd3f331c1c621a3bf3bd2761cce687bb59da32338cf54446f05b25043",
+      "bytes": 2324822
+    },
+    "assets/wardrobe/war-collection/commander-sword.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/921c4edba8cc229864fe12351f681c1e922a481dc8af6e13c04e9c16dc10df09.png",
+      "sha256": "921c4edba8cc229864fe12351f681c1e922a481dc8af6e13c04e9c16dc10df09",
+      "bytes": 1094524
+    },
+    "assets/wardrobe/war-collection/guard-armor.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/566736650f521d3a92fd2a9590e6364e5aeb0090ba62ffedd52dffc488c3e615.png",
+      "sha256": "566736650f521d3a92fd2a9590e6364e5aeb0090ba62ffedd52dffc488c3e615",
+      "bytes": 1926893
+    },
+    "assets/wardrobe/war-collection/guard-banner.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/926f5d2c388cc2be781569b1d85c1ea9e94d2d8a6e6f3efa3fa2cc5c560511e2.png",
+      "sha256": "926f5d2c388cc2be781569b1d85c1ea9e94d2d8a6e6f3efa3fa2cc5c560511e2",
+      "bytes": 1641761
+    },
+    "assets/wardrobe/war-collection/guard-cape.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cfdd4ae4987f91f2b962065e5bcfc53c5c67b387f0df33bc7a21c74df3696f44.png",
+      "sha256": "cfdd4ae4987f91f2b962065e5bcfc53c5c67b387f0df33bc7a21c74df3696f44",
+      "bytes": 2083712
+    },
+    "assets/wardrobe/war-collection/guard-sword.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9d4709b1b788050335e0e8196fcf31c8d27bba878e38d8bf4db232a5c158e31e.png",
+      "sha256": "9d4709b1b788050335e0e8196fcf31c8d27bba878e38d8bf4db232a5c158e31e",
+      "bytes": 1384835
+    },
+    "assets/wardrobe/war-collection/scout-armor.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/76e9c00be43765faed733439f877f35bbc58eb2dc0f0d521f96efd8307e09ea6.png",
+      "sha256": "76e9c00be43765faed733439f877f35bbc58eb2dc0f0d521f96efd8307e09ea6",
+      "bytes": 1870874
+    },
+    "assets/wardrobe/war-collection/scout-banner.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e9d0d08050fcf73d1c4b52c5e2ad15b488495ee0e5afbe90f3acaa2f9f15a924.png",
+      "sha256": "e9d0d08050fcf73d1c4b52c5e2ad15b488495ee0e5afbe90f3acaa2f9f15a924",
+      "bytes": 1718474
+    },
+    "assets/wardrobe/war-collection/scout-cape.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8601485c731066ca8feb0d1f53b851dfce85801a85f88202d2d5dfc050311715.png",
+      "sha256": "8601485c731066ca8feb0d1f53b851dfce85801a85f88202d2d5dfc050311715",
+      "bytes": 2260755
+    },
+    "assets/wardrobe/war-collection/scout-sword.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4d107ec7c238f4fed037e19dc17080adcac8d6beb33b395850137a9d5ee8fbe9.png",
+      "sha256": "4d107ec7c238f4fed037e19dc17080adcac8d6beb33b395850137a9d5ee8fbe9",
+      "bytes": 1320453
+    },
+    "assets/wardrobe/war-collection/thumb-equipment-war-commander.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/527cf5ad46c4a48f0b3c78a23f08d4d827dc059ae944b028cd03a4d0d64ca921.webp",
+      "sha256": "527cf5ad46c4a48f0b3c78a23f08d4d827dc059ae944b028cd03a4d0d64ca921",
+      "bytes": 9024
+    },
+    "assets/wardrobe/war-collection/thumb-equipment-war-guard.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d8130b3397d16023cf5335994e934e6269ad19492eefcd6e44233a26658e5744.webp",
+      "sha256": "d8130b3397d16023cf5335994e934e6269ad19492eefcd6e44233a26658e5744",
+      "bytes": 8974
+    },
+    "assets/wardrobe/war-collection/thumb-equipment-war-scout.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8881a40d9dcee9ff3883a3cbad9710835e6221c610488c7fd3a084d4747015bc.webp",
+      "sha256": "8881a40d9dcee9ff3883a3cbad9710835e6221c610488c7fd3a084d4747015bc",
+      "bytes": 8988
+    },
+    "assets/wardrobe/war-collection/thumb-misc2-war-commander.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9039f3001dc6cf0fb91b0d63844b7cf45356a3becb62a76bc621ad2974956ea3.webp",
+      "sha256": "9039f3001dc6cf0fb91b0d63844b7cf45356a3becb62a76bc621ad2974956ea3",
+      "bytes": 11354
+    },
+    "assets/wardrobe/war-collection/thumb-misc2-war-guard.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d15faf9534ebe06183911df2ee28b0874919eb0c51f119931bde84225df41283.webp",
+      "sha256": "d15faf9534ebe06183911df2ee28b0874919eb0c51f119931bde84225df41283",
+      "bytes": 11186
+    },
+    "assets/wardrobe/war-collection/thumb-misc2-war-scout.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/90a79bba519edf9d10d045cf956b18f10441c74fcf526e0ab71544fb3b21f0ec.webp",
+      "sha256": "90a79bba519edf9d10d045cf956b18f10441c74fcf526e0ab71544fb3b21f0ec",
+      "bytes": 10164
+    },
+    "assets/wardrobe/war-collection/thumb-outer-war-commander.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d2070ff840d1c2629f36e6624a95132b608361ca17e8fd2dfe411545127597a6.webp",
+      "sha256": "d2070ff840d1c2629f36e6624a95132b608361ca17e8fd2dfe411545127597a6",
+      "bytes": 11618
+    },
+    "assets/wardrobe/war-collection/thumb-outer-war-guard.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f6900681030e5baa7fe24baf3b36d94835a2076195385e388b398bec01266be5.webp",
+      "sha256": "f6900681030e5baa7fe24baf3b36d94835a2076195385e388b398bec01266be5",
+      "bytes": 11688
+    },
+    "assets/wardrobe/war-collection/thumb-outer-war-scout.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/03e91322db6a32de63f3078007a642ffa76bec14ede3fb99c581deb522713f2a.webp",
+      "sha256": "03e91322db6a32de63f3078007a642ffa76bec14ede3fb99c581deb522713f2a",
+      "bytes": 11960
+    },
+    "assets/wardrobe/war-collection/thumb-outfit-war-commander.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f0cc88d562f292c21926d22b89d0597e228ba01114b60145cb706e01ef3bcecc.webp",
+      "sha256": "f0cc88d562f292c21926d22b89d0597e228ba01114b60145cb706e01ef3bcecc",
+      "bytes": 10430
+    },
+    "assets/wardrobe/war-collection/thumb-outfit-war-guard.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a25ef4bf8daa21031acca4cfb134725f5434e012b77509deb12ad490ff9630ab.webp",
+      "sha256": "a25ef4bf8daa21031acca4cfb134725f5434e012b77509deb12ad490ff9630ab",
+      "bytes": 10228
+    },
+    "assets/wardrobe/war-collection/thumb-outfit-war-scout.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957.webp",
+      "sha256": "9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957",
+      "bytes": 9690
     },
     "assets/portraits/akari.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc.webp",
