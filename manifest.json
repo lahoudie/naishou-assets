@@ -1082,6 +1082,91 @@
       "sha256": "bf6b772d48879c801c9a5b05a2e3eebc9e2faac21c27c9b597558187ba9ff2b9",
       "bytes": 1393864
     },
+    "assets/wardrobe/lotus-celeste/belt.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1080379ad44fd94c439b1822bf76508f57071dca010c9b6cc9ceb07a0e4a3069.png",
+      "sha256": "1080379ad44fd94c439b1822bf76508f57071dca010c9b6cc9ceb07a0e4a3069",
+      "bytes": 156727
+    },
+    "assets/wardrobe/lotus-celeste/crown.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/05838e74ea7b46906b8321f6a51eb8036fb4ed3ab21d6ded7f87d3e1f5007e02.png",
+      "sha256": "05838e74ea7b46906b8321f6a51eb8036fb4ed3ab21d6ded7f87d3e1f5007e02",
+      "bytes": 44340
+    },
+    "assets/wardrobe/lotus-celeste/dress.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/307139922329d2c5fa88250441d2dd2224f01bf95cbfd0b433642e2efebc3d17.png",
+      "sha256": "307139922329d2c5fa88250441d2dd2224f01bf95cbfd0b433642e2efebc3d17",
+      "bytes": 1803571
+    },
+    "assets/wardrobe/lotus-celeste/earrings.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f7daa5caec7044459f242859d8ddc3639167bebc300e87c1a60f811572c8e612.png",
+      "sha256": "f7daa5caec7044459f242859d8ddc3639167bebc300e87c1a60f811572c8e612",
+      "bytes": 15947
+    },
+    "assets/wardrobe/lotus-celeste/lanterns.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/26bd5dee60979f4b67da14c5311a28eb85902e5af54fb015647506cbcdc246b0.png",
+      "sha256": "26bd5dee60979f4b67da14c5311a28eb85902e5af54fb015647506cbcdc246b0",
+      "bytes": 385949
+    },
+    "assets/wardrobe/lotus-celeste/mandala.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1a96b4e2f3f2e5b22f15d9fb0ca40b70af4fc2e724309e91ae3a57afc7b25f67.png",
+      "sha256": "1a96b4e2f3f2e5b22f15d9fb0ca40b70af4fc2e724309e91ae3a57afc7b25f67",
+      "bytes": 696941
+    },
+    "assets/wardrobe/lotus-celeste/necklace.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dfdab74f0cb3ac48c08b2f0794755b38ffe3c46ec8ad4e1e881ed0a4f82c4ed6.png",
+      "sha256": "dfdab74f0cb3ac48c08b2f0794755b38ffe3c46ec8ad4e1e881ed0a4f82c4ed6",
+      "bytes": 26510
+    },
+    "assets/wardrobe/lotus-celeste/pedestal.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6089fac2b2a985aadb7abeddd8aece622f639abd5d790574028344c5a06ce010.png",
+      "sha256": "6089fac2b2a985aadb7abeddd8aece622f639abd5d790574028344c5a06ce010",
+      "bytes": 190930
+    },
+    "assets/wardrobe/lotus-celeste/stole.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/38c90f81772f121f02c0410834aa3db116287623e1ece5f25bec1807f80c6fe4.png",
+      "sha256": "38c90f81772f121f02c0410834aa3db116287623e1ece5f25bec1807f80c6fe4",
+      "bytes": 1283393
+    },
+    "assets/wardrobe/lotus-celeste/thumb-earrings-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5b867922c6e1758e83d7ded00be46a3f8fba42b5d43e19e32b8f950ea44ecb7c.webp",
+      "sha256": "5b867922c6e1758e83d7ded00be46a3f8fba42b5d43e19e32b8f950ea44ecb7c",
+      "bytes": 4902
+    },
+    "assets/wardrobe/lotus-celeste/thumb-equipment-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7485381ab89521f7ae4d792615923e619960445d0baa52abc83526bbb4e7b202.webp",
+      "sha256": "7485381ab89521f7ae4d792615923e619960445d0baa52abc83526bbb4e7b202",
+      "bytes": 6734
+    },
+    "assets/wardrobe/lotus-celeste/thumb-misc2-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1d002fce12622ff956b0086cf54c07e3cf6b1e62544fef4ba50b531bce082a52.webp",
+      "sha256": "1d002fce12622ff956b0086cf54c07e3cf6b1e62544fef4ba50b531bce082a52",
+      "bytes": 7950
+    },
+    "assets/wardrobe/lotus-celeste/thumb-necklace-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f7f90bac1566c304f77fcfa29c3bf95ef9cc5927a57ca5fc558df524e2509c88.webp",
+      "sha256": "f7f90bac1566c304f77fcfa29c3bf95ef9cc5927a57ca5fc558df524e2509c88",
+      "bytes": 12522
+    },
+    "assets/wardrobe/lotus-celeste/thumb-obi-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/27c643c6c074e8fb361f2f4dcefc7d89bec6b949fe95f85744ffe20ee2002b25.webp",
+      "sha256": "27c643c6c074e8fb361f2f4dcefc7d89bec6b949fe95f85744ffe20ee2002b25",
+      "bytes": 15944
+    },
+    "assets/wardrobe/lotus-celeste/thumb-ornament-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c4acdd36489b583da2d7ba2457be675cef6d7c17f3f5f1d8c8e210d856e9480b.webp",
+      "sha256": "c4acdd36489b583da2d7ba2457be675cef6d7c17f3f5f1d8c8e210d856e9480b",
+      "bytes": 11612
+    },
+    "assets/wardrobe/lotus-celeste/thumb-outer-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9fc4ca5dfbbc982d05cd509ce9b02173394f58eb99e971ef2f97d7e5cf359d90.webp",
+      "sha256": "9fc4ca5dfbbc982d05cd509ce9b02173394f58eb99e971ef2f97d7e5cf359d90",
+      "bytes": 19836
+    },
+    "assets/wardrobe/lotus-celeste/thumb-outfit-lotus-celeste.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fcbe9f87259c8e61c1c68edab8324bacd6f54e7bf898c5f520dbd414339e6097.webp",
+      "sha256": "fcbe9f87259c8e61c1c68edab8324bacd6f54e7bf898c5f520dbd414339e6097",
+      "bytes": 21520
+    },
     "assets/wardrobe/misc1-pilots/misc1-cat-yarn.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f2971d5cfd5859f437098c1e1fe506c3bdaa0a40f89eb88ee1b8830ce56cea81.png",
       "sha256": "f2971d5cfd5859f437098c1e1fe506c3bdaa0a40f89eb88ee1b8830ce56cea81",
