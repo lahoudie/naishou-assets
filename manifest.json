@@ -597,6 +597,21 @@
       "sha256": "abcb4956783c885b94889270c74cf207e16ed023f66fac741c46326a91e827b6",
       "bytes": 1506713
     },
+    "assets/wardrobe/emerald-raven/cuirass-collar-back-v3.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a400fbb40d6a86e3c044b4f7a960fdfb4e8ef7d65a3044fecea86ec1605169ac.png",
+      "sha256": "a400fbb40d6a86e3c044b4f7a960fdfb4e8ef7d65a3044fecea86ec1605169ac",
+      "bytes": 12126
+    },
+    "assets/wardrobe/emerald-raven/cuirass-front-v3.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a87340ef15c8c66ed90b089eff9626947ca1a7943797efbdccda7cc99268fe69.png",
+      "sha256": "a87340ef15c8c66ed90b089eff9626947ca1a7943797efbdccda7cc99268fe69",
+      "bytes": 282961
+    },
+    "assets/wardrobe/emerald-raven/cuirass-shoulders-v2.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e35ad5fc7d535d79162854049886bbf7ddcec3117ffb66c4bdde24922c333f42.png",
+      "sha256": "e35ad5fc7d535d79162854049886bbf7ddcec3117ffb66c4bdde24922c333f42",
+      "bytes": 287833
+    },
     "assets/wardrobe/emerald-raven/cuirass.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/9110ef1bd0793faae044a9b2d078cf3eea87be53ec1cf7f99f8d28012a0bf221.png",
       "sha256": "9110ef1bd0793faae044a9b2d078cf3eea87be53ec1cf7f99f8d28012a0bf221",
@@ -661,6 +676,16 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/e7678d2a7df5c71b8101f922272b7e4a9252a28315cb53a995d1d0f3ee119c24.webp",
       "sha256": "e7678d2a7df5c71b8101f922272b7e4a9252a28315cb53a995d1d0f3ee119c24",
       "bytes": 7032
+    },
+    "assets/wardrobe/emerald-raven/thumb-top-emerald-raven-v2.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b7844f5a1971c1dc2ff0c56f78938fef35e55c50876d8a6a21c9613e2567ca38.webp",
+      "sha256": "b7844f5a1971c1dc2ff0c56f78938fef35e55c50876d8a6a21c9613e2567ca38",
+      "bytes": 7070
+    },
+    "assets/wardrobe/emerald-raven/thumb-top-emerald-raven-v3.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7809322fc460df991e7dafa48a76da2253e40191c58b0bbfc2a1ee2ca5d3343a.webp",
+      "sha256": "7809322fc460df991e7dafa48a76da2253e40191c58b0bbfc2a1ee2ca5d3343a",
+      "bytes": 14750
     },
     "assets/wardrobe/emerald-raven/thumb-top-emerald-raven.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/d040e02eedcde3b78ff1f1cd72d9251c383ed80be59ba05134f1d0731c7e8a8a.webp",
@@ -728,9 +753,9 @@
       "bytes": 38642
     },
     "assets/wardrobe/forest-wayfarer/hair-back.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/69da52f198446f5705b167d3e59751b9c9c109f6bcf0754e3ca0162d1afbfefe.png",
-      "sha256": "69da52f198446f5705b167d3e59751b9c9c109f6bcf0754e3ca0162d1afbfefe",
-      "bytes": 582619
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fa6d4549c6f2dd6cb45e40fb4161c62f04fc20081d4837467878248d622bf992.png",
+      "sha256": "fa6d4549c6f2dd6cb45e40fb4161c62f04fc20081d4837467878248d622bf992",
+      "bytes": 571400
     },
     "assets/wardrobe/forest-wayfarer/hair-front.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/fa7c42e8114539981cfca796bc807dae1d985777a89a3eca85231b8bfcda364d.png",
@@ -763,9 +788,9 @@
       "bytes": 7440
     },
     "assets/wardrobe/forest-wayfarer/thumb-hair-forest-wayfarer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0f6b432e6934525bfe90ee587c4c75350a3de3744f2aa00dd34cac9f30522943.webp",
-      "sha256": "0f6b432e6934525bfe90ee587c4c75350a3de3744f2aa00dd34cac9f30522943",
-      "bytes": 36356
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1f1ff46296b1d70ed6945a46174df47d4ffde67b81bd6d524691720a3bcaded6.webp",
+      "sha256": "1f1ff46296b1d70ed6945a46174df47d4ffde67b81bd6d524691720a3bcaded6",
+      "bytes": 18808
     },
     "assets/wardrobe/forest-wayfarer/thumb-obi-forest-wayfarer.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/bac1491da801ceac5a5c183fafa1f8cf7cff6d7da773fb3caf67b19f24edaa35.webp",
