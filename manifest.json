@@ -4941,6 +4941,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/97eed6e74cb8fdb99e305cbda959dfdd07bd0eca16f8e907f2e64e1ec371430e.png",
       "sha256": "97eed6e74cb8fdb99e305cbda959dfdd07bd0eca16f8e907f2e64e1ec371430e",
       "bytes": 21100
+    },
+    "assets/portraits/kawa-no-taisho-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735.webp",
+      "sha256": "88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735",
+      "bytes": 1024338
     }
   }
 }
