@@ -758,9 +758,9 @@
       "bytes": 554911
     },
     "assets/wardrobe/forest-wayfarer/hair-front.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f9955ff11e9a3ec05d5642a2d9ed6f618d7d3a6095b4d3d4f524768777e56596.png",
-      "sha256": "f9955ff11e9a3ec05d5642a2d9ed6f618d7d3a6095b4d3d4f524768777e56596",
-      "bytes": 380165
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ba1159248282ae9cb282de14f90c9e3828bb17bf28114212db979e0624a2f958.png",
+      "sha256": "ba1159248282ae9cb282de14f90c9e3828bb17bf28114212db979e0624a2f958",
+      "bytes": 377561
     },
     "assets/wardrobe/forest-wayfarer/lantern.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/e8f54b711d636fc99e635a301ac1d4a03db5a80f4860d3fb3f022d2149b6c5fd.png",
@@ -788,9 +788,9 @@
       "bytes": 7440
     },
     "assets/wardrobe/forest-wayfarer/thumb-hair-forest-wayfarer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4233d3c2af756a8cea464d49b6d6c832c425f3ea17213ad6f5ce1dcabab926be.webp",
-      "sha256": "4233d3c2af756a8cea464d49b6d6c832c425f3ea17213ad6f5ce1dcabab926be",
-      "bytes": 34524
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6c22d075dd07f7acc3da007011aeac2af3fca68af46c061293d496c6273b86f7.webp",
+      "sha256": "6c22d075dd07f7acc3da007011aeac2af3fca68af46c061293d496c6273b86f7",
+      "bytes": 34324
     },
     "assets/wardrobe/forest-wayfarer/thumb-obi-forest-wayfarer.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/bac1491da801ceac5a5c183fafa1f8cf7cff6d7da773fb3caf67b19f24edaa35.webp",
@@ -1011,6 +1011,141 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/3c80f661cc5250dc89ba1a719c5f8b98735d32ab6dffe660b9af4ad4d9480114.webp",
       "sha256": "3c80f661cc5250dc89ba1a719c5f8b98735d32ab6dffe660b9af4ad4d9480114",
       "bytes": 1292338
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-boots.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d210883849f8ebe015af16ae74cfe8541a3416bfd924f8f3534c0fad723537c0.png",
+      "sha256": "d210883849f8ebe015af16ae74cfe8541a3416bfd924f8f3534c0fad723537c0",
+      "bytes": 59182
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-cape-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8cd84aeaf572b7e71dc60c733a95ca22cbd49a335dcb9f35a927540d65c02ab3.png",
+      "sha256": "8cd84aeaf572b7e71dc60c733a95ca22cbd49a335dcb9f35a927540d65c02ab3",
+      "bytes": 817205
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-cape-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0cc156c27eafdccda1f56bef20955199413662901386a99d92e5483906572995.png",
+      "sha256": "0cc156c27eafdccda1f56bef20955199413662901386a99d92e5483906572995",
+      "bytes": 96502
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-collar-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/44db8ccf1b80087529cf6beea98a6342d104c7d11d71bfb4947c4cbae07f15f5.png",
+      "sha256": "44db8ccf1b80087529cf6beea98a6342d104c7d11d71bfb4947c4cbae07f15f5",
+      "bytes": 282998
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-plume.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f94740fb6d3ce1bc500a04c5335ce4bb6155b36b12970266339cbb4c8298ec02.png",
+      "sha256": "f94740fb6d3ce1bc500a04c5335ce4bb6155b36b12970266339cbb4c8298ec02",
+      "bytes": 23949
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-rapier.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8f185badf27ae23d9b4e94137fb0cea5cc55d9cf8f8e7f9092ac2225b34ee28d.png",
+      "sha256": "8f185badf27ae23d9b4e94137fb0cea5cc55d9cf8f8e7f9092ac2225b34ee28d",
+      "bytes": 72610
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-top.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f40397c512b6838592f4096d945eb39ebd6d23f12091ab3a05f3ee245b9c05a1.png",
+      "sha256": "f40397c512b6838592f4096d945eb39ebd6d23f12091ab3a05f3ee245b9c05a1",
+      "bytes": 297593
+    },
+    "assets/wardrobe/gold-and-burgundy/duel-trousers.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/64c434c84f63fc6cce03ac19addbe2c6879f8522fdf7702d4a2021ffb649ebd1.png",
+      "sha256": "64c434c84f63fc6cce03ac19addbe2c6879f8522fdf7702d4a2021ffb649ebd1",
+      "bytes": 388059
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-boots.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d88dab6bc25d5961fc10f629cdd1947a51071e24b639a757e6f03b11f988ea5e.png",
+      "sha256": "d88dab6bc25d5961fc10f629cdd1947a51071e24b639a757e6f03b11f988ea5e",
+      "bytes": 262425
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-bracers.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/965bbbb272c1173b70357b3df6cc1b8260296e93dd957343f5c3405a6de9fd70.png",
+      "sha256": "965bbbb272c1173b70357b3df6cc1b8260296e93dd957343f5c3405a6de9fd70",
+      "bytes": 100131
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-cape-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cfac3f7004f5bf603b7d34219dd26c619cb4870613f2bba6ba14ba13ad800eee.png",
+      "sha256": "cfac3f7004f5bf603b7d34219dd26c619cb4870613f2bba6ba14ba13ad800eee",
+      "bytes": 1048629
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-cape-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/589746860ba38caee6e8ee5c1c563f7049b810a9f6c470ca5fb67fdf6f2724e5.png",
+      "sha256": "589746860ba38caee6e8ee5c1c563f7049b810a9f6c470ca5fb67fdf6f2724e5",
+      "bytes": 113546
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-crown.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/00ea4c49bd8a5d1b17423ac415fad88a9cc422c998d5efc60e6cc28bf2eaa8b9.png",
+      "sha256": "00ea4c49bd8a5d1b17423ac415fad88a9cc422c998d5efc60e6cc28bf2eaa8b9",
+      "bytes": 15963
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-main.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e223ca759a6d092ef74fa719389c61a7a327ba2a6a5530b82fe50f72c7d4d5de.png",
+      "sha256": "e223ca759a6d092ef74fa719389c61a7a327ba2a6a5530b82fe50f72c7d4d5de",
+      "bytes": 373972
+    },
+    "assets/wardrobe/gold-and-burgundy/gold-sword.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9d97bc25cb4946852ef6b01bb82ec9b830d3a2546d87d5bbf15083ecb8d03924.png",
+      "sha256": "9d97bc25cb4946852ef6b01bb82ec9b830d3a2546d87d5bbf15083ecb8d03924",
+      "bytes": 150142
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-access-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/78c798482f333e926b015d9675cf432c811bb7ff46a48eaec201bbdefaaf9f81.webp",
+      "sha256": "78c798482f333e926b015d9675cf432c811bb7ff46a48eaec201bbdefaaf9f81",
+      "bytes": 6210
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-equipment-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f0849894b2ca4bec511e7964e8969438a061592f47068d38c4ecc2ce6be926db.webp",
+      "sha256": "f0849894b2ca4bec511e7964e8969438a061592f47068d38c4ecc2ce6be926db",
+      "bytes": 4134
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-equipment-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c9acc89f2ce698681165bf91087f346021a85b140e3243da7bcae2e09bdf7bf0.webp",
+      "sha256": "c9acc89f2ce698681165bf91087f346021a85b140e3243da7bcae2e09bdf7bf0",
+      "bytes": 5616
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-ornament-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/40703fea4318def8560556dcfc555b4d58c426bad9cd6e25a76753954fcc9e3b.webp",
+      "sha256": "40703fea4318def8560556dcfc555b4d58c426bad9cd6e25a76753954fcc9e3b",
+      "bytes": 14618
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-ornament-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b7f8e1079eaa5d5e228b7589032d60fd61e3228c80ac1401e732533398f37735.webp",
+      "sha256": "b7f8e1079eaa5d5e228b7589032d60fd61e3228c80ac1401e732533398f37735",
+      "bytes": 10714
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-outer-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4345c2eda7c0c25c10a79477894d393206473739e66d0d25e339663fd2906739.webp",
+      "sha256": "4345c2eda7c0c25c10a79477894d393206473739e66d0d25e339663fd2906739",
+      "bytes": 13806
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-outer-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9f1a54106287a7a704e24a517087169519912d04e46ed447e0f54f3f89f91683.webp",
+      "sha256": "9f1a54106287a7a704e24a517087169519912d04e46ed447e0f54f3f89f91683",
+      "bytes": 17484
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-outfit-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c8b95b8bd9fd0674c2f19df8914e2585eaccc53d9c7b5fa78d72b0a6c266b6bb.webp",
+      "sha256": "c8b95b8bd9fd0674c2f19df8914e2585eaccc53d9c7b5fa78d72b0a6c266b6bb",
+      "bytes": 15490
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-shoes-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/50753685f01cc2e4fbd191ee5a12afa510eefcf9b6baca0e4981866370d1f0ca.webp",
+      "sha256": "50753685f01cc2e4fbd191ee5a12afa510eefcf9b6baca0e4981866370d1f0ca",
+      "bytes": 16076
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-shoes-gold-dawn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/de92eac7e6863d3316863f8c167b536e001709cdad8d8b6dde49a1541cc3a477.webp",
+      "sha256": "de92eac7e6863d3316863f8c167b536e001709cdad8d8b6dde49a1541cc3a477",
+      "bytes": 14124
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-top-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f0fb8a9a8b08aa2c27b460c187be344f8901634c2f17d6ffe5c51f00c790c510.webp",
+      "sha256": "f0fb8a9a8b08aa2c27b460c187be344f8901634c2f17d6ffe5c51f00c790c510",
+      "bytes": 14914
+    },
+    "assets/wardrobe/gold-and-burgundy/thumb-trousers-burgundy-duel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/93cc709e034dca84436e0a3bcf8996540d52df5301cee7de89f90292c406c311.webp",
+      "sha256": "93cc709e034dca84436e0a3bcf8996540d52df5301cee7de89f90292c406c311",
+      "bytes": 8032
     },
     "assets/wardrobe/hair-braid-back.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/84740f62b71613726ebbf31825df972532c5df748929310d4cc5ae5acda50f9e.png",
@@ -2158,9 +2293,9 @@
       "bytes": 14454
     },
     "assets/wardrobe/raven-wanderer/thumb-trousers-raven-leather.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e4e6e05bc9da3a7d92f8a6a50d9cff0f7fd9e2f746d0ac1717e279cca7ba5525.webp",
-      "sha256": "e4e6e05bc9da3a7d92f8a6a50d9cff0f7fd9e2f746d0ac1717e279cca7ba5525",
-      "bytes": 8412
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cf41c0cd5aabd84ab0a94e6a44898c94d99c8f568c68b71cc0ac21e6e194710e.webp",
+      "sha256": "cf41c0cd5aabd84ab0a94e6a44898c94d99c8f568c68b71cc0ac21e6e194710e",
+      "bytes": 8526
     },
     "assets/wardrobe/raven-wanderer/top.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/181d1dbd581a4c4894497b79e97bff215ba5a8a0aba5a87434ffa6daca9219fa.png",
@@ -2168,9 +2303,9 @@
       "bytes": 164379
     },
     "assets/wardrobe/raven-wanderer/trousers.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/92da7c363de0c585a3d0ff92e5d532ce7f2fd705d4c950d7b3494ec2aeb61f60.png",
-      "sha256": "92da7c363de0c585a3d0ff92e5d532ce7f2fd705d4c950d7b3494ec2aeb61f60",
-      "bytes": 455814
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b01ab3e2bbf4f8a6d0571d751d23bb25fa1a4e75bc0202079f2213dc8b298fc1.png",
+      "sha256": "b01ab3e2bbf4f8a6d0571d751d23bb25fa1a4e75bc0202079f2213dc8b298fc1",
+      "bytes": 456216
     },
     "assets/wardrobe/ritual-spirits/crimson-crown.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/8603665a45dd43bada37ecf0f98841c13eb79c1d7fe66463f95d2f956a6104ba.png",
