@@ -2,6 +2,61 @@
   "repository": "lahoudie/naishou-assets",
   "baseUrl": "https://lahoudie.github.io/naishou-assets/",
   "files": {
+    "assets/wardrobe/abysses/bas-et-bottes.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5f7876e0c50330a796d1d091a71a9c929d846ad2137c60cc882b5b8d7941995b.png",
+      "sha256": "5f7876e0c50330a796d1d091a71a9c929d846ad2137c60cc882b5b8d7941995b",
+      "bytes": 428245
+    },
+    "assets/wardrobe/abysses/couronne.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/542dbd621f4994864c0cee62228f376563b6becf5586e534261c4bed2437b561.png",
+      "sha256": "542dbd621f4994864c0cee62228f376563b6becf5586e534261c4bed2437b561",
+      "bytes": 60645
+    },
+    "assets/wardrobe/abysses/robe-arriere.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/092bc590110f36a60462d02cbbd688f87c59c603937caae3d4a7873e3da5b55a.png",
+      "sha256": "092bc590110f36a60462d02cbbd688f87c59c603937caae3d4a7873e3da5b55a",
+      "bytes": 57902
+    },
+    "assets/wardrobe/abysses/robe-avant.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/76aed327763c25b087660d176d88052172680d5975a03414714ebff41dcd18cd.png",
+      "sha256": "76aed327763c25b087660d176d88052172680d5975a03414714ebff41dcd18cd",
+      "bytes": 1238412
+    },
+    "assets/wardrobe/abysses/tentacules-arriere.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ede277fc0ba822842488089f87bc708de32f0bb8e8688bd832f09e462859968d.png",
+      "sha256": "ede277fc0ba822842488089f87bc708de32f0bb8e8688bd832f09e462859968d",
+      "bytes": 2403743
+    },
+    "assets/wardrobe/abysses/thumb-equipment-abysses-trident.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c45b42df22fe6b7a6584a035338f266982d4de93c956ac4cfcd56d31bad7b22a.webp",
+      "sha256": "c45b42df22fe6b7a6584a035338f266982d4de93c956ac4cfcd56d31bad7b22a",
+      "bytes": 6066
+    },
+    "assets/wardrobe/abysses/thumb-misc2-abysses-tentacles.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a30011919e4da180df283f8c8fb4a03760faebbc984144af51ee6ce8d0b7c35f.webp",
+      "sha256": "a30011919e4da180df283f8c8fb4a03760faebbc984144af51ee6ce8d0b7c35f",
+      "bytes": 24270
+    },
+    "assets/wardrobe/abysses/thumb-ornament-abysses.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9bc621abd231ceedd4d847b5e0b13fa1fd6b546b27fa8f2a2dd6a8eed2310ddb.webp",
+      "sha256": "9bc621abd231ceedd4d847b5e0b13fa1fd6b546b27fa8f2a2dd6a8eed2310ddb",
+      "bytes": 28240
+    },
+    "assets/wardrobe/abysses/thumb-outfit-abysses.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ca61fad3608a2cc50ee9d7e172dfc3b00d4357ea35aec13bcaef1075a1a4dd48.webp",
+      "sha256": "ca61fad3608a2cc50ee9d7e172dfc3b00d4357ea35aec13bcaef1075a1a4dd48",
+      "bytes": 23018
+    },
+    "assets/wardrobe/abysses/thumb-shoes-abysses.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d9ed1bd1b969f9e5a61564d5347dbd023bce10dd0162d6a01b533fe6c302d154.webp",
+      "sha256": "d9ed1bd1b969f9e5a61564d5347dbd023bce10dd0162d6a01b533fe6c302d154",
+      "bytes": 8752
+    },
+    "assets/wardrobe/abysses/trident.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bb0995af93ec8b38d02259320e1068d1685253ae5aa26bd21f892e3896c93b2b.png",
+      "sha256": "bb0995af93ec8b38d02259320e1068d1685253ae5aa26bd21f892e3896c93b2b",
+      "bytes": 232612
+    },
     "assets/wardrobe/access-fan.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/4025e70cc634cbc1380a17f3a10274b9f3e53c25a5d62cae90b668e922e6bc85.png",
       "sha256": "4025e70cc634cbc1380a17f3a10274b9f3e53c25a5d62cae90b668e922e6bc85",
@@ -5086,6 +5141,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd.webp",
       "sha256": "1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd",
       "bytes": 373596
+    },
+    "assets/portraits/naia-med-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
+      "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
+      "bytes": 241751
     },
     "assets/portraits/satoru.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6.png",
