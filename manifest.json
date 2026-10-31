@@ -753,14 +753,14 @@
       "bytes": 38642
     },
     "assets/wardrobe/forest-wayfarer/hair-back.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/fa6d4549c6f2dd6cb45e40fb4161c62f04fc20081d4837467878248d622bf992.png",
-      "sha256": "fa6d4549c6f2dd6cb45e40fb4161c62f04fc20081d4837467878248d622bf992",
-      "bytes": 571400
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c66557a9d9a6648bfec4237bbe290e8710bd6967e70db3d68c8db5aa34939eab.png",
+      "sha256": "c66557a9d9a6648bfec4237bbe290e8710bd6967e70db3d68c8db5aa34939eab",
+      "bytes": 554911
     },
     "assets/wardrobe/forest-wayfarer/hair-front.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/fa7c42e8114539981cfca796bc807dae1d985777a89a3eca85231b8bfcda364d.png",
-      "sha256": "fa7c42e8114539981cfca796bc807dae1d985777a89a3eca85231b8bfcda364d",
-      "bytes": 399890
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f9955ff11e9a3ec05d5642a2d9ed6f618d7d3a6095b4d3d4f524768777e56596.png",
+      "sha256": "f9955ff11e9a3ec05d5642a2d9ed6f618d7d3a6095b4d3d4f524768777e56596",
+      "bytes": 380165
     },
     "assets/wardrobe/forest-wayfarer/lantern.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/e8f54b711d636fc99e635a301ac1d4a03db5a80f4860d3fb3f022d2149b6c5fd.png",
@@ -788,9 +788,9 @@
       "bytes": 7440
     },
     "assets/wardrobe/forest-wayfarer/thumb-hair-forest-wayfarer.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1f1ff46296b1d70ed6945a46174df47d4ffde67b81bd6d524691720a3bcaded6.webp",
-      "sha256": "1f1ff46296b1d70ed6945a46174df47d4ffde67b81bd6d524691720a3bcaded6",
-      "bytes": 18808
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4233d3c2af756a8cea464d49b6d6c832c425f3ea17213ad6f5ce1dcabab926be.webp",
+      "sha256": "4233d3c2af756a8cea464d49b6d6c832c425f3ea17213ad6f5ce1dcabab926be",
+      "bytes": 34524
     },
     "assets/wardrobe/forest-wayfarer/thumb-obi-forest-wayfarer.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/bac1491da801ceac5a5c183fafa1f8cf7cff6d7da773fb3caf67b19f24edaa35.webp",
@@ -2158,9 +2158,9 @@
       "bytes": 14454
     },
     "assets/wardrobe/raven-wanderer/thumb-trousers-raven-leather.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/cf41c0cd5aabd84ab0a94e6a44898c94d99c8f568c68b71cc0ac21e6e194710e.webp",
-      "sha256": "cf41c0cd5aabd84ab0a94e6a44898c94d99c8f568c68b71cc0ac21e6e194710e",
-      "bytes": 8526
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e4e6e05bc9da3a7d92f8a6a50d9cff0f7fd9e2f746d0ac1717e279cca7ba5525.webp",
+      "sha256": "e4e6e05bc9da3a7d92f8a6a50d9cff0f7fd9e2f746d0ac1717e279cca7ba5525",
+      "bytes": 8412
     },
     "assets/wardrobe/raven-wanderer/top.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/181d1dbd581a4c4894497b79e97bff215ba5a8a0aba5a87434ffa6daca9219fa.png",
@@ -2168,9 +2168,9 @@
       "bytes": 164379
     },
     "assets/wardrobe/raven-wanderer/trousers.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b01ab3e2bbf4f8a6d0571d751d23bb25fa1a4e75bc0202079f2213dc8b298fc1.png",
-      "sha256": "b01ab3e2bbf4f8a6d0571d751d23bb25fa1a4e75bc0202079f2213dc8b298fc1",
-      "bytes": 456216
+      "url": "https://lahoudie.github.io/naishou-assets/objects/92da7c363de0c585a3d0ff92e5d532ce7f2fd705d4c950d7b3494ec2aeb61f60.png",
+      "sha256": "92da7c363de0c585a3d0ff92e5d532ce7f2fd705d4c950d7b3494ec2aeb61f60",
+      "bytes": 455814
     },
     "assets/wardrobe/ritual-spirits/crimson-crown.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/8603665a45dd43bada37ecf0f98841c13eb79c1d7fe66463f95d2f956a6104ba.png",
@@ -4961,11 +4961,6 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
-    },
-    "assets/portraits/naia-med-v1.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
-      "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
-      "bytes": 241751
     }
   }
 }
