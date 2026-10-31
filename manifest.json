@@ -5156,6 +5156,636 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
+    },
+    "assets/wardrobe/halloween-2026/accessory-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f66bbf491c1c489a8d73f9838c491569f609f0fbbbd281a807b9fbdda73df954.png",
+      "sha256": "f66bbf491c1c489a8d73f9838c491569f609f0fbbbd281a807b9fbdda73df954",
+      "bytes": 28439
+    },
+    "assets/wardrobe/halloween-2026/accessory-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5e28f6615887dd729c71f47ad1cb9124609b90ab77853bac1bdc6a9c2361d787.png",
+      "sha256": "5e28f6615887dd729c71f47ad1cb9124609b90ab77853bac1bdc6a9c2361d787",
+      "bytes": 18717
+    },
+    "assets/wardrobe/halloween-2026/accessory-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1455a6e953548d5e5b591cff4ba6226c69ab60080fb1fa056cb32245e5280b0d.png",
+      "sha256": "1455a6e953548d5e5b591cff4ba6226c69ab60080fb1fa056cb32245e5280b0d",
+      "bytes": 30968
+    },
+    "assets/wardrobe/halloween-2026/decor-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/035e9c7da1eaaf44756860a9bd978777ba47bdeac8dcbef7055fdf4cda52247a.png",
+      "sha256": "035e9c7da1eaaf44756860a9bd978777ba47bdeac8dcbef7055fdf4cda52247a",
+      "bytes": 3488652
+    },
+    "assets/wardrobe/halloween-2026/decor-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f237aa5aa475ba3de0fc7a07a0535d45af1e75b61434b484fc6a9df80f4ab4c8.png",
+      "sha256": "f237aa5aa475ba3de0fc7a07a0535d45af1e75b61434b484fc6a9df80f4ab4c8",
+      "bytes": 3439118
+    },
+    "assets/wardrobe/halloween-2026/decor-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3fcc24cb7ec82e2f6ebc5d5f0bedef06fc736008c0f40ba69998b86e52a3c638.png",
+      "sha256": "3fcc24cb7ec82e2f6ebc5d5f0bedef06fc736008c0f40ba69998b86e52a3c638",
+      "bytes": 3254511
+    },
+    "assets/wardrobe/halloween-2026/earrings-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5a634f49561ea396261eea77d0e93c16ff1449318e281904d206162da220e29c.png",
+      "sha256": "5a634f49561ea396261eea77d0e93c16ff1449318e281904d206162da220e29c",
+      "bytes": 8948
+    },
+    "assets/wardrobe/halloween-2026/earrings-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0fb2e5eb224831233b1d59b6e442555f623b7b9d16e1f254b944bd1dd8b864a2.png",
+      "sha256": "0fb2e5eb224831233b1d59b6e442555f623b7b9d16e1f254b944bd1dd8b864a2",
+      "bytes": 8823
+    },
+    "assets/wardrobe/halloween-2026/earrings-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/697df4d095aade858bd7f65cf3ae231e269f714186cc39f3f8e6a3f3d8156a4d.png",
+      "sha256": "697df4d095aade858bd7f65cf3ae231e269f714186cc39f3f8e6a3f3d8156a4d",
+      "bytes": 8800
+    },
+    "assets/wardrobe/halloween-2026/equipment-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ffb0fa2191b8e0134a8d783a7aed75da3ffd774e260cd0414ac8799b886e1a39.png",
+      "sha256": "ffb0fa2191b8e0134a8d783a7aed75da3ffd774e260cd0414ac8799b886e1a39",
+      "bytes": 586201
+    },
+    "assets/wardrobe/halloween-2026/equipment-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ab1385a6f99c1a5ea7d33764e9f107ba17c6844ca86bf45b46bec8cc4e7d7693.png",
+      "sha256": "ab1385a6f99c1a5ea7d33764e9f107ba17c6844ca86bf45b46bec8cc4e7d7693",
+      "bytes": 230179
+    },
+    "assets/wardrobe/halloween-2026/equipment-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6607b73293541044f846b77d1aec4a4edba8380d2eaca8e9a00004b02a494b8c.png",
+      "sha256": "6607b73293541044f846b77d1aec4a4edba8380d2eaca8e9a00004b02a494b8c",
+      "bytes": 467817
+    },
+    "assets/wardrobe/halloween-2026/face-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/db8c4601a7c63e68f5ffa866c0daaf6d2085d433a37c92b61f4c416b220e74ab.png",
+      "sha256": "db8c4601a7c63e68f5ffa866c0daaf6d2085d433a37c92b61f4c416b220e74ab",
+      "bytes": 6688
+    },
+    "assets/wardrobe/halloween-2026/face-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4f7cc4b78d6ba3c022bdb7131e17ae11294edc80a878b7835bffc3f06c9e953c.png",
+      "sha256": "4f7cc4b78d6ba3c022bdb7131e17ae11294edc80a878b7835bffc3f06c9e953c",
+      "bytes": 6612
+    },
+    "assets/wardrobe/halloween-2026/face-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4c00e155c80e6c09ee1a85aeaf25650fc3d444277aa006dca47ea0f02205aeda.png",
+      "sha256": "4c00e155c80e6c09ee1a85aeaf25650fc3d444277aa006dca47ea0f02205aeda",
+      "bytes": 6402
+    },
+    "assets/wardrobe/halloween-2026/glasses-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ba303538f8d98335c081afa6c2270aee9aba069056bf682f78fc8d86b9b3001c.png",
+      "sha256": "ba303538f8d98335c081afa6c2270aee9aba069056bf682f78fc8d86b9b3001c",
+      "bytes": 12292
+    },
+    "assets/wardrobe/halloween-2026/glasses-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5cdd8d4f46698f569bcf3d28e8f20719ebbd46521d023f091ebb2adb212355b7.png",
+      "sha256": "5cdd8d4f46698f569bcf3d28e8f20719ebbd46521d023f091ebb2adb212355b7",
+      "bytes": 11413
+    },
+    "assets/wardrobe/halloween-2026/glasses-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bad8e096015f4d5d7ac5e45df0f679007e0ad86b29f5e04b3d6573e3d7c361f2.png",
+      "sha256": "bad8e096015f4d5d7ac5e45df0f679007e0ad86b29f5e04b3d6573e3d7c361f2",
+      "bytes": 11632
+    },
+    "assets/wardrobe/halloween-2026/hair-pumpkin-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/87f7c173d02efa86cc51b3199662e87b86cda9faeef1f054ec641233d18dbe1d.png",
+      "sha256": "87f7c173d02efa86cc51b3199662e87b86cda9faeef1f054ec641233d18dbe1d",
+      "bytes": 371202
+    },
+    "assets/wardrobe/halloween-2026/hair-pumpkin-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5e1b1bc78ee398e24f261b08e53bc9b30b16a7be7e7c0a3d9179ac4d1d3176a4.png",
+      "sha256": "5e1b1bc78ee398e24f261b08e53bc9b30b16a7be7e7c0a3d9179ac4d1d3176a4",
+      "bytes": 86465
+    },
+    "assets/wardrobe/halloween-2026/hair-spirit-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a0191fdbdc75184781020c72c8b04cf7e4ad2ed2afa6b06830c30d305927347a.png",
+      "sha256": "a0191fdbdc75184781020c72c8b04cf7e4ad2ed2afa6b06830c30d305927347a",
+      "bytes": 81103
+    },
+    "assets/wardrobe/halloween-2026/hair-spirit-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ee99051c1a1c6a5a55f7f1ce07667c90222868b9ffdd0e354cd6604cb040e297.png",
+      "sha256": "ee99051c1a1c6a5a55f7f1ce07667c90222868b9ffdd0e354cd6604cb040e297",
+      "bytes": 58320
+    },
+    "assets/wardrobe/halloween-2026/hair-vampire-back.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f86667395013ab024021cc9c2bd64954014395b858db7d0a1e8a25699b41dc9.png",
+      "sha256": "0f86667395013ab024021cc9c2bd64954014395b858db7d0a1e8a25699b41dc9",
+      "bytes": 78541
+    },
+    "assets/wardrobe/halloween-2026/hair-vampire-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/45c718fb10923d81772a833340ac359da07daf4f40956b5afb4d26238907a366.png",
+      "sha256": "45c718fb10923d81772a833340ac359da07daf4f40956b5afb4d26238907a366",
+      "bytes": 113671
+    },
+    "assets/wardrobe/halloween-2026/hat-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad5f5542f99d1fdffc26b1a1fbe4631f5dda5c6d6c4eaadcdac8bbff1435615b.png",
+      "sha256": "ad5f5542f99d1fdffc26b1a1fbe4631f5dda5c6d6c4eaadcdac8bbff1435615b",
+      "bytes": 102269
+    },
+    "assets/wardrobe/halloween-2026/hat-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f10b45e79ede9dc748e73a739206724af6d71da3856bb3e0854c121102835dd4.png",
+      "sha256": "f10b45e79ede9dc748e73a739206724af6d71da3856bb3e0854c121102835dd4",
+      "bytes": 71060
+    },
+    "assets/wardrobe/halloween-2026/hat-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4f26214cedb18073c86b40b5db23f0c47834ae02c4af0cb9aae8bfa242736066.png",
+      "sha256": "4f26214cedb18073c86b40b5db23f0c47834ae02c4af0cb9aae8bfa242736066",
+      "bytes": 43637
+    },
+    "assets/wardrobe/halloween-2026/lenses-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/61e328d2a590c196999deb732af216fd0bb6cfd9c0208916b0ca852c1b8fa0c0.png",
+      "sha256": "61e328d2a590c196999deb732af216fd0bb6cfd9c0208916b0ca852c1b8fa0c0",
+      "bytes": 6703
+    },
+    "assets/wardrobe/halloween-2026/lenses-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/48057a44619f5899d1d1692c6082b7b4ed75b31fb7abed3040b0086d26b4eee1.png",
+      "sha256": "48057a44619f5899d1d1692c6082b7b4ed75b31fb7abed3040b0086d26b4eee1",
+      "bytes": 6735
+    },
+    "assets/wardrobe/halloween-2026/lenses-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d529353b3475c4fd40aeee4c7ec2434143b55a8a0ffa3078293aaba21617cf2b.png",
+      "sha256": "d529353b3475c4fd40aeee4c7ec2434143b55a8a0ffa3078293aaba21617cf2b",
+      "bytes": 6659
+    },
+    "assets/wardrobe/halloween-2026/main-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4a9ae38935656c6b0279b7a4e385a76f94ab60eb5ba63adc13fa9fdf5a746310.png",
+      "sha256": "4a9ae38935656c6b0279b7a4e385a76f94ab60eb5ba63adc13fa9fdf5a746310",
+      "bytes": 852664
+    },
+    "assets/wardrobe/halloween-2026/main-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9693a7542c837f8961aaa0a5057bf652e9ffd5f01547cf0dd53b8e6b309636bd.png",
+      "sha256": "9693a7542c837f8961aaa0a5057bf652e9ffd5f01547cf0dd53b8e6b309636bd",
+      "bytes": 1028154
+    },
+    "assets/wardrobe/halloween-2026/main-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4b079e814ac375863e3bfae8c435c11aa5e54a7c0f0d84a75e7b6f82c9a31e4f.png",
+      "sha256": "4b079e814ac375863e3bfae8c435c11aa5e54a7c0f0d84a75e7b6f82c9a31e4f",
+      "bytes": 946806
+    },
+    "assets/wardrobe/halloween-2026/misc1-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/87074a609bd4260aeb55745cb2392089ba1a46f21b1caa80d1369ab5c1ddea78.png",
+      "sha256": "87074a609bd4260aeb55745cb2392089ba1a46f21b1caa80d1369ab5c1ddea78",
+      "bytes": 194678
+    },
+    "assets/wardrobe/halloween-2026/misc1-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0110f7cb55d68afdf89429e0896e9d64b153e2b6351f3fb76d910aaf12c8cd8c.png",
+      "sha256": "0110f7cb55d68afdf89429e0896e9d64b153e2b6351f3fb76d910aaf12c8cd8c",
+      "bytes": 318073
+    },
+    "assets/wardrobe/halloween-2026/misc1-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/beb758491cf35aaf0819819c86bfcd06f91f586dbb4bdb412f0ed224ea1f8300.png",
+      "sha256": "beb758491cf35aaf0819819c86bfcd06f91f586dbb4bdb412f0ed224ea1f8300",
+      "bytes": 210939
+    },
+    "assets/wardrobe/halloween-2026/misc2-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7cb9076a4e59a5b89d09a8e7e3fd4c7ed514c2dc9db68ed79618935f2764834d.png",
+      "sha256": "7cb9076a4e59a5b89d09a8e7e3fd4c7ed514c2dc9db68ed79618935f2764834d",
+      "bytes": 72617
+    },
+    "assets/wardrobe/halloween-2026/misc2-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ada7935e93939a4b8b2f9a59782cda489194356ded52fa1c4a586b1893fd7e79.png",
+      "sha256": "ada7935e93939a4b8b2f9a59782cda489194356ded52fa1c4a586b1893fd7e79",
+      "bytes": 69585
+    },
+    "assets/wardrobe/halloween-2026/misc2-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c8ff9e40b6240181d1381af340ef1ffb97a8de3045451514a6167c351787b971.png",
+      "sha256": "c8ff9e40b6240181d1381af340ef1ffb97a8de3045451514a6167c351787b971",
+      "bytes": 88186
+    },
+    "assets/wardrobe/halloween-2026/necklace-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/44991d2543120afa54ddbfa0afd4636e7b81f85baa425935c598ae7f5f9e9c1d.png",
+      "sha256": "44991d2543120afa54ddbfa0afd4636e7b81f85baa425935c598ae7f5f9e9c1d",
+      "bytes": 11302
+    },
+    "assets/wardrobe/halloween-2026/necklace-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/07077f180368269743e70857d08868fe36aa8e13df9c576b8e1b5d5be3372c45.png",
+      "sha256": "07077f180368269743e70857d08868fe36aa8e13df9c576b8e1b5d5be3372c45",
+      "bytes": 9885
+    },
+    "assets/wardrobe/halloween-2026/necklace-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b93d1278ffcd665011d955fdc7b3157239befefec1557ec1a0a6949280031f16.png",
+      "sha256": "b93d1278ffcd665011d955fdc7b3157239befefec1557ec1a0a6949280031f16",
+      "bytes": 11146
+    },
+    "assets/wardrobe/halloween-2026/obi-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/80268cf63ea9323cd3e2c0c0f72a47f79d3ae9ed1c076efcff9108b853c284d5.png",
+      "sha256": "80268cf63ea9323cd3e2c0c0f72a47f79d3ae9ed1c076efcff9108b853c284d5",
+      "bytes": 37568
+    },
+    "assets/wardrobe/halloween-2026/obi-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/93b33296fe2e50405fe7b2c9b5460c884af3876bc279f9c9684ed16ef08c70e6.png",
+      "sha256": "93b33296fe2e50405fe7b2c9b5460c884af3876bc279f9c9684ed16ef08c70e6",
+      "bytes": 35507
+    },
+    "assets/wardrobe/halloween-2026/obi-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/da368bcc6baae49e60aafa560779020b886428765f23c56a193a3586bd516224.png",
+      "sha256": "da368bcc6baae49e60aafa560779020b886428765f23c56a193a3586bd516224",
+      "bytes": 40645
+    },
+    "assets/wardrobe/halloween-2026/ornament-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ccaba88e45ab9c9711602f5fa62ec6b1c5dd1c0bc2a64340fdf4b783ce9b3312.png",
+      "sha256": "ccaba88e45ab9c9711602f5fa62ec6b1c5dd1c0bc2a64340fdf4b783ce9b3312",
+      "bytes": 9984
+    },
+    "assets/wardrobe/halloween-2026/ornament-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bee4f31211e0b1fc7016be3f7129d27407659c1b2d8f72e45ef95ee94d1be925.png",
+      "sha256": "bee4f31211e0b1fc7016be3f7129d27407659c1b2d8f72e45ef95ee94d1be925",
+      "bytes": 10592
+    },
+    "assets/wardrobe/halloween-2026/ornament-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a41ab8885554224711b220747d4ceeeb51c22221980c137e3db13647640c6d02.png",
+      "sha256": "a41ab8885554224711b220747d4ceeeb51c22221980c137e3db13647640c6d02",
+      "bytes": 9830
+    },
+    "assets/wardrobe/halloween-2026/outer-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7e10d934aa71eebd859d5d3d2b7db6f963558c23c9fbd34af7f456e669bee573.png",
+      "sha256": "7e10d934aa71eebd859d5d3d2b7db6f963558c23c9fbd34af7f456e669bee573",
+      "bytes": 1325493
+    },
+    "assets/wardrobe/halloween-2026/outer-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/aa69136ffc22d6a2167a3cd6958e900f247e39fa7173fd5a83e2e552bb252d57.png",
+      "sha256": "aa69136ffc22d6a2167a3cd6958e900f247e39fa7173fd5a83e2e552bb252d57",
+      "bytes": 1441551
+    },
+    "assets/wardrobe/halloween-2026/outer-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/256e7ed5d4d05f73f347ba2aa6e95fd3443a46e3527f5b2f644a8c5a54863d18.png",
+      "sha256": "256e7ed5d4d05f73f347ba2aa6e95fd3443a46e3527f5b2f644a8c5a54863d18",
+      "bytes": 894451
+    },
+    "assets/wardrobe/halloween-2026/shoes-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/534c30c6bd935bf1044a66bea8be60256533025c4d7489b71f1bbba0a3b8ceb7.png",
+      "sha256": "534c30c6bd935bf1044a66bea8be60256533025c4d7489b71f1bbba0a3b8ceb7",
+      "bytes": 114898
+    },
+    "assets/wardrobe/halloween-2026/shoes-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/26f0ab964666309bcfb84134880ad6f097c9672d575b9297c0a21929a9b311d9.png",
+      "sha256": "26f0ab964666309bcfb84134880ad6f097c9672d575b9297c0a21929a9b311d9",
+      "bytes": 114430
+    },
+    "assets/wardrobe/halloween-2026/shoes-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ec425beb1373fc7492ce72c38d3cc28a77fa0f1919c6b7fabe5c1a7a6d26009c.png",
+      "sha256": "ec425beb1373fc7492ce72c38d3cc28a77fa0f1919c6b7fabe5c1a7a6d26009c",
+      "bytes": 129055
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-accessory-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9b23c26b5b4e5f4d8de990f2ff13378e7cdae931e08d21b5af9239bcead6fe13.webp",
+      "sha256": "9b23c26b5b4e5f4d8de990f2ff13378e7cdae931e08d21b5af9239bcead6fe13",
+      "bytes": 7650
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-accessory-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/690ead61c8a5cb80f19ebd7590887716831be46772198eb10b87e24e9babae53.webp",
+      "sha256": "690ead61c8a5cb80f19ebd7590887716831be46772198eb10b87e24e9babae53",
+      "bytes": 7856
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-accessory-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/33c489d508ee7cca8eb155d5bf666f928c027b679da7885e3c184ec9fa2023d7.webp",
+      "sha256": "33c489d508ee7cca8eb155d5bf666f928c027b679da7885e3c184ec9fa2023d7",
+      "bytes": 7328
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-decor-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7f8300553b16d5434fcc1c7f3018258deaf67a35c53b355f03f7d61f16e75ef2.webp",
+      "sha256": "7f8300553b16d5434fcc1c7f3018258deaf67a35c53b355f03f7d61f16e75ef2",
+      "bytes": 26918
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-decor-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0fbde239f89a8c0861a2f9d169b14513d8d8e59a7efb425828d7149e8f03d2da.webp",
+      "sha256": "0fbde239f89a8c0861a2f9d169b14513d8d8e59a7efb425828d7149e8f03d2da",
+      "bytes": 25358
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-decor-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0ffd4c7980d9a1e6011c4e482014234c87ea398713cf204ac07ffaa0f1ac0677.webp",
+      "sha256": "0ffd4c7980d9a1e6011c4e482014234c87ea398713cf204ac07ffaa0f1ac0677",
+      "bytes": 23114
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-dye-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c7ac1869ef32d9bbb3069a66fdea9f1e3b9fc65db8d37d22a7a07323ca39257e.webp",
+      "sha256": "c7ac1869ef32d9bbb3069a66fdea9f1e3b9fc65db8d37d22a7a07323ca39257e",
+      "bytes": 9960
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-dye-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4bf702e0bd9500ad9569a249fa7d90a8457487b85f18b36eb16f22ee2eeca8dd.webp",
+      "sha256": "4bf702e0bd9500ad9569a249fa7d90a8457487b85f18b36eb16f22ee2eeca8dd",
+      "bytes": 8542
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-dye-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e57d463880aba664cdd0e42b022dafe833c36712019b204ac686bb06921978e3.webp",
+      "sha256": "e57d463880aba664cdd0e42b022dafe833c36712019b204ac686bb06921978e3",
+      "bytes": 8990
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-earrings-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2b8f6acc1124907db204debb14c67ecff120144f01fb862c6a77086d0c06e628.webp",
+      "sha256": "2b8f6acc1124907db204debb14c67ecff120144f01fb862c6a77086d0c06e628",
+      "bytes": 5724
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-earrings-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/62167c1731418ff19e531c21e56bfb46e3464b453c14bc2cf7690251a1270bd5.webp",
+      "sha256": "62167c1731418ff19e531c21e56bfb46e3464b453c14bc2cf7690251a1270bd5",
+      "bytes": 5638
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-earrings-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/685e3db09fbb6eb94a9b4875e2847583cbc2d062371da90af48d038ea9b9e79d.webp",
+      "sha256": "685e3db09fbb6eb94a9b4875e2847583cbc2d062371da90af48d038ea9b9e79d",
+      "bytes": 5708
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-equipment-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f3db2c8836a564384e4133c2cabcae6791e3de7613cb82a92b6410373d5d2032.webp",
+      "sha256": "f3db2c8836a564384e4133c2cabcae6791e3de7613cb82a92b6410373d5d2032",
+      "bytes": 8244
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-equipment-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4a1f0b32a4ec98c0e9095bcb8793d3a920e09d7e142c57db250401df27239002.webp",
+      "sha256": "4a1f0b32a4ec98c0e9095bcb8793d3a920e09d7e142c57db250401df27239002",
+      "bytes": 8488
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-equipment-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/83e9bfe6262b9bab942c48b4ee988f3bd21585479f2fd09edccf2023263f8b1c.webp",
+      "sha256": "83e9bfe6262b9bab942c48b4ee988f3bd21585479f2fd09edccf2023263f8b1c",
+      "bytes": 7750
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-face-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b3a9fb06612480d7deafac9f3b017e1b84a845d2ba5161862f96901fbff6cc04.webp",
+      "sha256": "b3a9fb06612480d7deafac9f3b017e1b84a845d2ba5161862f96901fbff6cc04",
+      "bytes": 5440
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-face-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0dde85a13e92551f799c80ecbe6861ae731c6f3282aecd743d620c143b0412e0.webp",
+      "sha256": "0dde85a13e92551f799c80ecbe6861ae731c6f3282aecd743d620c143b0412e0",
+      "bytes": 5470
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-face-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d20377ce4b2f60d82faa519b0edbb71dd22636beabbdc16e14df102fd73fb999.webp",
+      "sha256": "d20377ce4b2f60d82faa519b0edbb71dd22636beabbdc16e14df102fd73fb999",
+      "bytes": 5462
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-glasses-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/175c4e9c997bba672b25092d184a18c3667f2c78f304046591a3bfb11a7b727c.webp",
+      "sha256": "175c4e9c997bba672b25092d184a18c3667f2c78f304046591a3bfb11a7b727c",
+      "bytes": 5588
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-glasses-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1ecc8eab374260767c3137b231e3ba8976849c07f9bb10387994650b8499b996.webp",
+      "sha256": "1ecc8eab374260767c3137b231e3ba8976849c07f9bb10387994650b8499b996",
+      "bytes": 5552
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-glasses-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5cc0a646ab3c4853f6eab9eedcf132e19a40fea880c3dc8898faf7b6c8fec021.webp",
+      "sha256": "5cc0a646ab3c4853f6eab9eedcf132e19a40fea880c3dc8898faf7b6c8fec021",
+      "bytes": 5802
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hair-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c7ac1869ef32d9bbb3069a66fdea9f1e3b9fc65db8d37d22a7a07323ca39257e.webp",
+      "sha256": "c7ac1869ef32d9bbb3069a66fdea9f1e3b9fc65db8d37d22a7a07323ca39257e",
+      "bytes": 9960
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hair-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4bf702e0bd9500ad9569a249fa7d90a8457487b85f18b36eb16f22ee2eeca8dd.webp",
+      "sha256": "4bf702e0bd9500ad9569a249fa7d90a8457487b85f18b36eb16f22ee2eeca8dd",
+      "bytes": 8542
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hair-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e57d463880aba664cdd0e42b022dafe833c36712019b204ac686bb06921978e3.webp",
+      "sha256": "e57d463880aba664cdd0e42b022dafe833c36712019b204ac686bb06921978e3",
+      "bytes": 8990
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hat-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7123b54409dcfe46968f1af73f02e5a2b6d76c75378808cf689992ed7177b4ec.webp",
+      "sha256": "7123b54409dcfe46968f1af73f02e5a2b6d76c75378808cf689992ed7177b4ec",
+      "bytes": 5644
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hat-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/db6b0148a65e44f607813c8fe4a9cd52191da65268bc8f4585a49e78c3afcddb.webp",
+      "sha256": "db6b0148a65e44f607813c8fe4a9cd52191da65268bc8f4585a49e78c3afcddb",
+      "bytes": 5118
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-hat-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d4efef4bf633f7866dc41080d4faf20d5a1d0ff1753cbc655fdac60cbe58f061.webp",
+      "sha256": "d4efef4bf633f7866dc41080d4faf20d5a1d0ff1753cbc655fdac60cbe58f061",
+      "bytes": 4596
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-lenses-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/96c58cad20b2cba527c8431849a5c1cf1b9a54f396e4eafee105cdd7bf8174ba.webp",
+      "sha256": "96c58cad20b2cba527c8431849a5c1cf1b9a54f396e4eafee105cdd7bf8174ba",
+      "bytes": 5450
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-lenses-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/816edd5c7c56a4176488cbef2b83c0a4bb34d8dbe326c1b655ea44f7c0d69451.webp",
+      "sha256": "816edd5c7c56a4176488cbef2b83c0a4bb34d8dbe326c1b655ea44f7c0d69451",
+      "bytes": 5424
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-lenses-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/17d0aad73807031cd2bf0a2f4d6f6c480a59610706fe3ae300e7a2b4677a2313.webp",
+      "sha256": "17d0aad73807031cd2bf0a2f4d6f6c480a59610706fe3ae300e7a2b4677a2313",
+      "bytes": 5452
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-main-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/11b64bcf3e823b86441a031e73aad4c9e5135176dd4c56a4725728c85bb0f181.webp",
+      "sha256": "11b64bcf3e823b86441a031e73aad4c9e5135176dd4c56a4725728c85bb0f181",
+      "bytes": 7712
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-main-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/287e9b2960c8a8c09c1ddfe885bd6c0b8c92e627b3c095ef68670d71ee66d149.webp",
+      "sha256": "287e9b2960c8a8c09c1ddfe885bd6c0b8c92e627b3c095ef68670d71ee66d149",
+      "bytes": 7822
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-main-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f9ab3334a7c51b518b25624cfd646a426e2a38aa46892709b20f3eb3e70ed38c.webp",
+      "sha256": "f9ab3334a7c51b518b25624cfd646a426e2a38aa46892709b20f3eb3e70ed38c",
+      "bytes": 7290
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc1-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c3d7a15ef174183c494d99991f7d2e96d0624f7ad88dc9fc7c934c1d98f16274.webp",
+      "sha256": "c3d7a15ef174183c494d99991f7d2e96d0624f7ad88dc9fc7c934c1d98f16274",
+      "bytes": 9042
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc1-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e15fe5e588ffb35f0262af683e7cee1fcdcc85b13117acefff623a5e2e97ff7b.webp",
+      "sha256": "e15fe5e588ffb35f0262af683e7cee1fcdcc85b13117acefff623a5e2e97ff7b",
+      "bytes": 9616
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc1-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b9d29ebf6fdd7814e16e8325414a4f4539dfb8d5ee536d148b7a802f3ad6103f.webp",
+      "sha256": "b9d29ebf6fdd7814e16e8325414a4f4539dfb8d5ee536d148b7a802f3ad6103f",
+      "bytes": 8704
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc2-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a6b6fea1df5bf853f9bee238ab1c54d9b347729e13813b1a2b164fd4341b6579.webp",
+      "sha256": "a6b6fea1df5bf853f9bee238ab1c54d9b347729e13813b1a2b164fd4341b6579",
+      "bytes": 8058
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc2-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b73e06f5dd7c35c44fe5562d40c4d43c65e12e5bb7f916bed069f43c54038848.webp",
+      "sha256": "b73e06f5dd7c35c44fe5562d40c4d43c65e12e5bb7f916bed069f43c54038848",
+      "bytes": 8102
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-misc2-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b83c75ea437294593971cd7ab15b5f91cdb344aaf73a8eb1448924a3983d4c52.webp",
+      "sha256": "b83c75ea437294593971cd7ab15b5f91cdb344aaf73a8eb1448924a3983d4c52",
+      "bytes": 7802
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-necklace-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9b48ef98d334b35e370843fa4f7286942ff48807b08251e9699778704adef127.webp",
+      "sha256": "9b48ef98d334b35e370843fa4f7286942ff48807b08251e9699778704adef127",
+      "bytes": 8226
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-necklace-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a067cd8e5d38aea690e31d9b7234173226fb8934535918d7d43570a8818accfc.webp",
+      "sha256": "a067cd8e5d38aea690e31d9b7234173226fb8934535918d7d43570a8818accfc",
+      "bytes": 8146
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-necklace-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6574e24b3a4a06bc05ca12cf48252a7b6bc15f4e21526f372ef33737ca71c859.webp",
+      "sha256": "6574e24b3a4a06bc05ca12cf48252a7b6bc15f4e21526f372ef33737ca71c859",
+      "bytes": 8222
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-obi-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/934c58353b047a1381381ba1b71e6080dcc1b231c560f98db4bcc857980b1157.webp",
+      "sha256": "934c58353b047a1381381ba1b71e6080dcc1b231c560f98db4bcc857980b1157",
+      "bytes": 9988
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-obi-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/088163c9376e08f910a13db394ad5739418aac0647fc8a7ed7577eee4cfc7140.webp",
+      "sha256": "088163c9376e08f910a13db394ad5739418aac0647fc8a7ed7577eee4cfc7140",
+      "bytes": 9358
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-obi-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/967962b630954ab7ecbb9fdc7c115362adb0139e70372abfc34d2acf6ddbf787.webp",
+      "sha256": "967962b630954ab7ecbb9fdc7c115362adb0139e70372abfc34d2acf6ddbf787",
+      "bytes": 8452
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-ornament-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/37fa1aa5bc892495b48b88d7d02535f150488cc7c7169cd37175a8aac9112ce9.webp",
+      "sha256": "37fa1aa5bc892495b48b88d7d02535f150488cc7c7169cd37175a8aac9112ce9",
+      "bytes": 5824
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-ornament-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/63ec5ac85b159853b2fd938606a97ab3ee0ad6c764047fccb118ef3afc40e4f5.webp",
+      "sha256": "63ec5ac85b159853b2fd938606a97ab3ee0ad6c764047fccb118ef3afc40e4f5",
+      "bytes": 5826
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-ornament-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a0c3e5c4435ebc754c5605f6b84aabc2e5ae25c24a3546fc212ad36de1e8d626.webp",
+      "sha256": "a0c3e5c4435ebc754c5605f6b84aabc2e5ae25c24a3546fc212ad36de1e8d626",
+      "bytes": 5654
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-outer-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ec79699cd2ffb87ea30cc88e0d19b257ce1e1de8b3e6f74519ddf57c5b703d48.webp",
+      "sha256": "ec79699cd2ffb87ea30cc88e0d19b257ce1e1de8b3e6f74519ddf57c5b703d48",
+      "bytes": 10048
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-outer-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/035cb8396c319d38f8fcccedc3f18262d03d929139ad1f0c922c8f0b28096165.webp",
+      "sha256": "035cb8396c319d38f8fcccedc3f18262d03d929139ad1f0c922c8f0b28096165",
+      "bytes": 9296
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-outer-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ef37297bc7e73066d5a2d58b7e539ee31aef1fbc0974c69e420083773fdf8a02.webp",
+      "sha256": "ef37297bc7e73066d5a2d58b7e539ee31aef1fbc0974c69e420083773fdf8a02",
+      "bytes": 8100
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-shoes-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1d31906164ce99811b99211c0374a7f69b57879f94810da5f0716538b71bf768.webp",
+      "sha256": "1d31906164ce99811b99211c0374a7f69b57879f94810da5f0716538b71bf768",
+      "bytes": 5214
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-shoes-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9c861b7993954b0960e15a7c4e4aa154b8243985e5663a88b379fdc9f9367c36.webp",
+      "sha256": "9c861b7993954b0960e15a7c4e4aa154b8243985e5663a88b379fdc9f9367c36",
+      "bytes": 5076
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-shoes-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/05263a4dd614a0dbe46de3dfba794cd3c58ddef6334b52ef9c956461b26c72cb.webp",
+      "sha256": "05263a4dd614a0dbe46de3dfba794cd3c58ddef6334b52ef9c956461b26c72cb",
+      "bytes": 6522
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-tights-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ac489782b0dddbdc2513b116da0fe9f8de822aa6fd83dac2e34df0e3f792e031.webp",
+      "sha256": "ac489782b0dddbdc2513b116da0fe9f8de822aa6fd83dac2e34df0e3f792e031",
+      "bytes": 5448
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-tights-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c7a9e39e4067da422823e8d83e7613c48c70927e079e21297d5967a07c159850.webp",
+      "sha256": "c7a9e39e4067da422823e8d83e7613c48c70927e079e21297d5967a07c159850",
+      "bytes": 5908
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-tights-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3cae97b4befd8ca86a698703ca45ff11ab7dea11b697999ad96d45fe285c78e2.webp",
+      "sha256": "3cae97b4befd8ca86a698703ca45ff11ab7dea11b697999ad96d45fe285c78e2",
+      "bytes": 5644
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-top-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9664a1d4178ec6ae8447c7f3816127fff087807b0b2077e8c2959a2011dae780.webp",
+      "sha256": "9664a1d4178ec6ae8447c7f3816127fff087807b0b2077e8c2959a2011dae780",
+      "bytes": 11068
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-top-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f04539c41cfa73857fb2aa805cec4c0e9c3f3c1dff27c3bd7d18160358747466.webp",
+      "sha256": "f04539c41cfa73857fb2aa805cec4c0e9c3f3c1dff27c3bd7d18160358747466",
+      "bytes": 10510
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-top-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e1645459ccd371e62da0c61db99d33170e929bd9b3eaf477f2666d257afb7c77.webp",
+      "sha256": "e1645459ccd371e62da0c61db99d33170e929bd9b3eaf477f2666d257afb7c77",
+      "bytes": 10260
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-trousers-pumpkin.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9b4069a3a5af4b2dea1ca2bb9e9f17e517a936ee65b633d25be23583bbba371b.webp",
+      "sha256": "9b4069a3a5af4b2dea1ca2bb9e9f17e517a936ee65b633d25be23583bbba371b",
+      "bytes": 5384
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-trousers-spirit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0600259c389e265c89e815d0aaeef7062a69a7605abc05425069cb209ee7155f.webp",
+      "sha256": "0600259c389e265c89e815d0aaeef7062a69a7605abc05425069cb209ee7155f",
+      "bytes": 5038
+    },
+    "assets/wardrobe/halloween-2026/thumb-halloween-trousers-vampire.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ca7c17ed6438887c9202c0d76c56965bebae6904c9033e2ed96791de02823edb.webp",
+      "sha256": "ca7c17ed6438887c9202c0d76c56965bebae6904c9033e2ed96791de02823edb",
+      "bytes": 4846
+    },
+    "assets/wardrobe/halloween-2026/tights-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/94e8f1238b7a115a0680714ba068b2393d36c9d68b0a9826b6f2ac69d15ce1da.png",
+      "sha256": "94e8f1238b7a115a0680714ba068b2393d36c9d68b0a9826b6f2ac69d15ce1da",
+      "bytes": 298585
+    },
+    "assets/wardrobe/halloween-2026/tights-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1058fee3747c442717811c49628e0ac87e56892e016be3a9452cf9c9523c0447.png",
+      "sha256": "1058fee3747c442717811c49628e0ac87e56892e016be3a9452cf9c9523c0447",
+      "bytes": 280606
+    },
+    "assets/wardrobe/halloween-2026/tights-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e3645b337395339abbf7828bf2b2ad15bf6c4b7cef124efa4ee4264537d83b6a.png",
+      "sha256": "e3645b337395339abbf7828bf2b2ad15bf6c4b7cef124efa4ee4264537d83b6a",
+      "bytes": 297071
+    },
+    "assets/wardrobe/halloween-2026/top-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/af86a2b4d4f613dca41f99dfb58a7574df0afbd8d64f55eb2765e408edcc29a9.png",
+      "sha256": "af86a2b4d4f613dca41f99dfb58a7574df0afbd8d64f55eb2765e408edcc29a9",
+      "bytes": 142027
+    },
+    "assets/wardrobe/halloween-2026/top-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7eb0ce69aa45c4e7ad4b8beafb82cdb18494af8b82f6e61eac777a0b92cd6a80.png",
+      "sha256": "7eb0ce69aa45c4e7ad4b8beafb82cdb18494af8b82f6e61eac777a0b92cd6a80",
+      "bytes": 148135
+    },
+    "assets/wardrobe/halloween-2026/top-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f5fde2a3560916ec6930cc7a13fb81fecbfd57cc6e171f8c83c65afade8f5a04.png",
+      "sha256": "f5fde2a3560916ec6930cc7a13fb81fecbfd57cc6e171f8c83c65afade8f5a04",
+      "bytes": 142815
+    },
+    "assets/wardrobe/halloween-2026/trousers-pumpkin.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2510e2a8b69f27c390aeabae2b24583f4439bd38711a54b2fbefaf7881ca1ea7.png",
+      "sha256": "2510e2a8b69f27c390aeabae2b24583f4439bd38711a54b2fbefaf7881ca1ea7",
+      "bytes": 432062
+    },
+    "assets/wardrobe/halloween-2026/trousers-spirit.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0adbca5c1ce5a72ae48127cd675061dd2b93d04fb6c6c5ddc6216970499ade19.png",
+      "sha256": "0adbca5c1ce5a72ae48127cd675061dd2b93d04fb6c6c5ddc6216970499ade19",
+      "bytes": 419252
+    },
+    "assets/wardrobe/halloween-2026/trousers-vampire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e90c74f4820aebed675458f125c363bea4ffcea2f929cc324c8932b68d0f6dc1.png",
+      "sha256": "e90c74f4820aebed675458f125c363bea4ffcea2f929cc324c8932b68d0f6dc1",
+      "bytes": 403851
     }
   }
 }
