@@ -4961,6 +4961,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
+    },
+    "assets/portraits/naia-med-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
+      "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
+      "bytes": 241751
     }
   }
 }
