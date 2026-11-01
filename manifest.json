@@ -877,6 +877,51 @@
       "sha256": "37cb3b84e6bb72020df63c42001c9fd2a76862fe56b4ed84bdf2b7c27fe81c14",
       "bytes": 9948
     },
+    "assets/wardrobe/geta-20261101/indigo-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/959e41d956a120160d865381c9b24b4b7024afa7e26247ff64f2d84f7601abfe.png",
+      "sha256": "959e41d956a120160d865381c9b24b4b7024afa7e26247ff64f2d84f7601abfe",
+      "bytes": 18829
+    },
+    "assets/wardrobe/geta-20261101/indigo-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9a5b5d691e808a7db240ee1957927ea99e3837ee5c4d447fb3647007d412b8fe.png",
+      "sha256": "9a5b5d691e808a7db240ee1957927ea99e3837ee5c4d447fb3647007d412b8fe",
+      "bytes": 49973
+    },
+    "assets/wardrobe/geta-20261101/laque-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/47e6e15cccabdcb52ca27d6ff02a9f1a6b82472ac5f59089823fa0a0e0738ef6.png",
+      "sha256": "47e6e15cccabdcb52ca27d6ff02a9f1a6b82472ac5f59089823fa0a0e0738ef6",
+      "bytes": 14732
+    },
+    "assets/wardrobe/geta-20261101/laque-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f89be77a0855f9101ae6391496ac7e9a346c9daf716893595b5a9561dc4a9971.png",
+      "sha256": "f89be77a0855f9101ae6391496ac7e9a346c9daf716893595b5a9561dc4a9971",
+      "bytes": 39198
+    },
+    "assets/wardrobe/geta-20261101/sakura-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ae5e57e79b46f2f417ee8373b99c07858436a6e81e60373212d6187f9a0ff7a4.png",
+      "sha256": "ae5e57e79b46f2f417ee8373b99c07858436a6e81e60373212d6187f9a0ff7a4",
+      "bytes": 19210
+    },
+    "assets/wardrobe/geta-20261101/sakura-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d2dfdf6dd3738fce8317c8b48f440a9a34ab2bcb3b69713619635ac37efe831d.png",
+      "sha256": "d2dfdf6dd3738fce8317c8b48f440a9a34ab2bcb3b69713619635ac37efe831d",
+      "bytes": 45904
+    },
+    "assets/wardrobe/geta-20261101/thumb-indigo.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/59bb96948a64e6e728f20fe8671d2ebedf185947000f8f929ac3b78bcfb8e1ca.webp",
+      "sha256": "59bb96948a64e6e728f20fe8671d2ebedf185947000f8f929ac3b78bcfb8e1ca",
+      "bytes": 21202
+    },
+    "assets/wardrobe/geta-20261101/thumb-laque.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/58b42aae1d4bef19b456112029113e4a6896433b47ec821cc9a566028b626dbb.webp",
+      "sha256": "58b42aae1d4bef19b456112029113e4a6896433b47ec821cc9a566028b626dbb",
+      "bytes": 17234
+    },
+    "assets/wardrobe/geta-20261101/thumb-sakura.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a0c6d1b7bd5fd6644b472779b759dadf62a3323ae70718cea9785222e25826dd.webp",
+      "sha256": "a0c6d1b7bd5fd6644b472779b759dadf62a3323ae70718cea9785222e25826dd",
+      "bytes": 19526
+    },
     "assets/wardrobe/glacier/boucles.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/2066e6c3d0fb974b639f61a2fbd5c1d84c99e833a1a0e097cb3c7f5861fecf85.png",
       "sha256": "2066e6c3d0fb974b639f61a2fbd5c1d84c99e833a1a0e097cb3c7f5861fecf85",
