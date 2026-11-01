@@ -2312,6 +2312,51 @@
       "sha256": "bdebb6434aa325db485d8498374f5192a56cc940cd137b53a63738be7a0afdfa",
       "bytes": 9988
     },
+    "assets/wardrobe/kimonos-20261101/jade-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fed01fd398bcd7570852533e83f5781f6f4ebc4c7b0492e8d292c0b362f9f836.png",
+      "sha256": "fed01fd398bcd7570852533e83f5781f6f4ebc4c7b0492e8d292c0b362f9f836",
+      "bytes": 1233506
+    },
+    "assets/wardrobe/kimonos-20261101/jade-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cd5f7d65e132a5754025cfccbbff9d314d3dd7927f6faf3941462fdf83c22bc8.png",
+      "sha256": "cd5f7d65e132a5754025cfccbbff9d314d3dd7927f6faf3941462fdf83c22bc8",
+      "bytes": 54457
+    },
+    "assets/wardrobe/kimonos-20261101/moon-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/90d0887cf6dfa60757297c731e2f2b4e89428f88dc197db96cb909df3079b1c0.png",
+      "sha256": "90d0887cf6dfa60757297c731e2f2b4e89428f88dc197db96cb909df3079b1c0",
+      "bytes": 1147079
+    },
+    "assets/wardrobe/kimonos-20261101/moon-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e22955a6e8617aa37347a2e4c9b50332d88f5e3d86b25eeb87a91c903256d2ff.png",
+      "sha256": "e22955a6e8617aa37347a2e4c9b50332d88f5e3d86b25eeb87a91c903256d2ff",
+      "bytes": 45706
+    },
+    "assets/wardrobe/kimonos-20261101/red-front.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/226c1d7b89e36ee95412f25e5187aebd3127954945291c8910b9b0fdda2b6046.png",
+      "sha256": "226c1d7b89e36ee95412f25e5187aebd3127954945291c8910b9b0fdda2b6046",
+      "bytes": 1205350
+    },
+    "assets/wardrobe/kimonos-20261101/red-rear.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a93ee1e1c763860db839c61d6c16c4874ee1083336cfae52e1260cd64448cfd4.png",
+      "sha256": "a93ee1e1c763860db839c61d6c16c4874ee1083336cfae52e1260cd64448cfd4",
+      "bytes": 51893
+    },
+    "assets/wardrobe/kimonos-20261101/thumb-jade.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c2da10c63988b5b8aa0282e2ed82d8cdca5ff252a385c166a8bcdf5a8702e8f0.webp",
+      "sha256": "c2da10c63988b5b8aa0282e2ed82d8cdca5ff252a385c166a8bcdf5a8702e8f0",
+      "bytes": 32866
+    },
+    "assets/wardrobe/kimonos-20261101/thumb-moon.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0439fdf45dd96c27d002b50f1864f512e2cc722d9e43cb813900450f45559494.webp",
+      "sha256": "0439fdf45dd96c27d002b50f1864f512e2cc722d9e43cb813900450f45559494",
+      "bytes": 30338
+    },
+    "assets/wardrobe/kimonos-20261101/thumb-red.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f55574199b067788b02a3dd60096b558a9e96235d15af2317e486c8bd4ec39d2.webp",
+      "sha256": "f55574199b067788b02a3dd60096b558a9e96235d15af2317e486c8bd4ec39d2",
+      "bytes": 30982
+    },
     "assets/wardrobe/lapins-lanternes/blue-crown.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/48e892768b8f25a8a6f02aaad00340b8092dcfa485ad512d63fa0c57ee3fea06.png",
       "sha256": "48e892768b8f25a8a6f02aaad00340b8092dcfa485ad512d63fa0c57ee3fea06",
