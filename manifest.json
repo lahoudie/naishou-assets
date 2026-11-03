@@ -7782,6 +7782,46 @@
       "sha256": "cdd48fe2ca06e7209e5dbdcdcf6dc3647845703368e58a98336b34a5fcd54ebb",
       "bytes": 367634
     },
+    "assets/portraits/generic-lices/bushi-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f.webp",
+      "sha256": "ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f",
+      "bytes": 29874
+    },
+    "assets/portraits/generic-lices/bushi-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185.webp",
+      "sha256": "00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185",
+      "bytes": 23418
+    },
+    "assets/portraits/generic-lices/courtier-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1.webp",
+      "sha256": "0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1",
+      "bytes": 20304
+    },
+    "assets/portraits/generic-lices/courtier-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023.webp",
+      "sha256": "0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023",
+      "bytes": 25182
+    },
+    "assets/portraits/generic-lices/ronin-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660.webp",
+      "sha256": "b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660",
+      "bytes": 31812
+    },
+    "assets/portraits/generic-lices/ronin-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece.webp",
+      "sha256": "36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece",
+      "bytes": 28534
+    },
+    "assets/portraits/generic-lices/shugenja-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c.webp",
+      "sha256": "48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c",
+      "bytes": 30248
+    },
+    "assets/portraits/generic-lices/shugenja-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1.webp",
+      "sha256": "ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1",
+      "bytes": 26666
+    },
     "assets/portraits/hiroshi.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2.webp",
       "sha256": "faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2",
