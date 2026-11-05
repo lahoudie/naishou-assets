@@ -7856,6 +7856,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
+    },
+    "assets/dialogues/naia-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d.png",
+      "sha256": "0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d",
+      "bytes": 3231336
+    },
+    "assets/dialogues/shuuko-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91.png",
+      "sha256": "98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91",
+      "bytes": 3130649
+    },
+    "assets/dungeons/koso-theatre/jama-suru.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9.png",
+      "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
+      "bytes": 3908557
     }
   }
 }
