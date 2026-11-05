@@ -7871,6 +7871,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9.png",
       "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
       "bytes": 3908557
+    },
+    "assets/portraits/jia-lan-wen-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61.png",
+      "sha256": "77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61",
+      "bytes": 2519098
     }
   }
 }
