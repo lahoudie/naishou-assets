@@ -7876,6 +7876,16 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61.png",
       "sha256": "77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61",
       "bytes": 2519098
+    },
+    "assets/portraits/kazami/kazami-reference.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b.png",
+      "sha256": "a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b",
+      "bytes": 345650
+    },
+    "assets/portraits/kazami/kazami-fatigue.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb.webp",
+      "sha256": "a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb",
+      "bytes": 59682
     }
   }
 }
