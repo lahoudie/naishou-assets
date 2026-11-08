@@ -2,6 +2,821 @@
   "repository": "lahoudie/naishou-assets",
   "baseUrl": "https://lahoudie.github.io/naishou-assets/",
   "files": {
+    "assets/dialogues/naia-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d.png",
+      "sha256": "0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d",
+      "bytes": 3231336
+    },
+    "assets/dialogues/shuuko-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91.png",
+      "sha256": "98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91",
+      "bytes": 3130649
+    },
+    "assets/dungeons/koso-theatre/jama-suru.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9.png",
+      "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
+      "bytes": 3908557
+    },
+    "assets/portraits/akari.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc.webp",
+      "sha256": "b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc",
+      "bytes": 385608
+    },
+    "assets/portraits/cutouts-v2/akari.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/13da34169315b2c5b5dcb3e083a4c0621420ff1beb0fe91b0f0f58d7a1bb27b6.webp",
+      "sha256": "13da34169315b2c5b5dcb3e083a4c0621420ff1beb0fe91b0f0f58d7a1bb27b6",
+      "bytes": 60186
+    },
+    "assets/portraits/cutouts-v2/eowa.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b58f949708c64a9af648becb6a1e91209fe9f537de4171a14f0f8725375d3418.webp",
+      "sha256": "b58f949708c64a9af648becb6a1e91209fe9f537de4171a14f0f8725375d3418",
+      "bytes": 23814
+    },
+    "assets/portraits/cutouts-v2/fuyumi.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dff8fc919b62320eff7126a389c6c7c096bcdde1dbf764b8fac0217b66b87f6d.webp",
+      "sha256": "dff8fc919b62320eff7126a389c6c7c096bcdde1dbf764b8fac0217b66b87f6d",
+      "bytes": 22322
+    },
+    "assets/portraits/cutouts-v2/hiroshi.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/825701fa2a6cfc447e2c1a620473f7fdb16224fa996393e68e03529f2e96c67c.webp",
+      "sha256": "825701fa2a6cfc447e2c1a620473f7fdb16224fa996393e68e03529f2e96c67c",
+      "bytes": 56232
+    },
+    "assets/portraits/cutouts-v2/kiyomori.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a4319d96c566c4fae6fcb22d28cce8bf9a04d0ef637546e54166f2f922eb8a0d.webp",
+      "sha256": "a4319d96c566c4fae6fcb22d28cce8bf9a04d0ef637546e54166f2f922eb8a0d",
+      "bytes": 25872
+    },
+    "assets/portraits/cutouts-v2/kohi.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/746e6dc052a3d04a2eab8bf76b727cfdc56cdd5d8f9e4c975406ee4c5b201d9b.webp",
+      "sha256": "746e6dc052a3d04a2eab8bf76b727cfdc56cdd5d8f9e4c975406ee4c5b201d9b",
+      "bytes": 58866
+    },
+    "assets/portraits/cutouts-v2/person-K0M51kkBCgEYFrSXt0o.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c5bdce484b63d731e2409fd3354921f7efc0cf323c3903aff37e87099984da1c.webp",
+      "sha256": "c5bdce484b63d731e2409fd3354921f7efc0cf323c3903aff37e87099984da1c",
+      "bytes": 29322
+    },
+    "assets/portraits/cutouts-v2/person-KcPXVJ4bUfwB_MT-NNX.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/25624e7c789bda3b1561ee8921436aab84297b3c316cd49a88662977b91c9351.webp",
+      "sha256": "25624e7c789bda3b1561ee8921436aab84297b3c316cd49a88662977b91c9351",
+      "bytes": 46968
+    },
+    "assets/portraits/cutouts-v2/person-L1d86B276MmAZqQGgAJ.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8df87ffb56f24fd5bb41745d7071141b471a3178dd479a4ccd598c482eef4467.webp",
+      "sha256": "8df87ffb56f24fd5bb41745d7071141b471a3178dd479a4ccd598c482eef4467",
+      "bytes": 19628
+    },
+    "assets/portraits/cutouts-v2/person-NNMYmIEajPof1mhbezS.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/42558394952bc81894f65a254bbf0462385e38a7eba8ffe3c892ae12470da8bc.webp",
+      "sha256": "42558394952bc81894f65a254bbf0462385e38a7eba8ffe3c892ae12470da8bc",
+      "bytes": 14092
+    },
+    "assets/portraits/cutouts-v2/person-NX20x-6kF3mnaPV7kxz.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ab6d9f76044287dc0ea294c3abbc93d0b8558e3ced007563a5753720a7283fe9.webp",
+      "sha256": "ab6d9f76044287dc0ea294c3abbc93d0b8558e3ced007563a5753720a7283fe9",
+      "bytes": 34724
+    },
+    "assets/portraits/cutouts-v2/person-Ni5Aq_-X-3mKJlwudUJ.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6e2674836a08884324667062e9afc7b64c4dc615a9b09dea3272db3eb29121fd.webp",
+      "sha256": "6e2674836a08884324667062e9afc7b64c4dc615a9b09dea3272db3eb29121fd",
+      "bytes": 18722
+    },
+    "assets/portraits/cutouts-v2/person-NiATctjoaP2lcXuKwCK.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2b548cea37f11c35ac6fc60f52668965ed956281b4351b56e2814fabf7d0dde4.webp",
+      "sha256": "2b548cea37f11c35ac6fc60f52668965ed956281b4351b56e2814fabf7d0dde4",
+      "bytes": 36630
+    },
+    "assets/portraits/cutouts-v2/person-NuSj1oOIxqydafwcy-5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/923e2128827b8de5df2a0bdc871331d099d47359a5fb2cfe0002a41e17edde6e.webp",
+      "sha256": "923e2128827b8de5df2a0bdc871331d099d47359a5fb2cfe0002a41e17edde6e",
+      "bytes": 23650
+    },
+    "assets/portraits/cutouts-v2/person-NxwRQkA2OnFW9LwLKSs.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f3a1adfbaef181c11c94c076ca58656f8a21d9f287e064af8e94e5e2c10ec6f4.webp",
+      "sha256": "f3a1adfbaef181c11c94c076ca58656f8a21d9f287e064af8e94e5e2c10ec6f4",
+      "bytes": 16704
+    },
+    "assets/portraits/cutouts-v2/person-O091f_e__ZKvev0CsEk.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/00dedaaa8c65739ed4b8f8a36c872e832742a9c6050c95bc62675ed71f457450.webp",
+      "sha256": "00dedaaa8c65739ed4b8f8a36c872e832742a9c6050c95bc62675ed71f457450",
+      "bytes": 22104
+    },
+    "assets/portraits/cutouts-v2/person-O0Y9u26EIC54ddVc-A6.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c08cbcc2d1534a96d92cb68df4ab7fcf101034f6d41d0d255b421bf80c3b81d4.webp",
+      "sha256": "c08cbcc2d1534a96d92cb68df4ab7fcf101034f6d41d0d255b421bf80c3b81d4",
+      "bytes": 20730
+    },
+    "assets/portraits/cutouts-v2/person-O0YLBpy3otEn1o7zp01.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/849a60cae769fbefec8bb095f9f471cc6cf0e5c0ab0c7742be08ee97b8d20a81.webp",
+      "sha256": "849a60cae769fbefec8bb095f9f471cc6cf0e5c0ab0c7742be08ee97b8d20a81",
+      "bytes": 32546
+    },
+    "assets/portraits/cutouts-v2/person-O0c1TISFuJJMqrIIVCG.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d80e34824c9315fd4087469e4a14b74fe45a77cdb737121f1b63de91d6fcaa0c.webp",
+      "sha256": "d80e34824c9315fd4087469e4a14b74fe45a77cdb737121f1b63de91d6fcaa0c",
+      "bytes": 17292
+    },
+    "assets/portraits/cutouts-v2/person-O0c1W4aIFRCcSPc8iQ3.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/99ac5ccc322b8636d9d34e2a422e588328e335429f5572af64496421c11a3533.webp",
+      "sha256": "99ac5ccc322b8636d9d34e2a422e588328e335429f5572af64496421c11a3533",
+      "bytes": 17404
+    },
+    "assets/portraits/cutouts-v2/person-O0mr6Z2LIQ3VKtg3M55.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e9568150c002354d161644e4113395fe6e4284ebd96cf0a62e4b3f89cf16771e.webp",
+      "sha256": "e9568150c002354d161644e4113395fe6e4284ebd96cf0a62e4b3f89cf16771e",
+      "bytes": 25124
+    },
+    "assets/portraits/cutouts-v2/person-O1SZB5fz-1fJ0hbhjEU.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad6a090db80d2c91c17ad2aa523f82768eac4b435d20481d20a3bc09dbeadb24.webp",
+      "sha256": "ad6a090db80d2c91c17ad2aa523f82768eac4b435d20481d20a3bc09dbeadb24",
+      "bytes": 38218
+    },
+    "assets/portraits/cutouts-v2/person-O2Vkkv_VXVbzqO9c8c6.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b56a738380793d15b36d1d376f84c1289e579b43ed66072a90e5e3443b06c156.webp",
+      "sha256": "b56a738380793d15b36d1d376f84c1289e579b43ed66072a90e5e3443b06c156",
+      "bytes": 21162
+    },
+    "assets/portraits/cutouts-v2/person-O2oea_SWdZkWweC16Rs.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/acf6d46c7963ad879793662d40f3d8dfcccd9c42bd079dc4f653a5378ac2d3b0.webp",
+      "sha256": "acf6d46c7963ad879793662d40f3d8dfcccd9c42bd079dc4f653a5378ac2d3b0",
+      "bytes": 22326
+    },
+    "assets/portraits/cutouts-v2/person-O2tY-RqEmspwkzodrpI.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0cadff5950ca145d6fad1c1de0eb002779bcdcb21bc83bcb882734aebefed0db.webp",
+      "sha256": "0cadff5950ca145d6fad1c1de0eb002779bcdcb21bc83bcb882734aebefed0db",
+      "bytes": 43842
+    },
+    "assets/portraits/cutouts-v2/person-O2tyHSME6CxUMM6IeLp.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/728754c33200a5cbd7c156a8580bad05fc9e2bcd8ef1112be4cf4a58c707e0f6.webp",
+      "sha256": "728754c33200a5cbd7c156a8580bad05fc9e2bcd8ef1112be4cf4a58c707e0f6",
+      "bytes": 45438
+    },
+    "assets/portraits/cutouts-v2/person-O3TwGCl5qBHANvKZDGO.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/af16847319ecc020870835713bc8f4d844d3b1be936285fa033cf753794db188.webp",
+      "sha256": "af16847319ecc020870835713bc8f4d844d3b1be936285fa033cf753794db188",
+      "bytes": 39888
+    },
+    "assets/portraits/cutouts-v2/person-O3YYHadeFDBuoXPyVmV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2fac159c3bdb619bd901f3173a13e9e01656bc28399b359e24a57c473423edfb.webp",
+      "sha256": "2fac159c3bdb619bd901f3173a13e9e01656bc28399b359e24a57c473423edfb",
+      "bytes": 28830
+    },
+    "assets/portraits/cutouts-v2/person-O3gz0vSjNQXN1st9oZw.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/5f72e0764849cdb87ddd55feb4f64efd1dfaa5269187b2f96aacd105000b8334.webp",
+      "sha256": "5f72e0764849cdb87ddd55feb4f64efd1dfaa5269187b2f96aacd105000b8334",
+      "bytes": 24132
+    },
+    "assets/portraits/cutouts-v2/person-O426EV6_0lFYM11TI4o.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3fa962dfe2ecbf7192274d8fbe4978988904596571143f8585776f2a1b97f89f.webp",
+      "sha256": "3fa962dfe2ecbf7192274d8fbe4978988904596571143f8585776f2a1b97f89f",
+      "bytes": 19474
+    },
+    "assets/portraits/cutouts-v2/person-O4dujyVtn3AiLLz0soT.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e91ac273d892584a7bfd7b56420d997f8dd617a781e8b8aa3e2166f4cf4e8576.webp",
+      "sha256": "e91ac273d892584a7bfd7b56420d997f8dd617a781e8b8aa3e2166f4cf4e8576",
+      "bytes": 31442
+    },
+    "assets/portraits/cutouts-v2/person-O4vtpomMSbmdMqHhLgK.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/184fe0b1ac28980e27219be5502b267d181ab415130111940b58804df67f6553.webp",
+      "sha256": "184fe0b1ac28980e27219be5502b267d181ab415130111940b58804df67f6553",
+      "bytes": 19016
+    },
+    "assets/portraits/cutouts-v2/person-O6FqJmO3qfkhorAxeG_.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a9f62bb6d4ff00c17b7abc6e5496607719de163e3a6fd734b23d33c29521cfe6.webp",
+      "sha256": "a9f62bb6d4ff00c17b7abc6e5496607719de163e3a6fd734b23d33c29521cfe6",
+      "bytes": 20666
+    },
+    "assets/portraits/cutouts-v2/person-O6gzctw5ujmBhVrbp8z.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d0ba1734723382cd229f2c47a8a9be44ff79a35a6e3bb8d78f0419689317a81f.webp",
+      "sha256": "d0ba1734723382cd229f2c47a8a9be44ff79a35a6e3bb8d78f0419689317a81f",
+      "bytes": 23952
+    },
+    "assets/portraits/cutouts-v2/person-O6kZMQI0P7xXHpGTVdY.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b789325adf4890258f0a3809cf5f1493928447937735e1c2a15727b9233ad356.webp",
+      "sha256": "b789325adf4890258f0a3809cf5f1493928447937735e1c2a15727b9233ad356",
+      "bytes": 23668
+    },
+    "assets/portraits/cutouts-v2/person-O6kZSOJGQmPRjNZkiP-.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/560b7d72f50c419344e89f5be96e12913dead54fbafc5548a3fced32c0cd3e40.webp",
+      "sha256": "560b7d72f50c419344e89f5be96e12913dead54fbafc5548a3fced32c0cd3e40",
+      "bytes": 37278
+    },
+    "assets/portraits/cutouts-v2/person-O6vcEaWa7IIdQEueU9d.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e07a4246396c7f60fbafd7d85d07fbdabc7d21303a432bd58aeaf307a0eca852.webp",
+      "sha256": "e07a4246396c7f60fbafd7d85d07fbdabc7d21303a432bd58aeaf307a0eca852",
+      "bytes": 16254
+    },
+    "assets/portraits/cutouts-v2/person-O7-abFFkCpqVWpwe12c.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e724e2d8d1fe2c026106121ae6c7573dc14343128e35d3d75026368936175ace.webp",
+      "sha256": "e724e2d8d1fe2c026106121ae6c7573dc14343128e35d3d75026368936175ace",
+      "bytes": 43360
+    },
+    "assets/portraits/cutouts-v2/person-O7-cn3k1BfTWl9yqY_D.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/93680ab3e439778b5d0d352966d62c4d8ea3430a714e3f22e59f7e4199da13ce.webp",
+      "sha256": "93680ab3e439778b5d0d352966d62c4d8ea3430a714e3f22e59f7e4199da13ce",
+      "bytes": 25120
+    },
+    "assets/portraits/cutouts-v2/person-O7-cqaHRZw-PSxstQT5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6c23502d67d389d9159981ef54d451bceb82d88232d77e19b731819b3b0c4d18.webp",
+      "sha256": "6c23502d67d389d9159981ef54d451bceb82d88232d77e19b731819b3b0c4d18",
+      "bytes": 21196
+    },
+    "assets/portraits/cutouts-v2/person-O7-crilzCzSFd6K716U.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/292c3210ca2bc0510b3651b4025a37bf1ad8b60836a0574b4d28c672a97a882e.webp",
+      "sha256": "292c3210ca2bc0510b3651b4025a37bf1ad8b60836a0574b4d28c672a97a882e",
+      "bytes": 14960
+    },
+    "assets/portraits/cutouts-v2/person-O7-cstosjZCSkydvKHV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dad31025157847b69bcc244b2b9fc487f6fbd368e9086ceb13b5aad63cbd670c.webp",
+      "sha256": "dad31025157847b69bcc244b2b9fc487f6fbd368e9086ceb13b5aad63cbd670c",
+      "bytes": 18652
+    },
+    "assets/portraits/cutouts-v2/person-O7Dm2XTQvR29htbcdq3.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/28c6832fbd831126fe08f9be6aae3afd0f23409a56e834fe2a5fdfb2c952fe82.webp",
+      "sha256": "28c6832fbd831126fe08f9be6aae3afd0f23409a56e834fe2a5fdfb2c952fe82",
+      "bytes": 24594
+    },
+    "assets/portraits/cutouts-v2/person-O7E9usP748P2reVvYWV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/31a3d5354caae53c725e044c73d8c233224de75aa115f6a0a5f6050b69fca3f3.webp",
+      "sha256": "31a3d5354caae53c725e044c73d8c233224de75aa115f6a0a5f6050b69fca3f3",
+      "bytes": 29156
+    },
+    "assets/portraits/cutouts-v2/person-O7EfFLzIODljnFhHRuo.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/542750511eadece3c2afa1453f03887eaba148bd505b003dc8b3ba0b701d0f64.webp",
+      "sha256": "542750511eadece3c2afa1453f03887eaba148bd505b003dc8b3ba0b701d0f64",
+      "bytes": 20014
+    },
+    "assets/portraits/cutouts-v2/person-O7UJa7gAtI4mp8QLRug.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/67ae5d12c06f24bbdb32c610081974514806101c1fd0ec5ee500c8651070279c.webp",
+      "sha256": "67ae5d12c06f24bbdb32c610081974514806101c1fd0ec5ee500c8651070279c",
+      "bytes": 26078
+    },
+    "assets/portraits/cutouts-v2/person-O7j-WxvCeJPDd9yrHGn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/25ee99658da29b7b119d488bd60fdcbec0020bc6589508adb81292384ecd7da1.webp",
+      "sha256": "25ee99658da29b7b119d488bd60fdcbec0020bc6589508adb81292384ecd7da1",
+      "bytes": 21074
+    },
+    "assets/portraits/cutouts-v2/person-O7mZIDrnk0MXAXvl0Ul.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fbef5fbb774b8ada71e1d3b5f2c730f5fc1130ba244aec3090ac953fe3a9b70f.webp",
+      "sha256": "fbef5fbb774b8ada71e1d3b5f2c730f5fc1130ba244aec3090ac953fe3a9b70f",
+      "bytes": 24416
+    },
+    "assets/portraits/cutouts-v2/person-O7s4vBFFBtBqajqAwhT.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9385140897d7c49c4d88a27d4c695fc9b553219de7b2e40fbb2821c36ba762f8.webp",
+      "sha256": "9385140897d7c49c4d88a27d4c695fc9b553219de7b2e40fbb2821c36ba762f8",
+      "bytes": 17892
+    },
+    "assets/portraits/cutouts-v2/person-O87GqdEDM6CsIVKMWel.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/126ceb6ccea44ea5bdaef6f26c65be4e92d53638ecf9cbfc09bcd314b1f1f7cb.webp",
+      "sha256": "126ceb6ccea44ea5bdaef6f26c65be4e92d53638ecf9cbfc09bcd314b1f1f7cb",
+      "bytes": 24934
+    },
+    "assets/portraits/cutouts-v2/person-O87bkTdawOIAfOIUutA.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f159537b8834efe98ff62e153dbf8d81c6990f43347bed876023f28e6bbcbcbb.webp",
+      "sha256": "f159537b8834efe98ff62e153dbf8d81c6990f43347bed876023f28e6bbcbcbb",
+      "bytes": 21258
+    },
+    "assets/portraits/cutouts-v2/person-O90rTFUeIXBFcaL2udf.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ed7e87359d9a764b633b082da8996349ae35029be60ac98189ab093870d1dff8.webp",
+      "sha256": "ed7e87359d9a764b633b082da8996349ae35029be60ac98189ab093870d1dff8",
+      "bytes": 23118
+    },
+    "assets/portraits/cutouts-v2/person-O9QPJVARk3kbYyIQjDm.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f309025c207e7c2a1141e84bce73c825d2f8dcfc35e3b3511d100d5b7e0f195b.webp",
+      "sha256": "f309025c207e7c2a1141e84bce73c825d2f8dcfc35e3b3511d100d5b7e0f195b",
+      "bytes": 17660
+    },
+    "assets/portraits/cutouts-v2/person-O9jI_9sQZerKmKZ_-tK.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e8f8b12a840aa4f30fe74f823692f52ab5551267de7b15593f44b9705fa3d642.webp",
+      "sha256": "e8f8b12a840aa4f30fe74f823692f52ab5551267de7b15593f44b9705fa3d642",
+      "bytes": 30408
+    },
+    "assets/portraits/cutouts-v2/person-O9k2LBxm6bZ1tXEhs9P.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d14c9081adb7e36f10f430d1b0cbd8479359e952236f84c66481ca759aa3b364.webp",
+      "sha256": "d14c9081adb7e36f10f430d1b0cbd8479359e952236f84c66481ca759aa3b364",
+      "bytes": 18026
+    },
+    "assets/portraits/cutouts-v2/person-O9kTTqivtbZyyothZUD.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/01f6bf19de753e5acec2461ba471a0482a28ae39c72edaa864911fefbd71d1c3.webp",
+      "sha256": "01f6bf19de753e5acec2461ba471a0482a28ae39c72edaa864911fefbd71d1c3",
+      "bytes": 17790
+    },
+    "assets/portraits/cutouts-v2/person-O9pCX6cJwGTvMrmiv5p.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9e555a545022e85acf0434ca72e34cb781ec9fa0ae4d9db0262f2d1f4c153b5d.webp",
+      "sha256": "9e555a545022e85acf0434ca72e34cb781ec9fa0ae4d9db0262f2d1f4c153b5d",
+      "bytes": 29782
+    },
+    "assets/portraits/cutouts-v2/person-OBV08oQjSW0sQTBi4IU.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2666d390baeac0b63e7efb353851a575d60c11592e9c8eee8c8e7d8a603d387b.webp",
+      "sha256": "2666d390baeac0b63e7efb353851a575d60c11592e9c8eee8c8e7d8a603d387b",
+      "bytes": 21336
+    },
+    "assets/portraits/cutouts-v2/person-OBz7Z4946DOFH8cwNAd.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/189ada2de31ca7ee3dc133aa8c269858e9a9514d88013f623ce712c5b497d5f8.webp",
+      "sha256": "189ada2de31ca7ee3dc133aa8c269858e9a9514d88013f623ce712c5b497d5f8",
+      "bytes": 31258
+    },
+    "assets/portraits/cutouts-v2/person-ODaaLJ3QdmWiHwoqyTT.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/01be3c3a7b9815514ddac7f572a51df0d2704d580871d5ba92ce5c428a9c3bda.webp",
+      "sha256": "01be3c3a7b9815514ddac7f572a51df0d2704d580871d5ba92ce5c428a9c3bda",
+      "bytes": 36350
+    },
+    "assets/portraits/cutouts-v2/person-ODaaMTmdIcg9TOIhvvr.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f8aad810e04ed12681474a6753826a4dcef7f32740d052ddbb6a42d39b8c8030.webp",
+      "sha256": "f8aad810e04ed12681474a6753826a4dcef7f32740d052ddbb6a42d39b8c8030",
+      "bytes": 31580
+    },
+    "assets/portraits/cutouts-v2/person-OG01voPPqLtgyxR04tR.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/eebf6bef22d0db098834a484a164a20f810ba65865f3c62ff2fc072aabc91c8e.webp",
+      "sha256": "eebf6bef22d0db098834a484a164a20f810ba65865f3c62ff2fc072aabc91c8e",
+      "bytes": 35008
+    },
+    "assets/portraits/cutouts-v2/person-OH8LeG-nhNEBB2d56Ed.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad68db81595c83152604872d5c8e9755b5a95f916223bf1c96d4bfd0222591d7.webp",
+      "sha256": "ad68db81595c83152604872d5c8e9755b5a95f916223bf1c96d4bfd0222591d7",
+      "bytes": 47210
+    },
+    "assets/portraits/cutouts-v2/person-OHZFa8AWH1s70oRnPwA.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dcc90523e7e8260e0155cd680df27bb0c1cc645b4af1124998ada05c8574cfdb.webp",
+      "sha256": "dcc90523e7e8260e0155cd680df27bb0c1cc645b4af1124998ada05c8574cfdb",
+      "bytes": 36484
+    },
+    "assets/portraits/cutouts-v2/person-OHZFazrhnMZjwMiFgpn.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/aec3a1407f468e3b2d0b4e693859f4ef4cad3339eee4e687282726846ac32664.webp",
+      "sha256": "aec3a1407f468e3b2d0b4e693859f4ef4cad3339eee4e687282726846ac32664",
+      "bytes": 36192
+    },
+    "assets/portraits/cutouts-v2/person-OHZFbqjkRR-E0EFl2AD.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4f3a5ebdd918824f8e4872245e9fef3af26f2235d12821799e9e957d4d661d6a.webp",
+      "sha256": "4f3a5ebdd918824f8e4872245e9fef3af26f2235d12821799e9e957d4d661d6a",
+      "bytes": 6472
+    },
+    "assets/portraits/cutouts-v2/person-OHZI-5rS0nlqkEt5ahp.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/179f31210fc777252095fea5b47e57287322cb1601771eeacd0eb1465a167f02.webp",
+      "sha256": "179f31210fc777252095fea5b47e57287322cb1601771eeacd0eb1465a167f02",
+      "bytes": 24240
+    },
+    "assets/portraits/cutouts-v2/person-OHZI0bxfd5mnLIRT8wH.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d7d7b35e522866bcaf85e2ce0324b1b5b62410e672e419df71e23e5aa9347c02.webp",
+      "sha256": "d7d7b35e522866bcaf85e2ce0324b1b5b62410e672e419df71e23e5aa9347c02",
+      "bytes": 30260
+    },
+    "assets/portraits/cutouts-v2/person-OHZIO36bDTKJgyM4Nfe.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/aa642a8f829ec5198817ac2fc19aafffc4cff68f02899686b93ad398695141dc.webp",
+      "sha256": "aa642a8f829ec5198817ac2fc19aafffc4cff68f02899686b93ad398695141dc",
+      "bytes": 35172
+    },
+    "assets/portraits/cutouts-v2/person-OHZJd8V7b-OcFxZpGaB.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/86459ee01e318c9aafa540dc7789322a29e6fa918ba49f1d1259cef602c02a10.webp",
+      "sha256": "86459ee01e318c9aafa540dc7789322a29e6fa918ba49f1d1259cef602c02a10",
+      "bytes": 22762
+    },
+    "assets/portraits/cutouts-v2/person-OHZMrhQUzx0TXe2c4pC.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4fba30e678448f419909443135c9e3e0549d9d26e64746168e4d917a3c2bdbe6.webp",
+      "sha256": "4fba30e678448f419909443135c9e3e0549d9d26e64746168e4d917a3c2bdbe6",
+      "bytes": 38424
+    },
+    "assets/portraits/cutouts-v2/person-OHZMt6-yqCPkjGJLIcX.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8f6cc82493a1d749192f9274207cf690b468fecd4382477aef10524bda174276.webp",
+      "sha256": "8f6cc82493a1d749192f9274207cf690b468fecd4382477aef10524bda174276",
+      "bytes": 42094
+    },
+    "assets/portraits/cutouts-v2/person-OIArs7ozqiP3kvENKe4.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/da7bbceb47b58b2d9ffb1b6dfe2c0c50bc7f7f077720dd0df8e181c20b09593d.webp",
+      "sha256": "da7bbceb47b58b2d9ffb1b6dfe2c0c50bc7f7f077720dd0df8e181c20b09593d",
+      "bytes": 37992
+    },
+    "assets/portraits/cutouts-v2/person-OL5Qv16Obqos9Ro_oan.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e5357dff0ea05b7abc065164e94e5aa44e4eba84e3d9027f911bb10464319dcd.webp",
+      "sha256": "e5357dff0ea05b7abc065164e94e5aa44e4eba84e3d9027f911bb10464319dcd",
+      "bytes": 22788
+    },
+    "assets/portraits/cutouts-v2/person-OLVnRaOn58FqCfbZXq0.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d12e8af274f41868ccdb47e0a6531cc44fc40ced0c0ee60c8adf0e57c1d8585d.webp",
+      "sha256": "d12e8af274f41868ccdb47e0a6531cc44fc40ced0c0ee60c8adf0e57c1d8585d",
+      "bytes": 18480
+    },
+    "assets/portraits/cutouts-v2/person-OMwO1ypkwQ5eGL0Nui-.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3bc46c940605ad4d48e76f77dd3062a958ce4d411579c9b458b726e1ed4209d0.webp",
+      "sha256": "3bc46c940605ad4d48e76f77dd3062a958ce4d411579c9b458b726e1ed4209d0",
+      "bytes": 30912
+    },
+    "assets/portraits/cutouts-v2/person-ONhqCBeAfSy9jZ4YfI1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/689e1c8f165fb1c9a14fa2be0e3b2bc027d3188cac9b050315f6d9bc6ee9f646.webp",
+      "sha256": "689e1c8f165fb1c9a14fa2be0e3b2bc027d3188cac9b050315f6d9bc6ee9f646",
+      "bytes": 32216
+    },
+    "assets/portraits/cutouts-v2/person-OODHgpHGgjaJ58DDkc6.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b15bf2f7770d0341a6c54e333d3863dfacb97f124a4b39cb5cfe50c6ada7e83f.webp",
+      "sha256": "b15bf2f7770d0341a6c54e333d3863dfacb97f124a4b39cb5cfe50c6ada7e83f",
+      "bytes": 31132
+    },
+    "assets/portraits/cutouts-v2/person-OQO573x5MiLl3Kx2zZ6.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dc5eb440d6482e8c7454e40d7d3364d1452a1822a42728e1aa8b4314273f1bd9.webp",
+      "sha256": "dc5eb440d6482e8c7454e40d7d3364d1452a1822a42728e1aa8b4314273f1bd9",
+      "bytes": 14548
+    },
+    "assets/portraits/cutouts-v2/person-OQOB6imbfe4uNyrqT8k.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1039f2b152e17d8ecc829eadbc719a9bba455b67f2d30c86cb26b52fb6e52074.webp",
+      "sha256": "1039f2b152e17d8ecc829eadbc719a9bba455b67f2d30c86cb26b52fb6e52074",
+      "bytes": 17642
+    },
+    "assets/portraits/cutouts-v2/person-OQOBcCf5GM-ZP_DNTUH.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/495277e5566e8a184a078bbedcf7b07ae735dcd0013b70e6db4ba158493b1170.webp",
+      "sha256": "495277e5566e8a184a078bbedcf7b07ae735dcd0013b70e6db4ba158493b1170",
+      "bytes": 20504
+    },
+    "assets/portraits/cutouts-v2/person-OQOBhPICyZ6DVEV25fz.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e950465320481cd1a234580465d86ffc9526a265c31296a81dd49c2b21aabaf6.webp",
+      "sha256": "e950465320481cd1a234580465d86ffc9526a265c31296a81dd49c2b21aabaf6",
+      "bytes": 18768
+    },
+    "assets/portraits/cutouts-v2/person-OQy45AlL-8BPujLoXl9.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1c8a2755b6eb358204f1c1974ab91a73ad16c4a025193e13069e563a863900e0.webp",
+      "sha256": "1c8a2755b6eb358204f1c1974ab91a73ad16c4a025193e13069e563a863900e0",
+      "bytes": 21946
+    },
+    "assets/portraits/cutouts-v2/person-OUBep-E7mN4envgShwu.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/113559a75dd2beae55839a84bcddf5e920a3d708e20845caf65e30a3f2f3e808.webp",
+      "sha256": "113559a75dd2beae55839a84bcddf5e920a3d708e20845caf65e30a3f2f3e808",
+      "bytes": 30796
+    },
+    "assets/portraits/cutouts-v2/person-OUnl199tTwKAi14vLBq.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c623186f3f768a7e10b250ef5ba6373a388685bad03029d0d216b668d600f6b8.webp",
+      "sha256": "c623186f3f768a7e10b250ef5ba6373a388685bad03029d0d216b668d600f6b8",
+      "bytes": 15942
+    },
+    "assets/portraits/cutouts-v2/person-OUnl1unU9N38RbCMIe9.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e70ddcf6b4ca332541fc6e3c03024021645622274a8b8c1d468bcd40026ebf05.webp",
+      "sha256": "e70ddcf6b4ca332541fc6e3c03024021645622274a8b8c1d468bcd40026ebf05",
+      "bytes": 17464
+    },
+    "assets/portraits/cutouts-v2/person-OUoQz9aQuMnykNzW4Yr.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/184b552aabb079d08aa14ac7e7769fc6f865e7220a9aca2ca20a22246c0438cb.webp",
+      "sha256": "184b552aabb079d08aa14ac7e7769fc6f865e7220a9aca2ca20a22246c0438cb",
+      "bytes": 32998
+    },
+    "assets/portraits/cutouts-v2/person-OZiaRQGpHeyNUXWp_bH.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/38a4f3653203a256d85168b9127c7300ea028101863f5827a6e2350dae72d2d3.webp",
+      "sha256": "38a4f3653203a256d85168b9127c7300ea028101863f5827a6e2350dae72d2d3",
+      "bytes": 63708
+    },
+    "assets/portraits/cutouts-v2/person-O_1lbru7gsDe3Lft398.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ae30bd85a9f64fe86b7d6d267b610a88bbaec253747ed303f14fcb5785f6db2b.webp",
+      "sha256": "ae30bd85a9f64fe86b7d6d267b610a88bbaec253747ed303f14fcb5785f6db2b",
+      "bytes": 21332
+    },
+    "assets/portraits/cutouts-v2/person-O_hOzFIxwPscYc9NdAE.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/35932aba9ee5749312229de56a59d149736aba19c78474916861ee2785f6df33.webp",
+      "sha256": "35932aba9ee5749312229de56a59d149736aba19c78474916861ee2785f6df33",
+      "bytes": 32602
+    },
+    "assets/portraits/cutouts-v2/person-O_hQPFuslHY12-2Ft2G.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/99abe30ee0fe0c0ddae6ab740ebb9e2b2fbf97b881d547bbddc99ed74183ce2a.webp",
+      "sha256": "99abe30ee0fe0c0ddae6ab740ebb9e2b2fbf97b881d547bbddc99ed74183ce2a",
+      "bytes": 33392
+    },
+    "assets/portraits/cutouts-v2/person-O_hRFt9F7JkfQerhuEe.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/60f01caf64f10216d847103e11e2625ad154a3e70ee59a57c882b24ed4158b05.webp",
+      "sha256": "60f01caf64f10216d847103e11e2625ad154a3e70ee59a57c882b24ed4158b05",
+      "bytes": 18536
+    },
+    "assets/portraits/cutouts-v2/person-Oaagj4jgVPkRTA24HDq.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c63a1dcfe4d7e0c5ef1bce24d349a0da164e75fc6e71512ad52adc35577fecf1.webp",
+      "sha256": "c63a1dcfe4d7e0c5ef1bce24d349a0da164e75fc6e71512ad52adc35577fecf1",
+      "bytes": 28422
+    },
+    "assets/portraits/cutouts-v2/person-OaelOZmQQe_8ANAzyz6.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d33b497abe815472844cac8dd90b1d3309ba03ba3216159461ca100201b3b024.webp",
+      "sha256": "d33b497abe815472844cac8dd90b1d3309ba03ba3216159461ca100201b3b024",
+      "bytes": 40564
+    },
+    "assets/portraits/cutouts-v2/person-ObE0vBNsC0Zi8MPxGeC.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/44b42e045e9c531f62bb2a01814f751ea31bd206f0b3d3903e4227ceb9442b89.webp",
+      "sha256": "44b42e045e9c531f62bb2a01814f751ea31bd206f0b3d3903e4227ceb9442b89",
+      "bytes": 15370
+    },
+    "assets/portraits/cutouts-v2/person-ObE2-qaQWvmXsZ1j1xz.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/122532f1758abc982f563f3c3faa741b81767f053d2a2db443c1d4b04b02a4f2.webp",
+      "sha256": "122532f1758abc982f563f3c3faa741b81767f053d2a2db443c1d4b04b02a4f2",
+      "bytes": 5602
+    },
+    "assets/portraits/cutouts-v2/person-ObE2ee8tWz-SI2wQ-xe.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/208f667790968e94984b1a0ae9bfeba8c4d4b48df2d738e7ba30fcd3f70f10c3.webp",
+      "sha256": "208f667790968e94984b1a0ae9bfeba8c4d4b48df2d738e7ba30fcd3f70f10c3",
+      "bytes": 13738
+    },
+    "assets/portraits/cutouts-v2/person-ObE3rQxoSbfb31Akzdy.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3594d0f7780a82435f4c1f583caf4a25831200eee01686e2ea5945f0d14ef34d.webp",
+      "sha256": "3594d0f7780a82435f4c1f583caf4a25831200eee01686e2ea5945f0d14ef34d",
+      "bytes": 19772
+    },
+    "assets/portraits/cutouts-v2/person-Oc0jQ_NYQPIyliKYXL5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8e7d1b4b4aca20c09f9fadbbd70b75e4e81b8bab6997cfc3224e381dcc919df2.webp",
+      "sha256": "8e7d1b4b4aca20c09f9fadbbd70b75e4e81b8bab6997cfc3224e381dcc919df2",
+      "bytes": 35400
+    },
+    "assets/portraits/cutouts-v2/person-Oc0rUj6C0DbGRYt1GJV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8207d16882e5003ff2ef754b3ee00a678847c6a3633641b393e2d3a744a4e056.webp",
+      "sha256": "8207d16882e5003ff2ef754b3ee00a678847c6a3633641b393e2d3a744a4e056",
+      "bytes": 27328
+    },
+    "assets/portraits/cutouts-v2/person-OcBvnS0mDII1U28sHcP.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9980dc6a985a17bba11c7e44c9a2a21d9051613be9ac182fe0eecaba6ab3ee09.webp",
+      "sha256": "9980dc6a985a17bba11c7e44c9a2a21d9051613be9ac182fe0eecaba6ab3ee09",
+      "bytes": 32602
+    },
+    "assets/portraits/cutouts-v2/person-OcL3D_ZIw53wBgfK7iQ.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/85c84380252b2d233ac1beb9defe51c4a8105644a226fed59290bbef7a731389.webp",
+      "sha256": "85c84380252b2d233ac1beb9defe51c4a8105644a226fed59290bbef7a731389",
+      "bytes": 38984
+    },
+    "assets/portraits/cutouts-v2/person-OdcJ50TDrI0Qaoyvi3Z.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/095ad3a0120d52183da17f5b5288122140c327ba8201b40b760836f99027357e.webp",
+      "sha256": "095ad3a0120d52183da17f5b5288122140c327ba8201b40b760836f99027357e",
+      "bytes": 25820
+    },
+    "assets/portraits/cutouts-v2/person-Oe1fkIHcNWTd0agGd9l.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7b37edfbc928f6627408e0470a640981425199debe1f9fee91b6bc715cd6be62.webp",
+      "sha256": "7b37edfbc928f6627408e0470a640981425199debe1f9fee91b6bc715cd6be62",
+      "bytes": 18088
+    },
+    "assets/portraits/cutouts-v2/person-Oe2AIUwpXIkU1mZzmaG.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6bbd4949e42893642285b49730ab2c56e1957208c8d978746eab8b848fdaea50.webp",
+      "sha256": "6bbd4949e42893642285b49730ab2c56e1957208c8d978746eab8b848fdaea50",
+      "bytes": 20680
+    },
+    "assets/portraits/cutouts-v2/person-Oe2CpUdyvIFpA_HKe-R.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/45f44e018b795d27a5457828b9b1fba0a709c11721c9a8160da8b29f7ed7e768.webp",
+      "sha256": "45f44e018b795d27a5457828b9b1fba0a709c11721c9a8160da8b29f7ed7e768",
+      "bytes": 16842
+    },
+    "assets/portraits/cutouts-v2/person-Oe2cLcHvK4iCfM92rI4.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/be0d69bd3d4f8c2e380220d0c4472507afd780288b8f3e6afbe72e60188b5160.webp",
+      "sha256": "be0d69bd3d4f8c2e380220d0c4472507afd780288b8f3e6afbe72e60188b5160",
+      "bytes": 32398
+    },
+    "assets/portraits/cutouts-v2/person-Oeg6htN_ZUCJ89XDio5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/91f99e891cace919ade83322680c56b137da920fc78e47cddc63d566c6e2b0cd.webp",
+      "sha256": "91f99e891cace919ade83322680c56b137da920fc78e47cddc63d566c6e2b0cd",
+      "bytes": 29880
+    },
+    "assets/portraits/cutouts-v2/person-OevMn7oStRgCGCCnV_Y.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8d9eff86232a5ebf3c19021769b2b03aeb20e713fcce0ef02db41c12ee4fb627.webp",
+      "sha256": "8d9eff86232a5ebf3c19021769b2b03aeb20e713fcce0ef02db41c12ee4fb627",
+      "bytes": 28212
+    },
+    "assets/portraits/cutouts-v2/person-OwlhOR83iOyFl9jzt9f.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4c32ea710f991466b4034ffa84b6a83656d28037357c4b347e64363b1e760f3b.webp",
+      "sha256": "4c32ea710f991466b4034ffa84b6a83656d28037357c4b347e64363b1e760f3b",
+      "bytes": 25428
+    },
+    "assets/portraits/cutouts-v2/person-P2Cf2tKzHloXG7mBzo3.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e73811eaaae9ffd0904962e5351fcbd72daa442ea8f60fafe1a86ede001dedc4.webp",
+      "sha256": "e73811eaaae9ffd0904962e5351fcbd72daa442ea8f60fafe1a86ede001dedc4",
+      "bytes": 19828
+    },
+    "assets/portraits/cutouts-v2/person-P3X0Eaizwr4F3gtCUcY.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/99f8cdc4493868419ba6b5052c42d57c565f9d85c5c8e0eafacfd3490864f40e.webp",
+      "sha256": "99f8cdc4493868419ba6b5052c42d57c565f9d85c5c8e0eafacfd3490864f40e",
+      "bytes": 14780
+    },
+    "assets/portraits/cutouts-v2/person-P3X0bhcbOfas4tX0kMV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d54f308c65c526f07a59345d8841c0be60ecefe2c957dc3d697c9ace4f3e83ec.webp",
+      "sha256": "d54f308c65c526f07a59345d8841c0be60ecefe2c957dc3d697c9ace4f3e83ec",
+      "bytes": 31268
+    },
+    "assets/portraits/cutouts-v2/person-P3X142fpXJRZFfJbbBV.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bd04a7de0d58ad71ee9eab296d174ad3c4d0d359a490b236f163db06fad61b10.webp",
+      "sha256": "bd04a7de0d58ad71ee9eab296d174ad3c4d0d359a490b236f163db06fad61b10",
+      "bytes": 19560
+    },
+    "assets/portraits/cutouts-v2/person-P3X1u_Y4Unu3JXCoo_X.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2754262f4f52a5a6aad35a435740923885b5e6b8aeb4e110c2ccaa6dd8acb8eb.webp",
+      "sha256": "2754262f4f52a5a6aad35a435740923885b5e6b8aeb4e110c2ccaa6dd8acb8eb",
+      "bytes": 23936
+    },
+    "assets/portraits/cutouts-v2/person-P3X2PLy73U6_fApkFkl.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/79c1238e368597dd2a1d1598e8f0d7b0a6413792724e54b61314f8559011d675.webp",
+      "sha256": "79c1238e368597dd2a1d1598e8f0d7b0a6413792724e54b61314f8559011d675",
+      "bytes": 23288
+    },
+    "assets/portraits/cutouts-v2/person-P3X3-cT9EQk_SsY08ZI.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4e9183fbc842e7137b9e7cf7c7a2cff926e3c7b8c7aa1d4f24b659f23dd62fb3.webp",
+      "sha256": "4e9183fbc842e7137b9e7cf7c7a2cff926e3c7b8c7aa1d4f24b659f23dd62fb3",
+      "bytes": 18746
+    },
+    "assets/portraits/cutouts-v2/person-P3X3KCrZXf1-69C7r4U.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1b0041591feaae902ff40daa60ccdd31dfe13e06ceb709192a5761c66f451674.webp",
+      "sha256": "1b0041591feaae902ff40daa60ccdd31dfe13e06ceb709192a5761c66f451674",
+      "bytes": 24986
+    },
+    "assets/portraits/cutouts-v2/person-P3X5IbYb-ABj8dOuaJR.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/72544ce775f30f75ebcf53761f81eaf47f9125b1edeb967c02e6b68e4c4b54ed.webp",
+      "sha256": "72544ce775f30f75ebcf53761f81eaf47f9125b1edeb967c02e6b68e4c4b54ed",
+      "bytes": 25092
+    },
+    "assets/portraits/cutouts-v2/person-P3X5vG01e8zkQfXN27a.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cedfdf5c394b3a5525ebbdf82290047cb204c2629ff5f68f57f3039688750736.webp",
+      "sha256": "cedfdf5c394b3a5525ebbdf82290047cb204c2629ff5f68f57f3039688750736",
+      "bytes": 22750
+    },
+    "assets/portraits/cutouts-v2/person-P3X6dZB6syQctL2eOsg.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3f2936866993927b3e8e50850f18b45fb2a7dcab8b98573a3c1db4fbf79e7767.webp",
+      "sha256": "3f2936866993927b3e8e50850f18b45fb2a7dcab8b98573a3c1db4fbf79e7767",
+      "bytes": 28858
+    },
+    "assets/portraits/cutouts-v2/person-P3X9QZU2SDdXHdxfjrB.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/eef3529d22cdffaf83c11a2287b9570a823defa140d117c658faa386617aa4c1.webp",
+      "sha256": "eef3529d22cdffaf83c11a2287b9570a823defa140d117c658faa386617aa4c1",
+      "bytes": 23134
+    },
+    "assets/portraits/cutouts-v2/person-P3a0klk8YlkvKokf9ms.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/36cf9613c7c9b7f67199c3cee66db9f5b7b243f0be769043cc0fc6e8c3f541bd.webp",
+      "sha256": "36cf9613c7c9b7f67199c3cee66db9f5b7b243f0be769043cc0fc6e8c3f541bd",
+      "bytes": 22898
+    },
+    "assets/portraits/cutouts-v2/person-P3j9UhUyQrUdA7oHdHw.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad62c274ebda9d7483484b180a28bd68723f0dd2fd7b3c8522c2946608627a4f.webp",
+      "sha256": "ad62c274ebda9d7483484b180a28bd68723f0dd2fd7b3c8522c2946608627a4f",
+      "bytes": 18248
+    },
+    "assets/portraits/cutouts-v2/person-P3j9l3vLyK9n6amwbrQ.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c0e7afe2e5e0f484415b26ce2d36d349070a661a98c84a4ae303120e9a39c7c7.webp",
+      "sha256": "c0e7afe2e5e0f484415b26ce2d36d349070a661a98c84a4ae303120e9a39c7c7",
+      "bytes": 28876
+    },
+    "assets/portraits/cutouts-v2/person-P3jEFkITQjiiFfqVpVs.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7fea8cc1bde944cf38b704f31251ece4543890df210b464ee956f1fd3a1e1137.webp",
+      "sha256": "7fea8cc1bde944cf38b704f31251ece4543890df210b464ee956f1fd3a1e1137",
+      "bytes": 25576
+    },
+    "assets/portraits/cutouts-v2/person-P3jufNoqTdZsdQ3Kxno.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3d26878e6bad7146565d6a59648c9c1f55d1c4cf2a75a03eacd634a4068602e1.webp",
+      "sha256": "3d26878e6bad7146565d6a59648c9c1f55d1c4cf2a75a03eacd634a4068602e1",
+      "bytes": 21500
+    },
+    "assets/portraits/cutouts-v2/person-P3jug3ekyA_KDYVESru.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/24f344133d050ddf0d2dc0d338eb5da7bb787d3dace376b5323510b512d0774e.webp",
+      "sha256": "24f344133d050ddf0d2dc0d338eb5da7bb787d3dace376b5323510b512d0774e",
+      "bytes": 20200
+    },
+    "assets/portraits/cutouts-v2/person-P3jzKNOFDvbqsI4wZlw.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/33d1467ca730052d2fa9402dda8825a0f1204c43db3ae505957382ba9c6ba833.webp",
+      "sha256": "33d1467ca730052d2fa9402dda8825a0f1204c43db3ae505957382ba9c6ba833",
+      "bytes": 29520
+    },
+    "assets/portraits/cutouts-v2/person-P3k0KHNvSX4PrXo-AXA.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c0c89fc59644b2af8c326661edaf38538a840033680003e28aeebfff01a7ef8b.webp",
+      "sha256": "c0c89fc59644b2af8c326661edaf38538a840033680003e28aeebfff01a7ef8b",
+      "bytes": 24564
+    },
+    "assets/portraits/cutouts-v2/person-P3kMNcpEBYWNPs2lSZJ.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e0b3ea57931c46eb39fdcfc56819ba5dfce30676685baa02b47c7c65f18b5b21.webp",
+      "sha256": "e0b3ea57931c46eb39fdcfc56819ba5dfce30676685baa02b47c7c65f18b5b21",
+      "bytes": 17254
+    },
+    "assets/portraits/cutouts-v2/person-P42UFMcng69xgbq4cA9.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/57034d88b50524bac85f78ef67c30a9b2559e411647b3027fc89e317adb08f5a.webp",
+      "sha256": "57034d88b50524bac85f78ef67c30a9b2559e411647b3027fc89e317adb08f5a",
+      "bytes": 17396
+    },
+    "assets/portraits/cutouts-v2/person-P42UZ3Ryi8N2WMdGL-b.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1fe5d9ce669beca42bf7f195abf6a393ca7320bcafaf5720a3cf444e68fd6123.webp",
+      "sha256": "1fe5d9ce669beca42bf7f195abf6a393ca7320bcafaf5720a3cf444e68fd6123",
+      "bytes": 12036
+    },
+    "assets/portraits/cutouts-v2/person-P42X2D2PpJv0bgbpI35.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cdeb039cc1ebe72ec1377f2366159319378fd0b373701c963e721c53d03de147.webp",
+      "sha256": "cdeb039cc1ebe72ec1377f2366159319378fd0b373701c963e721c53d03de147",
+      "bytes": 17820
+    },
+    "assets/portraits/cutouts-v2/person-P42Y58VjXTZmRnBPhZl.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/157a9fa441959effc6a583902a67fea9d5872fd0c500b58b3ce7fac42507626e.webp",
+      "sha256": "157a9fa441959effc6a583902a67fea9d5872fd0c500b58b3ce7fac42507626e",
+      "bytes": 21066
+    },
+    "assets/portraits/cutouts-v2/person-P42Y5UizBpqT3CIilny.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/95405184266d2403173d268dff5ce6d30b9297247137ec9e9b0b02bb3ac1f1a3.webp",
+      "sha256": "95405184266d2403173d268dff5ce6d30b9297247137ec9e9b0b02bb3ac1f1a3",
+      "bytes": 26260
+    },
+    "assets/portraits/cutouts-v2/person-P42Ygc6uw8RMlzNNlDe.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/048144529124a76568d4b3120864441aebdabfeda5a9ef2927e43a57ee948472.webp",
+      "sha256": "048144529124a76568d4b3120864441aebdabfeda5a9ef2927e43a57ee948472",
+      "bytes": 26664
+    },
+    "assets/portraits/cutouts-v2/person-P42Z2nA77KBxC0ghg8v.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c6e2b54c79b16f5359e9e441bab48b7cd8cc4da40b6e0c6b2c99c4d373c8f11c.webp",
+      "sha256": "c6e2b54c79b16f5359e9e441bab48b7cd8cc4da40b6e0c6b2c99c4d373c8f11c",
+      "bytes": 26530
+    },
+    "assets/portraits/cutouts-v2/person-P42ZfoPBqtcbdPE3UIy.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/43cfe4c57929865ef447a178d14dc975c9baba5379bbb494e816886bd97be3e7.webp",
+      "sha256": "43cfe4c57929865ef447a178d14dc975c9baba5379bbb494e816886bd97be3e7",
+      "bytes": 21130
+    },
+    "assets/portraits/cutouts-v2/person-P42Zx08J9S50wZLDDnd.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/134f605e281d964cbf12874dab68b640d71db32de8eb269ef09264beba910c30.webp",
+      "sha256": "134f605e281d964cbf12874dab68b640d71db32de8eb269ef09264beba910c30",
+      "bytes": 36814
+    },
+    "assets/portraits/cutouts-v2/satoru.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/66a5caa798ed8ff7d87dcc7bd705ddc77dc6ccca9d4c3feeffbbfc66cde4a458.webp",
+      "sha256": "66a5caa798ed8ff7d87dcc7bd705ddc77dc6ccca9d4c3feeffbbfc66cde4a458",
+      "bytes": 20792
+    },
+    "assets/portraits/eowa.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3cad036dc5a9e98b25e39ce81af61cdabf910e54c9c9dce0da380d2272bace9e.png",
+      "sha256": "3cad036dc5a9e98b25e39ce81af61cdabf910e54c9c9dce0da380d2272bace9e",
+      "bytes": 273552
+    },
+    "assets/portraits/frames/ronce-ivoire.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4cd4c4659fe2fa00c4e75f4fb8d29d450138a32c977f832f33d9fa4624eb7cc1.png",
+      "sha256": "4cd4c4659fe2fa00c4e75f4fb8d29d450138a32c977f832f33d9fa4624eb7cc1",
+      "bytes": 21352
+    },
+    "assets/portraits/fuyumi.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/cdd48fe2ca06e7209e5dbdcdcf6dc3647845703368e58a98336b34a5fcd54ebb.png",
+      "sha256": "cdd48fe2ca06e7209e5dbdcdcf6dc3647845703368e58a98336b34a5fcd54ebb",
+      "bytes": 367634
+    },
+    "assets/portraits/generic-lices/bushi-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f.webp",
+      "sha256": "ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f",
+      "bytes": 29874
+    },
+    "assets/portraits/generic-lices/bushi-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185.webp",
+      "sha256": "00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185",
+      "bytes": 23418
+    },
+    "assets/portraits/generic-lices/courtier-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1.webp",
+      "sha256": "0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1",
+      "bytes": 20304
+    },
+    "assets/portraits/generic-lices/courtier-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023.webp",
+      "sha256": "0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023",
+      "bytes": 25182
+    },
+    "assets/portraits/generic-lices/ronin-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660.webp",
+      "sha256": "b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660",
+      "bytes": 31812
+    },
+    "assets/portraits/generic-lices/ronin-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece.webp",
+      "sha256": "36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece",
+      "bytes": 28534
+    },
+    "assets/portraits/generic-lices/shugenja-man-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c.webp",
+      "sha256": "48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c",
+      "bytes": 30248
+    },
+    "assets/portraits/generic-lices/shugenja-woman-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1.webp",
+      "sha256": "ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1",
+      "bytes": 26666
+    },
+    "assets/portraits/hiroshi.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2.webp",
+      "sha256": "faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2",
+      "bytes": 368836
+    },
+    "assets/portraits/kawa-no-taisho-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735.webp",
+      "sha256": "88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735",
+      "bytes": 1024338
+    },
+    "assets/portraits/kiyomori.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f834e3c38365b090c74426607fb0f8f8150b441dbd104e83368ccd64bf03a070.png",
+      "sha256": "f834e3c38365b090c74426607fb0f8f8150b441dbd104e83368ccd64bf03a070",
+      "bytes": 387985
+    },
+    "assets/portraits/kohi.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd.webp",
+      "sha256": "1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd",
+      "bytes": 373596
+    },
+    "assets/portraits/naia-med-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
+      "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
+      "bytes": 241751
+    },
+    "assets/portraits/satoru.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6.png",
+      "sha256": "148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6",
+      "bytes": 387659
+    },
+    "assets/portraits/seika.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
+      "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
+      "bytes": 109724
+    },
     "assets/wardrobe/abysses/bas-et-bottes.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/5f7876e0c50330a796d1d091a71a9c929d846ad2137c60cc882b5b8d7941995b.png",
       "sha256": "5f7876e0c50330a796d1d091a71a9c929d846ad2137c60cc882b5b8d7941995b",
@@ -7057,821 +7872,6 @@
       "sha256": "9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957",
       "bytes": 9690
     },
-    "assets/portraits/akari.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc.webp",
-      "sha256": "b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc",
-      "bytes": 385608
-    },
-    "assets/portraits/cutouts-v2/akari.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/13da34169315b2c5b5dcb3e083a4c0621420ff1beb0fe91b0f0f58d7a1bb27b6.webp",
-      "sha256": "13da34169315b2c5b5dcb3e083a4c0621420ff1beb0fe91b0f0f58d7a1bb27b6",
-      "bytes": 60186
-    },
-    "assets/portraits/cutouts-v2/eowa.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b58f949708c64a9af648becb6a1e91209fe9f537de4171a14f0f8725375d3418.webp",
-      "sha256": "b58f949708c64a9af648becb6a1e91209fe9f537de4171a14f0f8725375d3418",
-      "bytes": 23814
-    },
-    "assets/portraits/cutouts-v2/fuyumi.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dff8fc919b62320eff7126a389c6c7c096bcdde1dbf764b8fac0217b66b87f6d.webp",
-      "sha256": "dff8fc919b62320eff7126a389c6c7c096bcdde1dbf764b8fac0217b66b87f6d",
-      "bytes": 22322
-    },
-    "assets/portraits/cutouts-v2/hiroshi.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/825701fa2a6cfc447e2c1a620473f7fdb16224fa996393e68e03529f2e96c67c.webp",
-      "sha256": "825701fa2a6cfc447e2c1a620473f7fdb16224fa996393e68e03529f2e96c67c",
-      "bytes": 56232
-    },
-    "assets/portraits/cutouts-v2/kiyomori.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a4319d96c566c4fae6fcb22d28cce8bf9a04d0ef637546e54166f2f922eb8a0d.webp",
-      "sha256": "a4319d96c566c4fae6fcb22d28cce8bf9a04d0ef637546e54166f2f922eb8a0d",
-      "bytes": 25872
-    },
-    "assets/portraits/cutouts-v2/kohi.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/746e6dc052a3d04a2eab8bf76b727cfdc56cdd5d8f9e4c975406ee4c5b201d9b.webp",
-      "sha256": "746e6dc052a3d04a2eab8bf76b727cfdc56cdd5d8f9e4c975406ee4c5b201d9b",
-      "bytes": 58866
-    },
-    "assets/portraits/cutouts-v2/person-K0M51kkBCgEYFrSXt0o.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c5bdce484b63d731e2409fd3354921f7efc0cf323c3903aff37e87099984da1c.webp",
-      "sha256": "c5bdce484b63d731e2409fd3354921f7efc0cf323c3903aff37e87099984da1c",
-      "bytes": 29322
-    },
-    "assets/portraits/cutouts-v2/person-KcPXVJ4bUfwB_MT-NNX.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/25624e7c789bda3b1561ee8921436aab84297b3c316cd49a88662977b91c9351.webp",
-      "sha256": "25624e7c789bda3b1561ee8921436aab84297b3c316cd49a88662977b91c9351",
-      "bytes": 46968
-    },
-    "assets/portraits/cutouts-v2/person-L1d86B276MmAZqQGgAJ.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8df87ffb56f24fd5bb41745d7071141b471a3178dd479a4ccd598c482eef4467.webp",
-      "sha256": "8df87ffb56f24fd5bb41745d7071141b471a3178dd479a4ccd598c482eef4467",
-      "bytes": 19628
-    },
-    "assets/portraits/cutouts-v2/person-NNMYmIEajPof1mhbezS.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/42558394952bc81894f65a254bbf0462385e38a7eba8ffe3c892ae12470da8bc.webp",
-      "sha256": "42558394952bc81894f65a254bbf0462385e38a7eba8ffe3c892ae12470da8bc",
-      "bytes": 14092
-    },
-    "assets/portraits/cutouts-v2/person-NX20x-6kF3mnaPV7kxz.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ab6d9f76044287dc0ea294c3abbc93d0b8558e3ced007563a5753720a7283fe9.webp",
-      "sha256": "ab6d9f76044287dc0ea294c3abbc93d0b8558e3ced007563a5753720a7283fe9",
-      "bytes": 34724
-    },
-    "assets/portraits/cutouts-v2/person-Ni5Aq_-X-3mKJlwudUJ.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/6e2674836a08884324667062e9afc7b64c4dc615a9b09dea3272db3eb29121fd.webp",
-      "sha256": "6e2674836a08884324667062e9afc7b64c4dc615a9b09dea3272db3eb29121fd",
-      "bytes": 18722
-    },
-    "assets/portraits/cutouts-v2/person-NiATctjoaP2lcXuKwCK.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2b548cea37f11c35ac6fc60f52668965ed956281b4351b56e2814fabf7d0dde4.webp",
-      "sha256": "2b548cea37f11c35ac6fc60f52668965ed956281b4351b56e2814fabf7d0dde4",
-      "bytes": 36630
-    },
-    "assets/portraits/cutouts-v2/person-NuSj1oOIxqydafwcy-5.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/923e2128827b8de5df2a0bdc871331d099d47359a5fb2cfe0002a41e17edde6e.webp",
-      "sha256": "923e2128827b8de5df2a0bdc871331d099d47359a5fb2cfe0002a41e17edde6e",
-      "bytes": 23650
-    },
-    "assets/portraits/cutouts-v2/person-NxwRQkA2OnFW9LwLKSs.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f3a1adfbaef181c11c94c076ca58656f8a21d9f287e064af8e94e5e2c10ec6f4.webp",
-      "sha256": "f3a1adfbaef181c11c94c076ca58656f8a21d9f287e064af8e94e5e2c10ec6f4",
-      "bytes": 16704
-    },
-    "assets/portraits/cutouts-v2/person-O091f_e__ZKvev0CsEk.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/00dedaaa8c65739ed4b8f8a36c872e832742a9c6050c95bc62675ed71f457450.webp",
-      "sha256": "00dedaaa8c65739ed4b8f8a36c872e832742a9c6050c95bc62675ed71f457450",
-      "bytes": 22104
-    },
-    "assets/portraits/cutouts-v2/person-O0Y9u26EIC54ddVc-A6.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c08cbcc2d1534a96d92cb68df4ab7fcf101034f6d41d0d255b421bf80c3b81d4.webp",
-      "sha256": "c08cbcc2d1534a96d92cb68df4ab7fcf101034f6d41d0d255b421bf80c3b81d4",
-      "bytes": 20730
-    },
-    "assets/portraits/cutouts-v2/person-O0YLBpy3otEn1o7zp01.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/849a60cae769fbefec8bb095f9f471cc6cf0e5c0ab0c7742be08ee97b8d20a81.webp",
-      "sha256": "849a60cae769fbefec8bb095f9f471cc6cf0e5c0ab0c7742be08ee97b8d20a81",
-      "bytes": 32546
-    },
-    "assets/portraits/cutouts-v2/person-O0c1TISFuJJMqrIIVCG.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d80e34824c9315fd4087469e4a14b74fe45a77cdb737121f1b63de91d6fcaa0c.webp",
-      "sha256": "d80e34824c9315fd4087469e4a14b74fe45a77cdb737121f1b63de91d6fcaa0c",
-      "bytes": 17292
-    },
-    "assets/portraits/cutouts-v2/person-O0c1W4aIFRCcSPc8iQ3.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/99ac5ccc322b8636d9d34e2a422e588328e335429f5572af64496421c11a3533.webp",
-      "sha256": "99ac5ccc322b8636d9d34e2a422e588328e335429f5572af64496421c11a3533",
-      "bytes": 17404
-    },
-    "assets/portraits/cutouts-v2/person-O0mr6Z2LIQ3VKtg3M55.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e9568150c002354d161644e4113395fe6e4284ebd96cf0a62e4b3f89cf16771e.webp",
-      "sha256": "e9568150c002354d161644e4113395fe6e4284ebd96cf0a62e4b3f89cf16771e",
-      "bytes": 25124
-    },
-    "assets/portraits/cutouts-v2/person-O1SZB5fz-1fJ0hbhjEU.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ad6a090db80d2c91c17ad2aa523f82768eac4b435d20481d20a3bc09dbeadb24.webp",
-      "sha256": "ad6a090db80d2c91c17ad2aa523f82768eac4b435d20481d20a3bc09dbeadb24",
-      "bytes": 38218
-    },
-    "assets/portraits/cutouts-v2/person-O2Vkkv_VXVbzqO9c8c6.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b56a738380793d15b36d1d376f84c1289e579b43ed66072a90e5e3443b06c156.webp",
-      "sha256": "b56a738380793d15b36d1d376f84c1289e579b43ed66072a90e5e3443b06c156",
-      "bytes": 21162
-    },
-    "assets/portraits/cutouts-v2/person-O2oea_SWdZkWweC16Rs.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/acf6d46c7963ad879793662d40f3d8dfcccd9c42bd079dc4f653a5378ac2d3b0.webp",
-      "sha256": "acf6d46c7963ad879793662d40f3d8dfcccd9c42bd079dc4f653a5378ac2d3b0",
-      "bytes": 22326
-    },
-    "assets/portraits/cutouts-v2/person-O2tY-RqEmspwkzodrpI.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0cadff5950ca145d6fad1c1de0eb002779bcdcb21bc83bcb882734aebefed0db.webp",
-      "sha256": "0cadff5950ca145d6fad1c1de0eb002779bcdcb21bc83bcb882734aebefed0db",
-      "bytes": 43842
-    },
-    "assets/portraits/cutouts-v2/person-O2tyHSME6CxUMM6IeLp.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/728754c33200a5cbd7c156a8580bad05fc9e2bcd8ef1112be4cf4a58c707e0f6.webp",
-      "sha256": "728754c33200a5cbd7c156a8580bad05fc9e2bcd8ef1112be4cf4a58c707e0f6",
-      "bytes": 45438
-    },
-    "assets/portraits/cutouts-v2/person-O3TwGCl5qBHANvKZDGO.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/af16847319ecc020870835713bc8f4d844d3b1be936285fa033cf753794db188.webp",
-      "sha256": "af16847319ecc020870835713bc8f4d844d3b1be936285fa033cf753794db188",
-      "bytes": 39888
-    },
-    "assets/portraits/cutouts-v2/person-O3YYHadeFDBuoXPyVmV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2fac159c3bdb619bd901f3173a13e9e01656bc28399b359e24a57c473423edfb.webp",
-      "sha256": "2fac159c3bdb619bd901f3173a13e9e01656bc28399b359e24a57c473423edfb",
-      "bytes": 28830
-    },
-    "assets/portraits/cutouts-v2/person-O3gz0vSjNQXN1st9oZw.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/5f72e0764849cdb87ddd55feb4f64efd1dfaa5269187b2f96aacd105000b8334.webp",
-      "sha256": "5f72e0764849cdb87ddd55feb4f64efd1dfaa5269187b2f96aacd105000b8334",
-      "bytes": 24132
-    },
-    "assets/portraits/cutouts-v2/person-O426EV6_0lFYM11TI4o.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3fa962dfe2ecbf7192274d8fbe4978988904596571143f8585776f2a1b97f89f.webp",
-      "sha256": "3fa962dfe2ecbf7192274d8fbe4978988904596571143f8585776f2a1b97f89f",
-      "bytes": 19474
-    },
-    "assets/portraits/cutouts-v2/person-O4dujyVtn3AiLLz0soT.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e91ac273d892584a7bfd7b56420d997f8dd617a781e8b8aa3e2166f4cf4e8576.webp",
-      "sha256": "e91ac273d892584a7bfd7b56420d997f8dd617a781e8b8aa3e2166f4cf4e8576",
-      "bytes": 31442
-    },
-    "assets/portraits/cutouts-v2/person-O4vtpomMSbmdMqHhLgK.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/184fe0b1ac28980e27219be5502b267d181ab415130111940b58804df67f6553.webp",
-      "sha256": "184fe0b1ac28980e27219be5502b267d181ab415130111940b58804df67f6553",
-      "bytes": 19016
-    },
-    "assets/portraits/cutouts-v2/person-O6FqJmO3qfkhorAxeG_.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a9f62bb6d4ff00c17b7abc6e5496607719de163e3a6fd734b23d33c29521cfe6.webp",
-      "sha256": "a9f62bb6d4ff00c17b7abc6e5496607719de163e3a6fd734b23d33c29521cfe6",
-      "bytes": 20666
-    },
-    "assets/portraits/cutouts-v2/person-O6gzctw5ujmBhVrbp8z.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d0ba1734723382cd229f2c47a8a9be44ff79a35a6e3bb8d78f0419689317a81f.webp",
-      "sha256": "d0ba1734723382cd229f2c47a8a9be44ff79a35a6e3bb8d78f0419689317a81f",
-      "bytes": 23952
-    },
-    "assets/portraits/cutouts-v2/person-O6kZMQI0P7xXHpGTVdY.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b789325adf4890258f0a3809cf5f1493928447937735e1c2a15727b9233ad356.webp",
-      "sha256": "b789325adf4890258f0a3809cf5f1493928447937735e1c2a15727b9233ad356",
-      "bytes": 23668
-    },
-    "assets/portraits/cutouts-v2/person-O6kZSOJGQmPRjNZkiP-.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/560b7d72f50c419344e89f5be96e12913dead54fbafc5548a3fced32c0cd3e40.webp",
-      "sha256": "560b7d72f50c419344e89f5be96e12913dead54fbafc5548a3fced32c0cd3e40",
-      "bytes": 37278
-    },
-    "assets/portraits/cutouts-v2/person-O6vcEaWa7IIdQEueU9d.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e07a4246396c7f60fbafd7d85d07fbdabc7d21303a432bd58aeaf307a0eca852.webp",
-      "sha256": "e07a4246396c7f60fbafd7d85d07fbdabc7d21303a432bd58aeaf307a0eca852",
-      "bytes": 16254
-    },
-    "assets/portraits/cutouts-v2/person-O7-abFFkCpqVWpwe12c.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e724e2d8d1fe2c026106121ae6c7573dc14343128e35d3d75026368936175ace.webp",
-      "sha256": "e724e2d8d1fe2c026106121ae6c7573dc14343128e35d3d75026368936175ace",
-      "bytes": 43360
-    },
-    "assets/portraits/cutouts-v2/person-O7-cn3k1BfTWl9yqY_D.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/93680ab3e439778b5d0d352966d62c4d8ea3430a714e3f22e59f7e4199da13ce.webp",
-      "sha256": "93680ab3e439778b5d0d352966d62c4d8ea3430a714e3f22e59f7e4199da13ce",
-      "bytes": 25120
-    },
-    "assets/portraits/cutouts-v2/person-O7-cqaHRZw-PSxstQT5.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/6c23502d67d389d9159981ef54d451bceb82d88232d77e19b731819b3b0c4d18.webp",
-      "sha256": "6c23502d67d389d9159981ef54d451bceb82d88232d77e19b731819b3b0c4d18",
-      "bytes": 21196
-    },
-    "assets/portraits/cutouts-v2/person-O7-crilzCzSFd6K716U.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/292c3210ca2bc0510b3651b4025a37bf1ad8b60836a0574b4d28c672a97a882e.webp",
-      "sha256": "292c3210ca2bc0510b3651b4025a37bf1ad8b60836a0574b4d28c672a97a882e",
-      "bytes": 14960
-    },
-    "assets/portraits/cutouts-v2/person-O7-cstosjZCSkydvKHV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dad31025157847b69bcc244b2b9fc487f6fbd368e9086ceb13b5aad63cbd670c.webp",
-      "sha256": "dad31025157847b69bcc244b2b9fc487f6fbd368e9086ceb13b5aad63cbd670c",
-      "bytes": 18652
-    },
-    "assets/portraits/cutouts-v2/person-O7Dm2XTQvR29htbcdq3.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/28c6832fbd831126fe08f9be6aae3afd0f23409a56e834fe2a5fdfb2c952fe82.webp",
-      "sha256": "28c6832fbd831126fe08f9be6aae3afd0f23409a56e834fe2a5fdfb2c952fe82",
-      "bytes": 24594
-    },
-    "assets/portraits/cutouts-v2/person-O7E9usP748P2reVvYWV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/31a3d5354caae53c725e044c73d8c233224de75aa115f6a0a5f6050b69fca3f3.webp",
-      "sha256": "31a3d5354caae53c725e044c73d8c233224de75aa115f6a0a5f6050b69fca3f3",
-      "bytes": 29156
-    },
-    "assets/portraits/cutouts-v2/person-O7EfFLzIODljnFhHRuo.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/542750511eadece3c2afa1453f03887eaba148bd505b003dc8b3ba0b701d0f64.webp",
-      "sha256": "542750511eadece3c2afa1453f03887eaba148bd505b003dc8b3ba0b701d0f64",
-      "bytes": 20014
-    },
-    "assets/portraits/cutouts-v2/person-O7UJa7gAtI4mp8QLRug.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/67ae5d12c06f24bbdb32c610081974514806101c1fd0ec5ee500c8651070279c.webp",
-      "sha256": "67ae5d12c06f24bbdb32c610081974514806101c1fd0ec5ee500c8651070279c",
-      "bytes": 26078
-    },
-    "assets/portraits/cutouts-v2/person-O7j-WxvCeJPDd9yrHGn.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/25ee99658da29b7b119d488bd60fdcbec0020bc6589508adb81292384ecd7da1.webp",
-      "sha256": "25ee99658da29b7b119d488bd60fdcbec0020bc6589508adb81292384ecd7da1",
-      "bytes": 21074
-    },
-    "assets/portraits/cutouts-v2/person-O7mZIDrnk0MXAXvl0Ul.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/fbef5fbb774b8ada71e1d3b5f2c730f5fc1130ba244aec3090ac953fe3a9b70f.webp",
-      "sha256": "fbef5fbb774b8ada71e1d3b5f2c730f5fc1130ba244aec3090ac953fe3a9b70f",
-      "bytes": 24416
-    },
-    "assets/portraits/cutouts-v2/person-O7s4vBFFBtBqajqAwhT.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9385140897d7c49c4d88a27d4c695fc9b553219de7b2e40fbb2821c36ba762f8.webp",
-      "sha256": "9385140897d7c49c4d88a27d4c695fc9b553219de7b2e40fbb2821c36ba762f8",
-      "bytes": 17892
-    },
-    "assets/portraits/cutouts-v2/person-O87GqdEDM6CsIVKMWel.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/126ceb6ccea44ea5bdaef6f26c65be4e92d53638ecf9cbfc09bcd314b1f1f7cb.webp",
-      "sha256": "126ceb6ccea44ea5bdaef6f26c65be4e92d53638ecf9cbfc09bcd314b1f1f7cb",
-      "bytes": 24934
-    },
-    "assets/portraits/cutouts-v2/person-O87bkTdawOIAfOIUutA.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f159537b8834efe98ff62e153dbf8d81c6990f43347bed876023f28e6bbcbcbb.webp",
-      "sha256": "f159537b8834efe98ff62e153dbf8d81c6990f43347bed876023f28e6bbcbcbb",
-      "bytes": 21258
-    },
-    "assets/portraits/cutouts-v2/person-O90rTFUeIXBFcaL2udf.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ed7e87359d9a764b633b082da8996349ae35029be60ac98189ab093870d1dff8.webp",
-      "sha256": "ed7e87359d9a764b633b082da8996349ae35029be60ac98189ab093870d1dff8",
-      "bytes": 23118
-    },
-    "assets/portraits/cutouts-v2/person-O9QPJVARk3kbYyIQjDm.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f309025c207e7c2a1141e84bce73c825d2f8dcfc35e3b3511d100d5b7e0f195b.webp",
-      "sha256": "f309025c207e7c2a1141e84bce73c825d2f8dcfc35e3b3511d100d5b7e0f195b",
-      "bytes": 17660
-    },
-    "assets/portraits/cutouts-v2/person-O9jI_9sQZerKmKZ_-tK.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e8f8b12a840aa4f30fe74f823692f52ab5551267de7b15593f44b9705fa3d642.webp",
-      "sha256": "e8f8b12a840aa4f30fe74f823692f52ab5551267de7b15593f44b9705fa3d642",
-      "bytes": 30408
-    },
-    "assets/portraits/cutouts-v2/person-O9k2LBxm6bZ1tXEhs9P.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d14c9081adb7e36f10f430d1b0cbd8479359e952236f84c66481ca759aa3b364.webp",
-      "sha256": "d14c9081adb7e36f10f430d1b0cbd8479359e952236f84c66481ca759aa3b364",
-      "bytes": 18026
-    },
-    "assets/portraits/cutouts-v2/person-O9kTTqivtbZyyothZUD.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/01f6bf19de753e5acec2461ba471a0482a28ae39c72edaa864911fefbd71d1c3.webp",
-      "sha256": "01f6bf19de753e5acec2461ba471a0482a28ae39c72edaa864911fefbd71d1c3",
-      "bytes": 17790
-    },
-    "assets/portraits/cutouts-v2/person-O9pCX6cJwGTvMrmiv5p.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9e555a545022e85acf0434ca72e34cb781ec9fa0ae4d9db0262f2d1f4c153b5d.webp",
-      "sha256": "9e555a545022e85acf0434ca72e34cb781ec9fa0ae4d9db0262f2d1f4c153b5d",
-      "bytes": 29782
-    },
-    "assets/portraits/cutouts-v2/person-OBV08oQjSW0sQTBi4IU.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2666d390baeac0b63e7efb353851a575d60c11592e9c8eee8c8e7d8a603d387b.webp",
-      "sha256": "2666d390baeac0b63e7efb353851a575d60c11592e9c8eee8c8e7d8a603d387b",
-      "bytes": 21336
-    },
-    "assets/portraits/cutouts-v2/person-OBz7Z4946DOFH8cwNAd.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/189ada2de31ca7ee3dc133aa8c269858e9a9514d88013f623ce712c5b497d5f8.webp",
-      "sha256": "189ada2de31ca7ee3dc133aa8c269858e9a9514d88013f623ce712c5b497d5f8",
-      "bytes": 31258
-    },
-    "assets/portraits/cutouts-v2/person-ODaaLJ3QdmWiHwoqyTT.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/01be3c3a7b9815514ddac7f572a51df0d2704d580871d5ba92ce5c428a9c3bda.webp",
-      "sha256": "01be3c3a7b9815514ddac7f572a51df0d2704d580871d5ba92ce5c428a9c3bda",
-      "bytes": 36350
-    },
-    "assets/portraits/cutouts-v2/person-ODaaMTmdIcg9TOIhvvr.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f8aad810e04ed12681474a6753826a4dcef7f32740d052ddbb6a42d39b8c8030.webp",
-      "sha256": "f8aad810e04ed12681474a6753826a4dcef7f32740d052ddbb6a42d39b8c8030",
-      "bytes": 31580
-    },
-    "assets/portraits/cutouts-v2/person-OG01voPPqLtgyxR04tR.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eebf6bef22d0db098834a484a164a20f810ba65865f3c62ff2fc072aabc91c8e.webp",
-      "sha256": "eebf6bef22d0db098834a484a164a20f810ba65865f3c62ff2fc072aabc91c8e",
-      "bytes": 35008
-    },
-    "assets/portraits/cutouts-v2/person-OH8LeG-nhNEBB2d56Ed.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ad68db81595c83152604872d5c8e9755b5a95f916223bf1c96d4bfd0222591d7.webp",
-      "sha256": "ad68db81595c83152604872d5c8e9755b5a95f916223bf1c96d4bfd0222591d7",
-      "bytes": 47210
-    },
-    "assets/portraits/cutouts-v2/person-OHZFa8AWH1s70oRnPwA.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dcc90523e7e8260e0155cd680df27bb0c1cc645b4af1124998ada05c8574cfdb.webp",
-      "sha256": "dcc90523e7e8260e0155cd680df27bb0c1cc645b4af1124998ada05c8574cfdb",
-      "bytes": 36484
-    },
-    "assets/portraits/cutouts-v2/person-OHZFazrhnMZjwMiFgpn.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/aec3a1407f468e3b2d0b4e693859f4ef4cad3339eee4e687282726846ac32664.webp",
-      "sha256": "aec3a1407f468e3b2d0b4e693859f4ef4cad3339eee4e687282726846ac32664",
-      "bytes": 36192
-    },
-    "assets/portraits/cutouts-v2/person-OHZFbqjkRR-E0EFl2AD.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4f3a5ebdd918824f8e4872245e9fef3af26f2235d12821799e9e957d4d661d6a.webp",
-      "sha256": "4f3a5ebdd918824f8e4872245e9fef3af26f2235d12821799e9e957d4d661d6a",
-      "bytes": 6472
-    },
-    "assets/portraits/cutouts-v2/person-OHZI-5rS0nlqkEt5ahp.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/179f31210fc777252095fea5b47e57287322cb1601771eeacd0eb1465a167f02.webp",
-      "sha256": "179f31210fc777252095fea5b47e57287322cb1601771eeacd0eb1465a167f02",
-      "bytes": 24240
-    },
-    "assets/portraits/cutouts-v2/person-OHZI0bxfd5mnLIRT8wH.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d7d7b35e522866bcaf85e2ce0324b1b5b62410e672e419df71e23e5aa9347c02.webp",
-      "sha256": "d7d7b35e522866bcaf85e2ce0324b1b5b62410e672e419df71e23e5aa9347c02",
-      "bytes": 30260
-    },
-    "assets/portraits/cutouts-v2/person-OHZIO36bDTKJgyM4Nfe.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/aa642a8f829ec5198817ac2fc19aafffc4cff68f02899686b93ad398695141dc.webp",
-      "sha256": "aa642a8f829ec5198817ac2fc19aafffc4cff68f02899686b93ad398695141dc",
-      "bytes": 35172
-    },
-    "assets/portraits/cutouts-v2/person-OHZJd8V7b-OcFxZpGaB.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/86459ee01e318c9aafa540dc7789322a29e6fa918ba49f1d1259cef602c02a10.webp",
-      "sha256": "86459ee01e318c9aafa540dc7789322a29e6fa918ba49f1d1259cef602c02a10",
-      "bytes": 22762
-    },
-    "assets/portraits/cutouts-v2/person-OHZMrhQUzx0TXe2c4pC.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4fba30e678448f419909443135c9e3e0549d9d26e64746168e4d917a3c2bdbe6.webp",
-      "sha256": "4fba30e678448f419909443135c9e3e0549d9d26e64746168e4d917a3c2bdbe6",
-      "bytes": 38424
-    },
-    "assets/portraits/cutouts-v2/person-OHZMt6-yqCPkjGJLIcX.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8f6cc82493a1d749192f9274207cf690b468fecd4382477aef10524bda174276.webp",
-      "sha256": "8f6cc82493a1d749192f9274207cf690b468fecd4382477aef10524bda174276",
-      "bytes": 42094
-    },
-    "assets/portraits/cutouts-v2/person-OIArs7ozqiP3kvENKe4.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/da7bbceb47b58b2d9ffb1b6dfe2c0c50bc7f7f077720dd0df8e181c20b09593d.webp",
-      "sha256": "da7bbceb47b58b2d9ffb1b6dfe2c0c50bc7f7f077720dd0df8e181c20b09593d",
-      "bytes": 37992
-    },
-    "assets/portraits/cutouts-v2/person-OL5Qv16Obqos9Ro_oan.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e5357dff0ea05b7abc065164e94e5aa44e4eba84e3d9027f911bb10464319dcd.webp",
-      "sha256": "e5357dff0ea05b7abc065164e94e5aa44e4eba84e3d9027f911bb10464319dcd",
-      "bytes": 22788
-    },
-    "assets/portraits/cutouts-v2/person-OLVnRaOn58FqCfbZXq0.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d12e8af274f41868ccdb47e0a6531cc44fc40ced0c0ee60c8adf0e57c1d8585d.webp",
-      "sha256": "d12e8af274f41868ccdb47e0a6531cc44fc40ced0c0ee60c8adf0e57c1d8585d",
-      "bytes": 18480
-    },
-    "assets/portraits/cutouts-v2/person-OMwO1ypkwQ5eGL0Nui-.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3bc46c940605ad4d48e76f77dd3062a958ce4d411579c9b458b726e1ed4209d0.webp",
-      "sha256": "3bc46c940605ad4d48e76f77dd3062a958ce4d411579c9b458b726e1ed4209d0",
-      "bytes": 30912
-    },
-    "assets/portraits/cutouts-v2/person-ONhqCBeAfSy9jZ4YfI1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/689e1c8f165fb1c9a14fa2be0e3b2bc027d3188cac9b050315f6d9bc6ee9f646.webp",
-      "sha256": "689e1c8f165fb1c9a14fa2be0e3b2bc027d3188cac9b050315f6d9bc6ee9f646",
-      "bytes": 32216
-    },
-    "assets/portraits/cutouts-v2/person-OODHgpHGgjaJ58DDkc6.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b15bf2f7770d0341a6c54e333d3863dfacb97f124a4b39cb5cfe50c6ada7e83f.webp",
-      "sha256": "b15bf2f7770d0341a6c54e333d3863dfacb97f124a4b39cb5cfe50c6ada7e83f",
-      "bytes": 31132
-    },
-    "assets/portraits/cutouts-v2/person-OQO573x5MiLl3Kx2zZ6.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/dc5eb440d6482e8c7454e40d7d3364d1452a1822a42728e1aa8b4314273f1bd9.webp",
-      "sha256": "dc5eb440d6482e8c7454e40d7d3364d1452a1822a42728e1aa8b4314273f1bd9",
-      "bytes": 14548
-    },
-    "assets/portraits/cutouts-v2/person-OQOB6imbfe4uNyrqT8k.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1039f2b152e17d8ecc829eadbc719a9bba455b67f2d30c86cb26b52fb6e52074.webp",
-      "sha256": "1039f2b152e17d8ecc829eadbc719a9bba455b67f2d30c86cb26b52fb6e52074",
-      "bytes": 17642
-    },
-    "assets/portraits/cutouts-v2/person-OQOBcCf5GM-ZP_DNTUH.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/495277e5566e8a184a078bbedcf7b07ae735dcd0013b70e6db4ba158493b1170.webp",
-      "sha256": "495277e5566e8a184a078bbedcf7b07ae735dcd0013b70e6db4ba158493b1170",
-      "bytes": 20504
-    },
-    "assets/portraits/cutouts-v2/person-OQOBhPICyZ6DVEV25fz.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e950465320481cd1a234580465d86ffc9526a265c31296a81dd49c2b21aabaf6.webp",
-      "sha256": "e950465320481cd1a234580465d86ffc9526a265c31296a81dd49c2b21aabaf6",
-      "bytes": 18768
-    },
-    "assets/portraits/cutouts-v2/person-OQy45AlL-8BPujLoXl9.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1c8a2755b6eb358204f1c1974ab91a73ad16c4a025193e13069e563a863900e0.webp",
-      "sha256": "1c8a2755b6eb358204f1c1974ab91a73ad16c4a025193e13069e563a863900e0",
-      "bytes": 21946
-    },
-    "assets/portraits/cutouts-v2/person-OUBep-E7mN4envgShwu.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/113559a75dd2beae55839a84bcddf5e920a3d708e20845caf65e30a3f2f3e808.webp",
-      "sha256": "113559a75dd2beae55839a84bcddf5e920a3d708e20845caf65e30a3f2f3e808",
-      "bytes": 30796
-    },
-    "assets/portraits/cutouts-v2/person-OUnl199tTwKAi14vLBq.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c623186f3f768a7e10b250ef5ba6373a388685bad03029d0d216b668d600f6b8.webp",
-      "sha256": "c623186f3f768a7e10b250ef5ba6373a388685bad03029d0d216b668d600f6b8",
-      "bytes": 15942
-    },
-    "assets/portraits/cutouts-v2/person-OUnl1unU9N38RbCMIe9.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e70ddcf6b4ca332541fc6e3c03024021645622274a8b8c1d468bcd40026ebf05.webp",
-      "sha256": "e70ddcf6b4ca332541fc6e3c03024021645622274a8b8c1d468bcd40026ebf05",
-      "bytes": 17464
-    },
-    "assets/portraits/cutouts-v2/person-OUoQz9aQuMnykNzW4Yr.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/184b552aabb079d08aa14ac7e7769fc6f865e7220a9aca2ca20a22246c0438cb.webp",
-      "sha256": "184b552aabb079d08aa14ac7e7769fc6f865e7220a9aca2ca20a22246c0438cb",
-      "bytes": 32998
-    },
-    "assets/portraits/cutouts-v2/person-OZiaRQGpHeyNUXWp_bH.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/38a4f3653203a256d85168b9127c7300ea028101863f5827a6e2350dae72d2d3.webp",
-      "sha256": "38a4f3653203a256d85168b9127c7300ea028101863f5827a6e2350dae72d2d3",
-      "bytes": 63708
-    },
-    "assets/portraits/cutouts-v2/person-O_1lbru7gsDe3Lft398.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ae30bd85a9f64fe86b7d6d267b610a88bbaec253747ed303f14fcb5785f6db2b.webp",
-      "sha256": "ae30bd85a9f64fe86b7d6d267b610a88bbaec253747ed303f14fcb5785f6db2b",
-      "bytes": 21332
-    },
-    "assets/portraits/cutouts-v2/person-O_hOzFIxwPscYc9NdAE.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/35932aba9ee5749312229de56a59d149736aba19c78474916861ee2785f6df33.webp",
-      "sha256": "35932aba9ee5749312229de56a59d149736aba19c78474916861ee2785f6df33",
-      "bytes": 32602
-    },
-    "assets/portraits/cutouts-v2/person-O_hQPFuslHY12-2Ft2G.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/99abe30ee0fe0c0ddae6ab740ebb9e2b2fbf97b881d547bbddc99ed74183ce2a.webp",
-      "sha256": "99abe30ee0fe0c0ddae6ab740ebb9e2b2fbf97b881d547bbddc99ed74183ce2a",
-      "bytes": 33392
-    },
-    "assets/portraits/cutouts-v2/person-O_hRFt9F7JkfQerhuEe.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/60f01caf64f10216d847103e11e2625ad154a3e70ee59a57c882b24ed4158b05.webp",
-      "sha256": "60f01caf64f10216d847103e11e2625ad154a3e70ee59a57c882b24ed4158b05",
-      "bytes": 18536
-    },
-    "assets/portraits/cutouts-v2/person-Oaagj4jgVPkRTA24HDq.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c63a1dcfe4d7e0c5ef1bce24d349a0da164e75fc6e71512ad52adc35577fecf1.webp",
-      "sha256": "c63a1dcfe4d7e0c5ef1bce24d349a0da164e75fc6e71512ad52adc35577fecf1",
-      "bytes": 28422
-    },
-    "assets/portraits/cutouts-v2/person-OaelOZmQQe_8ANAzyz6.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d33b497abe815472844cac8dd90b1d3309ba03ba3216159461ca100201b3b024.webp",
-      "sha256": "d33b497abe815472844cac8dd90b1d3309ba03ba3216159461ca100201b3b024",
-      "bytes": 40564
-    },
-    "assets/portraits/cutouts-v2/person-ObE0vBNsC0Zi8MPxGeC.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/44b42e045e9c531f62bb2a01814f751ea31bd206f0b3d3903e4227ceb9442b89.webp",
-      "sha256": "44b42e045e9c531f62bb2a01814f751ea31bd206f0b3d3903e4227ceb9442b89",
-      "bytes": 15370
-    },
-    "assets/portraits/cutouts-v2/person-ObE2-qaQWvmXsZ1j1xz.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/122532f1758abc982f563f3c3faa741b81767f053d2a2db443c1d4b04b02a4f2.webp",
-      "sha256": "122532f1758abc982f563f3c3faa741b81767f053d2a2db443c1d4b04b02a4f2",
-      "bytes": 5602
-    },
-    "assets/portraits/cutouts-v2/person-ObE2ee8tWz-SI2wQ-xe.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/208f667790968e94984b1a0ae9bfeba8c4d4b48df2d738e7ba30fcd3f70f10c3.webp",
-      "sha256": "208f667790968e94984b1a0ae9bfeba8c4d4b48df2d738e7ba30fcd3f70f10c3",
-      "bytes": 13738
-    },
-    "assets/portraits/cutouts-v2/person-ObE3rQxoSbfb31Akzdy.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3594d0f7780a82435f4c1f583caf4a25831200eee01686e2ea5945f0d14ef34d.webp",
-      "sha256": "3594d0f7780a82435f4c1f583caf4a25831200eee01686e2ea5945f0d14ef34d",
-      "bytes": 19772
-    },
-    "assets/portraits/cutouts-v2/person-Oc0jQ_NYQPIyliKYXL5.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8e7d1b4b4aca20c09f9fadbbd70b75e4e81b8bab6997cfc3224e381dcc919df2.webp",
-      "sha256": "8e7d1b4b4aca20c09f9fadbbd70b75e4e81b8bab6997cfc3224e381dcc919df2",
-      "bytes": 35400
-    },
-    "assets/portraits/cutouts-v2/person-Oc0rUj6C0DbGRYt1GJV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8207d16882e5003ff2ef754b3ee00a678847c6a3633641b393e2d3a744a4e056.webp",
-      "sha256": "8207d16882e5003ff2ef754b3ee00a678847c6a3633641b393e2d3a744a4e056",
-      "bytes": 27328
-    },
-    "assets/portraits/cutouts-v2/person-OcBvnS0mDII1U28sHcP.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/9980dc6a985a17bba11c7e44c9a2a21d9051613be9ac182fe0eecaba6ab3ee09.webp",
-      "sha256": "9980dc6a985a17bba11c7e44c9a2a21d9051613be9ac182fe0eecaba6ab3ee09",
-      "bytes": 32602
-    },
-    "assets/portraits/cutouts-v2/person-OcL3D_ZIw53wBgfK7iQ.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/85c84380252b2d233ac1beb9defe51c4a8105644a226fed59290bbef7a731389.webp",
-      "sha256": "85c84380252b2d233ac1beb9defe51c4a8105644a226fed59290bbef7a731389",
-      "bytes": 38984
-    },
-    "assets/portraits/cutouts-v2/person-OdcJ50TDrI0Qaoyvi3Z.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/095ad3a0120d52183da17f5b5288122140c327ba8201b40b760836f99027357e.webp",
-      "sha256": "095ad3a0120d52183da17f5b5288122140c327ba8201b40b760836f99027357e",
-      "bytes": 25820
-    },
-    "assets/portraits/cutouts-v2/person-Oe1fkIHcNWTd0agGd9l.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7b37edfbc928f6627408e0470a640981425199debe1f9fee91b6bc715cd6be62.webp",
-      "sha256": "7b37edfbc928f6627408e0470a640981425199debe1f9fee91b6bc715cd6be62",
-      "bytes": 18088
-    },
-    "assets/portraits/cutouts-v2/person-Oe2AIUwpXIkU1mZzmaG.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/6bbd4949e42893642285b49730ab2c56e1957208c8d978746eab8b848fdaea50.webp",
-      "sha256": "6bbd4949e42893642285b49730ab2c56e1957208c8d978746eab8b848fdaea50",
-      "bytes": 20680
-    },
-    "assets/portraits/cutouts-v2/person-Oe2CpUdyvIFpA_HKe-R.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/45f44e018b795d27a5457828b9b1fba0a709c11721c9a8160da8b29f7ed7e768.webp",
-      "sha256": "45f44e018b795d27a5457828b9b1fba0a709c11721c9a8160da8b29f7ed7e768",
-      "bytes": 16842
-    },
-    "assets/portraits/cutouts-v2/person-Oe2cLcHvK4iCfM92rI4.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/be0d69bd3d4f8c2e380220d0c4472507afd780288b8f3e6afbe72e60188b5160.webp",
-      "sha256": "be0d69bd3d4f8c2e380220d0c4472507afd780288b8f3e6afbe72e60188b5160",
-      "bytes": 32398
-    },
-    "assets/portraits/cutouts-v2/person-Oeg6htN_ZUCJ89XDio5.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/91f99e891cace919ade83322680c56b137da920fc78e47cddc63d566c6e2b0cd.webp",
-      "sha256": "91f99e891cace919ade83322680c56b137da920fc78e47cddc63d566c6e2b0cd",
-      "bytes": 29880
-    },
-    "assets/portraits/cutouts-v2/person-OevMn7oStRgCGCCnV_Y.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/8d9eff86232a5ebf3c19021769b2b03aeb20e713fcce0ef02db41c12ee4fb627.webp",
-      "sha256": "8d9eff86232a5ebf3c19021769b2b03aeb20e713fcce0ef02db41c12ee4fb627",
-      "bytes": 28212
-    },
-    "assets/portraits/cutouts-v2/person-OwlhOR83iOyFl9jzt9f.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4c32ea710f991466b4034ffa84b6a83656d28037357c4b347e64363b1e760f3b.webp",
-      "sha256": "4c32ea710f991466b4034ffa84b6a83656d28037357c4b347e64363b1e760f3b",
-      "bytes": 25428
-    },
-    "assets/portraits/cutouts-v2/person-P2Cf2tKzHloXG7mBzo3.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e73811eaaae9ffd0904962e5351fcbd72daa442ea8f60fafe1a86ede001dedc4.webp",
-      "sha256": "e73811eaaae9ffd0904962e5351fcbd72daa442ea8f60fafe1a86ede001dedc4",
-      "bytes": 19828
-    },
-    "assets/portraits/cutouts-v2/person-P3X0Eaizwr4F3gtCUcY.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/99f8cdc4493868419ba6b5052c42d57c565f9d85c5c8e0eafacfd3490864f40e.webp",
-      "sha256": "99f8cdc4493868419ba6b5052c42d57c565f9d85c5c8e0eafacfd3490864f40e",
-      "bytes": 14780
-    },
-    "assets/portraits/cutouts-v2/person-P3X0bhcbOfas4tX0kMV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/d54f308c65c526f07a59345d8841c0be60ecefe2c957dc3d697c9ace4f3e83ec.webp",
-      "sha256": "d54f308c65c526f07a59345d8841c0be60ecefe2c957dc3d697c9ace4f3e83ec",
-      "bytes": 31268
-    },
-    "assets/portraits/cutouts-v2/person-P3X142fpXJRZFfJbbBV.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/bd04a7de0d58ad71ee9eab296d174ad3c4d0d359a490b236f163db06fad61b10.webp",
-      "sha256": "bd04a7de0d58ad71ee9eab296d174ad3c4d0d359a490b236f163db06fad61b10",
-      "bytes": 19560
-    },
-    "assets/portraits/cutouts-v2/person-P3X1u_Y4Unu3JXCoo_X.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2754262f4f52a5a6aad35a435740923885b5e6b8aeb4e110c2ccaa6dd8acb8eb.webp",
-      "sha256": "2754262f4f52a5a6aad35a435740923885b5e6b8aeb4e110c2ccaa6dd8acb8eb",
-      "bytes": 23936
-    },
-    "assets/portraits/cutouts-v2/person-P3X2PLy73U6_fApkFkl.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/79c1238e368597dd2a1d1598e8f0d7b0a6413792724e54b61314f8559011d675.webp",
-      "sha256": "79c1238e368597dd2a1d1598e8f0d7b0a6413792724e54b61314f8559011d675",
-      "bytes": 23288
-    },
-    "assets/portraits/cutouts-v2/person-P3X3-cT9EQk_SsY08ZI.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4e9183fbc842e7137b9e7cf7c7a2cff926e3c7b8c7aa1d4f24b659f23dd62fb3.webp",
-      "sha256": "4e9183fbc842e7137b9e7cf7c7a2cff926e3c7b8c7aa1d4f24b659f23dd62fb3",
-      "bytes": 18746
-    },
-    "assets/portraits/cutouts-v2/person-P3X3KCrZXf1-69C7r4U.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1b0041591feaae902ff40daa60ccdd31dfe13e06ceb709192a5761c66f451674.webp",
-      "sha256": "1b0041591feaae902ff40daa60ccdd31dfe13e06ceb709192a5761c66f451674",
-      "bytes": 24986
-    },
-    "assets/portraits/cutouts-v2/person-P3X5IbYb-ABj8dOuaJR.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/72544ce775f30f75ebcf53761f81eaf47f9125b1edeb967c02e6b68e4c4b54ed.webp",
-      "sha256": "72544ce775f30f75ebcf53761f81eaf47f9125b1edeb967c02e6b68e4c4b54ed",
-      "bytes": 25092
-    },
-    "assets/portraits/cutouts-v2/person-P3X5vG01e8zkQfXN27a.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/cedfdf5c394b3a5525ebbdf82290047cb204c2629ff5f68f57f3039688750736.webp",
-      "sha256": "cedfdf5c394b3a5525ebbdf82290047cb204c2629ff5f68f57f3039688750736",
-      "bytes": 22750
-    },
-    "assets/portraits/cutouts-v2/person-P3X6dZB6syQctL2eOsg.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3f2936866993927b3e8e50850f18b45fb2a7dcab8b98573a3c1db4fbf79e7767.webp",
-      "sha256": "3f2936866993927b3e8e50850f18b45fb2a7dcab8b98573a3c1db4fbf79e7767",
-      "bytes": 28858
-    },
-    "assets/portraits/cutouts-v2/person-P3X9QZU2SDdXHdxfjrB.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/eef3529d22cdffaf83c11a2287b9570a823defa140d117c658faa386617aa4c1.webp",
-      "sha256": "eef3529d22cdffaf83c11a2287b9570a823defa140d117c658faa386617aa4c1",
-      "bytes": 23134
-    },
-    "assets/portraits/cutouts-v2/person-P3a0klk8YlkvKokf9ms.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/36cf9613c7c9b7f67199c3cee66db9f5b7b243f0be769043cc0fc6e8c3f541bd.webp",
-      "sha256": "36cf9613c7c9b7f67199c3cee66db9f5b7b243f0be769043cc0fc6e8c3f541bd",
-      "bytes": 22898
-    },
-    "assets/portraits/cutouts-v2/person-P3j9UhUyQrUdA7oHdHw.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ad62c274ebda9d7483484b180a28bd68723f0dd2fd7b3c8522c2946608627a4f.webp",
-      "sha256": "ad62c274ebda9d7483484b180a28bd68723f0dd2fd7b3c8522c2946608627a4f",
-      "bytes": 18248
-    },
-    "assets/portraits/cutouts-v2/person-P3j9l3vLyK9n6amwbrQ.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c0e7afe2e5e0f484415b26ce2d36d349070a661a98c84a4ae303120e9a39c7c7.webp",
-      "sha256": "c0e7afe2e5e0f484415b26ce2d36d349070a661a98c84a4ae303120e9a39c7c7",
-      "bytes": 28876
-    },
-    "assets/portraits/cutouts-v2/person-P3jEFkITQjiiFfqVpVs.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7fea8cc1bde944cf38b704f31251ece4543890df210b464ee956f1fd3a1e1137.webp",
-      "sha256": "7fea8cc1bde944cf38b704f31251ece4543890df210b464ee956f1fd3a1e1137",
-      "bytes": 25576
-    },
-    "assets/portraits/cutouts-v2/person-P3jufNoqTdZsdQ3Kxno.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3d26878e6bad7146565d6a59648c9c1f55d1c4cf2a75a03eacd634a4068602e1.webp",
-      "sha256": "3d26878e6bad7146565d6a59648c9c1f55d1c4cf2a75a03eacd634a4068602e1",
-      "bytes": 21500
-    },
-    "assets/portraits/cutouts-v2/person-P3jug3ekyA_KDYVESru.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/24f344133d050ddf0d2dc0d338eb5da7bb787d3dace376b5323510b512d0774e.webp",
-      "sha256": "24f344133d050ddf0d2dc0d338eb5da7bb787d3dace376b5323510b512d0774e",
-      "bytes": 20200
-    },
-    "assets/portraits/cutouts-v2/person-P3jzKNOFDvbqsI4wZlw.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/33d1467ca730052d2fa9402dda8825a0f1204c43db3ae505957382ba9c6ba833.webp",
-      "sha256": "33d1467ca730052d2fa9402dda8825a0f1204c43db3ae505957382ba9c6ba833",
-      "bytes": 29520
-    },
-    "assets/portraits/cutouts-v2/person-P3k0KHNvSX4PrXo-AXA.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c0c89fc59644b2af8c326661edaf38538a840033680003e28aeebfff01a7ef8b.webp",
-      "sha256": "c0c89fc59644b2af8c326661edaf38538a840033680003e28aeebfff01a7ef8b",
-      "bytes": 24564
-    },
-    "assets/portraits/cutouts-v2/person-P3kMNcpEBYWNPs2lSZJ.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e0b3ea57931c46eb39fdcfc56819ba5dfce30676685baa02b47c7c65f18b5b21.webp",
-      "sha256": "e0b3ea57931c46eb39fdcfc56819ba5dfce30676685baa02b47c7c65f18b5b21",
-      "bytes": 17254
-    },
-    "assets/portraits/cutouts-v2/person-P42UFMcng69xgbq4cA9.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/57034d88b50524bac85f78ef67c30a9b2559e411647b3027fc89e317adb08f5a.webp",
-      "sha256": "57034d88b50524bac85f78ef67c30a9b2559e411647b3027fc89e317adb08f5a",
-      "bytes": 17396
-    },
-    "assets/portraits/cutouts-v2/person-P42UZ3Ryi8N2WMdGL-b.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1fe5d9ce669beca42bf7f195abf6a393ca7320bcafaf5720a3cf444e68fd6123.webp",
-      "sha256": "1fe5d9ce669beca42bf7f195abf6a393ca7320bcafaf5720a3cf444e68fd6123",
-      "bytes": 12036
-    },
-    "assets/portraits/cutouts-v2/person-P42X2D2PpJv0bgbpI35.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/cdeb039cc1ebe72ec1377f2366159319378fd0b373701c963e721c53d03de147.webp",
-      "sha256": "cdeb039cc1ebe72ec1377f2366159319378fd0b373701c963e721c53d03de147",
-      "bytes": 17820
-    },
-    "assets/portraits/cutouts-v2/person-P42Y58VjXTZmRnBPhZl.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/157a9fa441959effc6a583902a67fea9d5872fd0c500b58b3ce7fac42507626e.webp",
-      "sha256": "157a9fa441959effc6a583902a67fea9d5872fd0c500b58b3ce7fac42507626e",
-      "bytes": 21066
-    },
-    "assets/portraits/cutouts-v2/person-P42Y5UizBpqT3CIilny.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/95405184266d2403173d268dff5ce6d30b9297247137ec9e9b0b02bb3ac1f1a3.webp",
-      "sha256": "95405184266d2403173d268dff5ce6d30b9297247137ec9e9b0b02bb3ac1f1a3",
-      "bytes": 26260
-    },
-    "assets/portraits/cutouts-v2/person-P42Ygc6uw8RMlzNNlDe.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/048144529124a76568d4b3120864441aebdabfeda5a9ef2927e43a57ee948472.webp",
-      "sha256": "048144529124a76568d4b3120864441aebdabfeda5a9ef2927e43a57ee948472",
-      "bytes": 26664
-    },
-    "assets/portraits/cutouts-v2/person-P42Z2nA77KBxC0ghg8v.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/c6e2b54c79b16f5359e9e441bab48b7cd8cc4da40b6e0c6b2c99c4d373c8f11c.webp",
-      "sha256": "c6e2b54c79b16f5359e9e441bab48b7cd8cc4da40b6e0c6b2c99c4d373c8f11c",
-      "bytes": 26530
-    },
-    "assets/portraits/cutouts-v2/person-P42ZfoPBqtcbdPE3UIy.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/43cfe4c57929865ef447a178d14dc975c9baba5379bbb494e816886bd97be3e7.webp",
-      "sha256": "43cfe4c57929865ef447a178d14dc975c9baba5379bbb494e816886bd97be3e7",
-      "bytes": 21130
-    },
-    "assets/portraits/cutouts-v2/person-P42Zx08J9S50wZLDDnd.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/134f605e281d964cbf12874dab68b640d71db32de8eb269ef09264beba910c30.webp",
-      "sha256": "134f605e281d964cbf12874dab68b640d71db32de8eb269ef09264beba910c30",
-      "bytes": 36814
-    },
-    "assets/portraits/cutouts-v2/satoru.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/66a5caa798ed8ff7d87dcc7bd705ddc77dc6ccca9d4c3feeffbbfc66cde4a458.webp",
-      "sha256": "66a5caa798ed8ff7d87dcc7bd705ddc77dc6ccca9d4c3feeffbbfc66cde4a458",
-      "bytes": 20792
-    },
-    "assets/portraits/eowa.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/3cad036dc5a9e98b25e39ce81af61cdabf910e54c9c9dce0da380d2272bace9e.png",
-      "sha256": "3cad036dc5a9e98b25e39ce81af61cdabf910e54c9c9dce0da380d2272bace9e",
-      "bytes": 273552
-    },
-    "assets/portraits/frames/ronce-ivoire.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/4cd4c4659fe2fa00c4e75f4fb8d29d450138a32c977f832f33d9fa4624eb7cc1.png",
-      "sha256": "4cd4c4659fe2fa00c4e75f4fb8d29d450138a32c977f832f33d9fa4624eb7cc1",
-      "bytes": 21352
-    },
-    "assets/portraits/fuyumi.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/cdd48fe2ca06e7209e5dbdcdcf6dc3647845703368e58a98336b34a5fcd54ebb.png",
-      "sha256": "cdd48fe2ca06e7209e5dbdcdcf6dc3647845703368e58a98336b34a5fcd54ebb",
-      "bytes": 367634
-    },
-    "assets/portraits/generic-lices/bushi-man-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f.webp",
-      "sha256": "ad0554e434363180c4b6b4dea1963f57b3ec1b8737d536051caed7247968411f",
-      "bytes": 29874
-    },
-    "assets/portraits/generic-lices/bushi-woman-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185.webp",
-      "sha256": "00b670e33146470a27253cc33c0056c2a69568e907f532ca5e4502dbb5c49185",
-      "bytes": 23418
-    },
-    "assets/portraits/generic-lices/courtier-man-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1.webp",
-      "sha256": "0f620463292242f2471b8c01f479f1490ce541f58b0d4e8f8d856015a80be3b1",
-      "bytes": 20304
-    },
-    "assets/portraits/generic-lices/courtier-woman-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023.webp",
-      "sha256": "0f54773fd9fdb5ba73d960c33750cdeab3f1fc3f886c3fab1bb1875fabb6e023",
-      "bytes": 25182
-    },
-    "assets/portraits/generic-lices/ronin-man-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660.webp",
-      "sha256": "b671c2b4bb52d0720302b25272fa0eeba451bcbe1e00184ada03802872457660",
-      "bytes": 31812
-    },
-    "assets/portraits/generic-lices/ronin-woman-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece.webp",
-      "sha256": "36113f5b660ac7aa453099bd9f22b7f0ebfce521db49bab3b076ca9c80607ece",
-      "bytes": 28534
-    },
-    "assets/portraits/generic-lices/shugenja-man-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c.webp",
-      "sha256": "48939cd6644deec9772b5c18a54e9b31b5672b77e49dbf6beca095f618a2e07c",
-      "bytes": 30248
-    },
-    "assets/portraits/generic-lices/shugenja-woman-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1.webp",
-      "sha256": "ca2458f473fc59c37eb818778254e93a8463cb06a685b8806551e1488fc2b8a1",
-      "bytes": 26666
-    },
-    "assets/portraits/hiroshi.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2.webp",
-      "sha256": "faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2",
-      "bytes": 368836
-    },
-    "assets/portraits/kawa-no-taisho-v1.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735.webp",
-      "sha256": "88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735",
-      "bytes": 1024338
-    },
-    "assets/portraits/kiyomori.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/f834e3c38365b090c74426607fb0f8f8150b441dbd104e83368ccd64bf03a070.png",
-      "sha256": "f834e3c38365b090c74426607fb0f8f8150b441dbd104e83368ccd64bf03a070",
-      "bytes": 387985
-    },
-    "assets/portraits/kohi.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd.webp",
-      "sha256": "1a15823433b330789e4623a2c9e8b1adaafc37b2e2ee7c46df7271699439c8bd",
-      "bytes": 373596
-    },
-    "assets/portraits/naia-med-v1.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
-      "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
-      "bytes": 241751
-    },
-    "assets/portraits/satoru.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6.png",
-      "sha256": "148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6",
-      "bytes": 387659
-    },
-    "assets/portraits/seika.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
-      "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
-      "bytes": 109724
-    },
-    "assets/dialogues/naia-v1.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d.png",
-      "sha256": "0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d",
-      "bytes": 3231336
-    },
-    "assets/dialogues/shuuko-v1.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91.png",
-      "sha256": "98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91",
-      "bytes": 3130649
-    },
-    "assets/dungeons/koso-theatre/jama-suru.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9.png",
-      "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
-      "bytes": 3908557
-    },
     "assets/portraits/jia-lan-wen-v1.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61.png",
       "sha256": "77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61",
@@ -7886,6 +7886,51 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb.webp",
       "sha256": "a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb",
       "bytes": 59682
+    },
+    "assets/battle/battlefield.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9.png",
+      "sha256": "982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9",
+      "bytes": 3072934
+    },
+    "assets/battle/props-atlas.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e.png",
+      "sha256": "532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e",
+      "bytes": 1600422
+    },
+    "assets/battle/units-atlas.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac.png",
+      "sha256": "e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac",
+      "bytes": 1510202
+    },
+    "assets/battle/refined-v2/units.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb.png",
+      "sha256": "7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb",
+      "bytes": 2879355
+    },
+    "assets/battle/refined-v2/terrain/field-plain.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c.png",
+      "sha256": "faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c",
+      "bytes": 1264225
+    },
+    "assets/battle/refined-v2/terrain/field-village.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d.png",
+      "sha256": "2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d",
+      "bytes": 1255626
+    },
+    "assets/battle/refined-v2/terrain/field-river.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf.png",
+      "sha256": "7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf",
+      "bytes": 1239263
+    },
+    "assets/battle/refined-v2/terrain/field-forest.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21.png",
+      "sha256": "a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21",
+      "bytes": 1207983
+    },
+    "assets/battle/refined-v2/terrain/field-fortress.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e.png",
+      "sha256": "bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e",
+      "bytes": 784363
     }
   }
 }
