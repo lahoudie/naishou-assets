@@ -1,0 +1,1067 @@
+{
+  "repository": "lahoudie/naishou-assets",
+  "baseUrl": "https://lahoudie.github.io/naishou-assets/",
+  "tracks": [
+    {
+      "id": "crow-01",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 1,
+      "title": "To The Forest (Instrumental)",
+      "duration": 197.6,
+      "instrumental": true,
+      "contexts": [
+        "home",
+        "exploration"
+      ],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/7957fd20f58c09d741fae57e56fd5ff45bb10f5801cd39d469e25d12511de4e9.mp3",
+      "sha256": "7957fd20f58c09d741fae57e56fd5ff45bb10f5801cd39d469e25d12511de4e9",
+      "bytes": 4503757,
+      "sourceSha256": "a36e99191a61c74761bf361ec75303f6285e460bbe4e0e18a941851b1f4504ec",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-02",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 2,
+      "title": "Crow Clan Call (Fusion)",
+      "duration": 117.64,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "encounter"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/ccb47d1e5548bc756817d0d57133028b6e3f03522541950c9964cbbb6e05fd4e.mp3",
+      "sha256": "ccb47d1e5548bc756817d0d57133028b6e3f03522541950c9964cbbb6e05fd4e",
+      "bytes": 2649296,
+      "sourceSha256": "8d5d51a729e2f75cf6ee8af081bec8fb5762411bd6e3e8a518a7fa8a08a735e2",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-03",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 3,
+      "title": "Under the moonlight (Corvus Theme)",
+      "duration": 233.92,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "corvus"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/7a37075e87cfe1378185fe55a17d8c369e8d8e2b219c91121198606cc8557a98.mp3",
+      "sha256": "7a37075e87cfe1378185fe55a17d8c369e8d8e2b219c91121198606cc8557a98",
+      "bytes": 5152171,
+      "sourceSha256": "6954f31fe07e903c89a2e51568212a17040c3e8fe2bf66cedf477f1d039b6fdf",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-04",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 4,
+      "title": "Life of the Clan (Instrumental)",
+      "duration": 146.24,
+      "instrumental": true,
+      "contexts": [
+        "management",
+        "spirit"
+      ],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/d25bca56c40db6de13fe80e93093a1c3f21a4f40589a5f0f582406982a852996.mp3",
+      "sha256": "d25bca56c40db6de13fe80e93093a1c3f21a4f40589a5f0f582406982a852996",
+      "bytes": 3327664,
+      "sourceSha256": "33cccb0168366f3e400d837590ee6c3c474c1f34286367aa6f29ed4f8a6483e1",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-05",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 5,
+      "title": "Land of the fey (Tir Na Nog)",
+      "duration": 201.32,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "spirit"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/895694bae082ef01a51a26e916416450960effb6cffcabdbcca56e252e04d624.mp3",
+      "sha256": "895694bae082ef01a51a26e916416450960effb6cffcabdbcca56e252e04d624",
+      "bytes": 4457893,
+      "sourceSha256": "9537184f5a013da0be035e02daaf807b6cff6dfa016a3e4c62843b02fcbbd82e",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-06",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 6,
+      "title": "Dance of the Spirits",
+      "duration": 225.6,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "spirit"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/d52e1fb929071b833a54050bb02481e4dfccff8a03a425f717e27fe0e1152c3e.mp3",
+      "sha256": "d52e1fb929071b833a54050bb02481e4dfccff8a03a425f717e27fe0e1152c3e",
+      "bytes": 5099381,
+      "sourceSha256": "d1605c3df4e1db95832f89fbaf8cd88f94df8f6833b69529d2d1e594664a9427",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-07",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 7,
+      "title": "Eternal (Seika and Elzeriad Theme)",
+      "duration": 190.4,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika",
+        "elzeriad"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/c0587f583115e6f5ccdd027abc18bb57242c9b6a353ffe442d6d8921a221f200.mp3",
+      "sha256": "c0587f583115e6f5ccdd027abc18bb57242c9b6a353ffe442d6d8921a221f200",
+      "bytes": 3812755,
+      "sourceSha256": "d746b7377898be7c02c4c016d5f50e45cb88e032f4b21f947144bcc7b403066c",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-08",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 8,
+      "title": "In your eyes (Kazushi)",
+      "duration": 227.88,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "kazushi"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/2a610bab6d4827a41eb437e808408ed5e5f06aa08d66c88f7f1e73de4e04f125.mp3",
+      "sha256": "2a610bab6d4827a41eb437e808408ed5e5f06aa08d66c88f7f1e73de4e04f125",
+      "bytes": 4828591,
+      "sourceSha256": "0ae6ee249f50b0b116d63ebe428fe14eb01f1d82fcbb33a88de84a7be6923009",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-09",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 9,
+      "title": "Mystic Crow Lament (Seika)",
+      "duration": 240,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/5aec26b3def54cfeb2403c57db55118655d52a4d93d3a8df9dd6630c18c4bed4.mp3",
+      "sha256": "5aec26b3def54cfeb2403c57db55118655d52a4d93d3a8df9dd6630c18c4bed4",
+      "bytes": 5062379,
+      "sourceSha256": "4f39b15446f10a1c56458f5c0867ded8baf4896c29b6aadc54a865f5215808ca",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-10",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 10,
+      "title": "The Call of Shadows",
+      "duration": 166.04,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "danger"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/0394415e30e2828bd50af5fa5d3e4dab140884395dd3318abd5e8e561e1d8969.mp3",
+      "sha256": "0394415e30e2828bd50af5fa5d3e4dab140884395dd3318abd5e8e561e1d8969",
+      "bytes": 3806452,
+      "sourceSha256": "fa2ae5cd9f2ca52456e0cd21104ef5fcdb2cec4ebf2f32293802506de4aa21a7",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-11",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 11,
+      "title": "Les murmures de la Lune (Seika Theme)",
+      "duration": 177,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/fd62cd9ba2fc18e9790f9251a854770d09241f70b4484da39739ccc6082cebd4.mp3",
+      "sha256": "fd62cd9ba2fc18e9790f9251a854770d09241f70b4484da39739ccc6082cebd4",
+      "bytes": 3880534,
+      "sourceSha256": "de2235b92627ce7a0dc1a1451d0fa0ee36f9bf4ffbd35ec7e8a231e15c16adcd",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-12",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 12,
+      "title": "Whisper of Shadows 影の囁き ( Elzeriad Theme)",
+      "duration": 177,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "elzeriad"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/c1e296fcff8ec3727844eb3ae048cf3b5afa2c7e77718e82b4f8e0d8cc387245.mp3",
+      "sha256": "c1e296fcff8ec3727844eb3ae048cf3b5afa2c7e77718e82b4f8e0d8cc387245",
+      "bytes": 3959194,
+      "sourceSha256": "548456be49b469f0227464d6b6b84770b10a5cf0e4c363471f6210ee42917469",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-13",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 13,
+      "title": "Break the world (Sun Theme)",
+      "duration": 198.92,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "sun"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/1f4efe2cde2697e2a029c198f15609ff8ff5078dd824f8c0b68ca6b1f9bc2466.mp3",
+      "sha256": "1f4efe2cde2697e2a029c198f15609ff8ff5078dd824f8c0b68ca6b1f9bc2466",
+      "bytes": 4523052,
+      "sourceSha256": "f705b2217d661d87c63c9632df4b43eb7e5704122ce3c88b3164efd081d9ca67",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-14",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 14,
+      "title": "Whisper of the Blade (Hisao Theme)",
+      "duration": 201.4,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "hisao"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/6465f6ff63814b26b04092f8d23002e97a99c60ef44e5c3bda47ff4355fc1185.mp3",
+      "sha256": "6465f6ff63814b26b04092f8d23002e97a99c60ef44e5c3bda47ff4355fc1185",
+      "bytes": 4408027,
+      "sourceSha256": "480d14949ce48ddaeb823e717f094825417dcad671b9516cc9dc98945bf1687d",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-15",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 15,
+      "title": "The Clover (Ryoji Theme)",
+      "duration": 161,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "ryoji"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/19a8df244f065ef9cc435e5f25610fb68580e2e66daa0b4e2b271de613de6880.mp3",
+      "sha256": "19a8df244f065ef9cc435e5f25610fb68580e2e66daa0b4e2b271de613de6880",
+      "bytes": 3451257,
+      "sourceSha256": "0461f7c071733ef9cd4b0941f68e0541860136287f0abe9e96c8a1ef44ccfe6e",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-16",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 16,
+      "title": "Crow Clan Call (Reprise Seika)",
+      "duration": 230,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/c5b26c6ca58e15d25313714fdbc22180c6127214aeb5f646891efb48ccb7dffc.mp3",
+      "sha256": "c5b26c6ca58e15d25313714fdbc22180c6127214aeb5f646891efb48ccb7dffc",
+      "bytes": 5161935,
+      "sourceSha256": "3db365f8992dc05bdf8a09ec0f4d6eb0bd57ae305baaa2cc17be3d6303259634",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-17",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 17,
+      "title": "Flight of the Crow (Tournament Theme)",
+      "duration": 177,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "tournament"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/791573f840f589c88888c4a9dfa50756fff8ef09b8e1dc09218bbfe4903845a1.mp3",
+      "sha256": "791573f840f589c88888c4a9dfa50756fff8ef09b8e1dc09218bbfe4903845a1",
+      "bytes": 3879118,
+      "sourceSha256": "c37e531826eef809992b5980734edd1eb9b2babb597ade0b3b8544d56dcf787b",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-18",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 18,
+      "title": "Dreams of Steel and Fire (SOS Theme)",
+      "duration": 151.76,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "battle"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/bbed374ece96c08e34ef2eeab32070b85b63348cfc8d9c4e9095002442dc8b0e.mp3",
+      "sha256": "bbed374ece96c08e34ef2eeab32070b85b63348cfc8d9c4e9095002442dc8b0e",
+      "bytes": 3455277,
+      "sourceSha256": "6ea6f99abac172ffccd80dd11b36f7d43da6a2541e22e1b3ea70e3cd3547fbac",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-19",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 19,
+      "title": "In the shadow (Shuuko Theme)",
+      "duration": 215.36,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "shuuko"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/8fad64fe5985e2744fccbdf796ac00cce3a6412ca11c580248e08439602a12e0.mp3",
+      "sha256": "8fad64fe5985e2744fccbdf796ac00cce3a6412ca11c580248e08439602a12e0",
+      "bytes": 4691413,
+      "sourceSha256": "7210db1150c1eb6b5537dea34ad1725483e132544c9545ce09e8d7e18ae55e59",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-20",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 20,
+      "title": "Ancestral Lament (Ancestors Theme)",
+      "duration": 208.48,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "memory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/9f6714e06a1e66a7b84a9ea2240dff6ba8b90366d6a877e1dae67b738f1d2ace.mp3",
+      "sha256": "9f6714e06a1e66a7b84a9ea2240dff6ba8b90366d6a877e1dae67b738f1d2ace",
+      "bytes": 4186483,
+      "sourceSha256": "118642f00c6a88396bd80cd8a59be6aa2d886d519b3d596c29de0b0b5f9393b5",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-21",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 21,
+      "title": "Call of the Crow",
+      "duration": 181.8,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "encounter"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/aa5d3b93903de59226dcaaaf175b84622d1130f650af344fcebd8b897a1d212e.mp3",
+      "sha256": "aa5d3b93903de59226dcaaaf175b84622d1130f650af344fcebd8b897a1d212e",
+      "bytes": 4079881,
+      "sourceSha256": "92be89d26ab6ec99e6dd70a02e02571865ad3455e7195226b487e99daa1481a9",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-22",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 22,
+      "title": "Rise of the Crow Clan (Chorus)",
+      "duration": 222.48,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "victory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/f6762ea91ea96289d1921496ccc65b7c14c168dd8ad9006095d16da49151395e.mp3",
+      "sha256": "f6762ea91ea96289d1921496ccc65b7c14c168dd8ad9006095d16da49151395e",
+      "bytes": 4974303,
+      "sourceSha256": "5d1873fe4e74e6fa16806a4e885c3859a8ff4d41a2df24baa75d80c8f8eadb22",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-23",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 23,
+      "title": "Silent Warrior (Arachi Theme)",
+      "duration": 188.68,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "arachi"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/9d11137b6a768145b9dce8eed2a0393b4d823facc45eeb641fc77c2b26409be0.mp3",
+      "sha256": "9d11137b6a768145b9dce8eed2a0393b4d823facc45eeb641fc77c2b26409be0",
+      "bytes": 4020110,
+      "sourceSha256": "1584f6d27cf70fb5da726a7a68dd59ec13eda1709b0d00c73ad6299e5c96bc5a",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-24",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 24,
+      "title": "The Crow's Shadow (Finn Theme)",
+      "duration": 157.6,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "finn"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/91818665c823736c7412f959737e33d6f9ee26b24c8294c11b1d9d1891b52ad2.mp3",
+      "sha256": "91818665c823736c7412f959737e33d6f9ee26b24c8294c11b1d9d1891b52ad2",
+      "bytes": 3489759,
+      "sourceSha256": "edd1f5b9f1126e2a3e7b1568623a1c8e5234369ba129ec1800ed155c2d4de2c1",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-25",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 25,
+      "title": "Call of Morrigan (Seika Theme)",
+      "duration": 140.68,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/c564bd3b5edadec2da962a30ad0cc335d21ca1e4140737285f38dfe7f1f37ea3.mp3",
+      "sha256": "c564bd3b5edadec2da962a30ad0cc335d21ca1e4140737285f38dfe7f1f37ea3",
+      "bytes": 3203559,
+      "sourceSha256": "4ff88b7795ec602cbaa2bcb16b3dfdb223814bec5fd147b672fdd16981d2930c",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-26",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 26,
+      "title": "Shadow's Dominion (V2)",
+      "duration": 253,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "danger"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/674eaa2d78e313dbe8f310a4efa8e43effe707842b2c9a1bc725a535f6708bb9.mp3",
+      "sha256": "674eaa2d78e313dbe8f310a4efa8e43effe707842b2c9a1bc725a535f6708bb9",
+      "bytes": 5592823,
+      "sourceSha256": "f343205e7396adcfba86706c1fd673d5dfbe2c1c5aa3e4ffad56828ef29e1bf9",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-27",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 27,
+      "title": "Seika's Improvised Song",
+      "duration": 217.6,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/9ac4aee20f132644b48947f38566332e5a5878c75be12498c98e6c5ea914fb68.mp3",
+      "sha256": "9ac4aee20f132644b48947f38566332e5a5878c75be12498c98e6c5ea914fb68",
+      "bytes": 4414928,
+      "sourceSha256": "bcfd6923b62ff21634aab3eccb1f911fa5c4a664cc275547382096e250017e88",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-28",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 28,
+      "title": "Seika's Swing V.1",
+      "duration": 164.08,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/e75271effd13c6e6a96c78d23b83aace78bd3bda74b3f02c748c7c84ee1274df.mp3",
+      "sha256": "e75271effd13c6e6a96c78d23b83aace78bd3bda74b3f02c748c7c84ee1274df",
+      "bytes": 3790154,
+      "sourceSha256": "433acfdc71b493093d30cc690af15675e7ece594ef386d18000d8b2ff073878a",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-29",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 29,
+      "title": "Seika swing v.2",
+      "duration": 166.92,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/3066245f11769c55cdae5780729f81e9f9ab6f2a01a606c88ac84a69e80df103.mp3",
+      "sha256": "3066245f11769c55cdae5780729f81e9f9ab6f2a01a606c88ac84a69e80df103",
+      "bytes": 3773112,
+      "sourceSha256": "49894672bdfd06627040cfde218ecf77e0b623a419416a6c0c4fd4a94264aee7",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-30",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 30,
+      "title": "Seika’s Swing No. 5 (Complete Edition)",
+      "duration": 158.96,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/39ff64d164bc6abf95612cbe8f351150573a60aaef3259281fac17bcd107f988.mp3",
+      "sha256": "39ff64d164bc6abf95612cbe8f351150573a60aaef3259281fac17bcd107f988",
+      "bytes": 3496201,
+      "sourceSha256": "a6b686ae272b94ac22c35be4f92bd7230386b42f322575dc6ff268b739efbf3b",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-31",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 31,
+      "title": "Seika’s Swing (Final Edition)",
+      "duration": 240.44,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/7ac43a716c4aa0aef290f6695ff1b1df48d985385b55d7c63802eb7a89d3afa4.mp3",
+      "sha256": "7ac43a716c4aa0aef290f6695ff1b1df48d985385b55d7c63802eb7a89d3afa4",
+      "bytes": 5668840,
+      "sourceSha256": "9b2578f68852bcee8a170a217962b68ec530cd98bb74cb9de631ce164025d241",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-33",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 33,
+      "title": "Unbound (Seika Theme)",
+      "duration": 182.2,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/2cc813e19296c638eaed3e6b097745de564adf656b52c8de0f8e66662a8c99e1.mp3",
+      "sha256": "2cc813e19296c638eaed3e6b097745de564adf656b52c8de0f8e66662a8c99e1",
+      "bytes": 4002366,
+      "sourceSha256": "a101ebc190a33dd5f1df4e35f7272b9582941829f2efcbe5002cceeec2445cb8",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "crow-35",
+      "albumId": "crow",
+      "album": "The Crow Clan",
+      "number": 35,
+      "title": "We Stand or We Fall",
+      "duration": 216.76,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "victory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/4c0aefe53bc606206be8702b3bc9c43f12330231437ed4c47931f08d4cb2096a.mp3",
+      "sha256": "4c0aefe53bc606206be8702b3bc9c43f12330231437ed4c47931f08d4cb2096a",
+      "bytes": 4728196,
+      "sourceSha256": "754868d5666762e23ae0260378e3dae1ab0fd66ce50021a65c49cb3549f6acfc",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-01",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 1,
+      "title": "Rise (Instrumental)",
+      "duration": 129.76,
+      "instrumental": true,
+      "contexts": [
+        "battle",
+        "victory"
+      ],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/d60863b23a630e35febe89568dc44974f3d73e010e425a21134ca7c33d9eaf47.mp3",
+      "sha256": "d60863b23a630e35febe89568dc44974f3d73e010e425a21134ca7c33d9eaf47",
+      "bytes": 2834161,
+      "sourceSha256": "5846ec71bb885fee0cc5f6e6d797d961f61707621ea74a0c5293aa3faa0bb00a",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-02",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 2,
+      "title": "The Call of Shadows",
+      "duration": 153.72,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "danger"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/30df7f363c84d6d6f51534aea2fe0840bbaf0d26419f0a56efc59ca7783976e5.mp3",
+      "sha256": "30df7f363c84d6d6f51534aea2fe0840bbaf0d26419f0a56efc59ca7783976e5",
+      "bytes": 3445825,
+      "sourceSha256": "4632be716b3b13854753480dde4e39db41dce6b125884babb173c0a3c94d9a1b",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-03",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 3,
+      "title": "Falling for the Fallen (Hisato Theme)",
+      "duration": 239,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "hisato"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/81b4c6a24e4eb85dd14821a0c1a1d645aa2c0c9caa9d6ef0ebb032f7c2c18ae5.mp3",
+      "sha256": "81b4c6a24e4eb85dd14821a0c1a1d645aa2c0c9caa9d6ef0ebb032f7c2c18ae5",
+      "bytes": 5123827,
+      "sourceSha256": "33a9fab57f5896a087edcd2d7f49c8e00516c322f5ade06b4a56eb6420433374",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-04",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 4,
+      "title": "Echoes of Redemption (Vengeance)",
+      "duration": 149.6,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "defeat"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/d9862212f89ebf4bf98cb867fbe1d7dcd8b35df7f7f5b81e5297283ae0024ebe.mp3",
+      "sha256": "d9862212f89ebf4bf98cb867fbe1d7dcd8b35df7f7f5b81e5297283ae0024ebe",
+      "bytes": 3363902,
+      "sourceSha256": "33b550f085292844c6a82c26a19a5654b04d1eda0995cbfe52f2c91176a53d5c",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-05",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 5,
+      "title": "Chains Unbroken (The Phoenix Theme)",
+      "duration": 111.36,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "memory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/46e85e251cd1e5b34ec91b5c8a58d5b8d0cc0633f2868667cf5ee45e494a3ef1.mp3",
+      "sha256": "46e85e251cd1e5b34ec91b5c8a58d5b8d0cc0633f2868667cf5ee45e494a3ef1",
+      "bytes": 2430593,
+      "sourceSha256": "c0837b951e516dac952b54023bb72b1cd3e7dc9c3dc1030cad97d242caf851fa",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-06",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 6,
+      "title": "Bound by Shadows (Trahison)",
+      "duration": 143.36,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "defeat"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/41b2278fb7c39ba762bb1523524fde7ebe3c18a22cc02f5d9f76cea91282d6ba.mp3",
+      "sha256": "41b2278fb7c39ba762bb1523524fde7ebe3c18a22cc02f5d9f76cea91282d6ba",
+      "bytes": 3250809,
+      "sourceSha256": "cc5d9527e5fba684eeb5678764bb9ad8926aa573d7353eb5e2c5dacf146a9b7a",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-07",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 7,
+      "title": "A light in darkness",
+      "duration": 234.24,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "victory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/f96ce6b168eb90cc9f907e3b3e427000485f00158512054a6d8338fefea8ab40.mp3",
+      "sha256": "f96ce6b168eb90cc9f907e3b3e427000485f00158512054a6d8338fefea8ab40",
+      "bytes": 5185969,
+      "sourceSha256": "0c14f57807faff5a0ce9ee696892113987d9a5af21b36fb8586e11d0352f51a0",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-08",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 8,
+      "title": "The Fallen (Instrumental)",
+      "duration": 163.56,
+      "instrumental": true,
+      "contexts": [
+        "dungeon",
+        "defeat"
+      ],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/d5b919521b1a7a0a94d66e138ab50cf879cb1fbe9b339455eb3de695d6b181f5.mp3",
+      "sha256": "d5b919521b1a7a0a94d66e138ab50cf879cb1fbe9b339455eb3de695d6b181f5",
+      "bytes": 3721567,
+      "sourceSha256": "7ea0f8e387415bf50213d041fa649e795d8664d73d58a15836b82b266890aa58",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-09",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 9,
+      "title": "Broken crown",
+      "duration": 134.08,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "defeat"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/0ff3f3a87bd1a6bc3d52bd281e9de2293b8bdc8cd1b10e0382a4fad1dde4650f.mp3",
+      "sha256": "0ff3f3a87bd1a6bc3d52bd281e9de2293b8bdc8cd1b10e0382a4fad1dde4650f",
+      "bytes": 2959962,
+      "sourceSha256": "abeaaaed3dab324a975a4130fe0a0faa778c132b38c19f46fddbdbf0796cd91e",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-10",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 10,
+      "title": "Eternal (Seika and Elzeriad Theme)",
+      "duration": 190.4,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika",
+        "elzeriad"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/a2ff9aa07a2829fbce1f517dbbbbdb6cc3bd70caaec87de4012690c878051d4c.mp3",
+      "sha256": "a2ff9aa07a2829fbce1f517dbbbbdb6cc3bd70caaec87de4012690c878051d4c",
+      "bytes": 3812752,
+      "sourceSha256": "b6aaf29e260ae9de7ff1b612150ffd0ca463b9076e072d8331aa02d172065d16",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-11",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 11,
+      "title": "Dawnfallen Star (Gen'nossuke Theme)",
+      "duration": 235.6,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "gennossuke"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/36e8cd595b2a524a0027118ab90c9b6b267737da5010f0e4053249150a769de2.mp3",
+      "sha256": "36e8cd595b2a524a0027118ab90c9b6b267737da5010f0e4053249150a769de2",
+      "bytes": 5019785,
+      "sourceSha256": "cd83be0c85d9de46a942c49f153059b6eb52c8266fadbd9baef719d85be3056c",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-12",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 12,
+      "title": "Shadow's Dance",
+      "duration": 169.44,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "spirit"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/cd1c0bb4a3cbdd2e4c2c64d3d3af59ce039fc377eeb880755b354774681cfc85.mp3",
+      "sha256": "cd1c0bb4a3cbdd2e4c2c64d3d3af59ce039fc377eeb880755b354774681cfc85",
+      "bytes": 3799148,
+      "sourceSha256": "ef6c72612427466d9294f9630b5aa1a56704a728652bc8d5333388e996a3d2fc",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-13",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 13,
+      "title": "Untamed",
+      "duration": 150,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "encounter"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/2e1bc3be0dd59a039f3acc47ae79e6c3d930a181eb3859626f4fc18dbb8f70b0.mp3",
+      "sha256": "2e1bc3be0dd59a039f3acc47ae79e6c3d930a181eb3859626f4fc18dbb8f70b0",
+      "bytes": 3387949,
+      "sourceSha256": "51860e39fec6b343a066f0320e0bdbd1128f8c6825a23764872b954a4705da00",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-14",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 14,
+      "title": "Shadow's Dominion",
+      "duration": 168.2,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "danger"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/9a7435f5a29f2712237a95d8b9b3073fc374afa87900f32ba8d6c93ece36c413.mp3",
+      "sha256": "9a7435f5a29f2712237a95d8b9b3073fc374afa87900f32ba8d6c93ece36c413",
+      "bytes": 3646895,
+      "sourceSha256": "77827752796a7f183db627ef84c8bce04f35c9ebd82debbee9dd83ad343ef2ee",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-15",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 15,
+      "title": "Morning Star",
+      "duration": 156,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "victory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/5a6c14fc0fabd0dae5be4d0a679404a1d40181feadada80ece856ab272da7caa.mp3",
+      "sha256": "5a6c14fc0fabd0dae5be4d0a679404a1d40181feadada80ece856ab272da7caa",
+      "bytes": 3541290,
+      "sourceSha256": "02d406fd010ba2746013527d075c796800b8ae67043b8d023acd497073e93d29",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-16",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 16,
+      "title": "Wandering Soul",
+      "duration": 187.4,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "memory"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/1b7f3a7db43233e24fb431f829620f635c6daeae5c271258fb5582cd066dce25.mp3",
+      "sha256": "1b7f3a7db43233e24fb431f829620f635c6daeae5c271258fb5582cd066dce25",
+      "bytes": 3972836,
+      "sourceSha256": "3788263b746966b0c77f22778e75b0eff838418606b694828982b29e7240bb8b",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-17",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 17,
+      "title": "Ashes of the Past (Sanru Theme)",
+      "duration": 130.96,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "sanru"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/8bec106b2583ba487bf62aa27087ce8a5b778f33483708abd5865899137c8302.mp3",
+      "sha256": "8bec106b2583ba487bf62aa27087ce8a5b778f33483708abd5865899137c8302",
+      "bytes": 2821573,
+      "sourceSha256": "4e1490f61152ebed386d01a182e9882084cf4939268f8db3c6eeca437ae3d2b1",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-18",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 18,
+      "title": "Lost in the Night (Tsuong Theme)",
+      "duration": 173.76,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "tsuong"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/6ec43360fe13499c36f4cc4405032cee777fed7504972db74e7944b3f09aa6c7.mp3",
+      "sha256": "6ec43360fe13499c36f4cc4405032cee777fed7504972db74e7944b3f09aa6c7",
+      "bytes": 3675278,
+      "sourceSha256": "0f41eed3da66882815fc4cc4ea90bf99dc58ad299f1f0615fe797fe8da257747",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-19",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 19,
+      "title": "Chains of the Phantom",
+      "duration": 293.76,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [],
+      "occasions": [
+        "danger"
+      ],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/de14387f25be09554413bd829a3dd956e22122167fda0e57c6909241a3e45b05.mp3",
+      "sha256": "de14387f25be09554413bd829a3dd956e22122167fda0e57c6909241a3e45b05",
+      "bytes": 6356259,
+      "sourceSha256": "6ab616f3ddc17265cd73fda0725964d0edc4ace1614ab9c9e67dfe7f2b7389df",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-20",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 20,
+      "title": "Fallen Honor (Shotaka)",
+      "duration": 156.96,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "shotaka"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/520b0c9a442320fc4594712f7d69831677fa4eafe8f7fd59e3003f9ef4f2df7e.mp3",
+      "sha256": "520b0c9a442320fc4594712f7d69831677fa4eafe8f7fd59e3003f9ef4f2df7e",
+      "bytes": 3473524,
+      "sourceSha256": "5005b161771582de023ac8b50256c012b5a2258510ae9fe6c85302afd9187004",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-21",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 21,
+      "title": "The Darkest World (Instrumental)",
+      "duration": 222.56,
+      "instrumental": true,
+      "contexts": [
+        "dungeon",
+        "danger"
+      ],
+      "characters": [],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/3da1de50aff9e235897801db55671a3e34bce470628997d5bc59687e587c390c.mp3",
+      "sha256": "3da1de50aff9e235897801db55671a3e34bce470628997d5bc59687e587c390c",
+      "bytes": 4967630,
+      "sourceSha256": "8a9bde7bdf2d47e36fbe4db40d474c99f3136ce74c75c5ec6eab20fbebfde59a",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-22",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 22,
+      "title": "Whisper of Shadows 影の囁き ( Elzeriad Theme)",
+      "duration": 177,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "elzeriad"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/80c7f539f162d23ecfe3c3a0f49c53b47993f070f77b0eed2115cf327fa6525c.mp3",
+      "sha256": "80c7f539f162d23ecfe3c3a0f49c53b47993f070f77b0eed2115cf327fa6525c",
+      "bytes": 3959191,
+      "sourceSha256": "af23958b146b9b856990c8a560862de6a697c069c30508542af37d5ae8ea816e",
+      "recipe": "mp3-q2-lufs18-v1"
+    },
+    {
+      "id": "fallen-30",
+      "albumId": "fallen",
+      "album": "The Fallen",
+      "number": 30,
+      "title": "I Stayed (The personnal theme) 3.5",
+      "duration": 172,
+      "instrumental": false,
+      "contexts": [],
+      "characters": [
+        "seika"
+      ],
+      "occasions": [],
+      "url": "https://lahoudie.github.io/naishou-assets/audio/55be90bec090815d1ec2ffdc5aeb6088e43baacedefa6fff66d3a8919ab1073b.mp3",
+      "sha256": "55be90bec090815d1ec2ffdc5aeb6088e43baacedefa6fff66d3a8919ab1073b",
+      "bytes": 3771256,
+      "sourceSha256": "6a26cdf75ffdc7d2de8fb9d295c953e80ffb76e1f7cc69ac9a8b46062caf3848",
+      "recipe": "mp3-q2-lufs18-v1"
+    }
+  ]
+}
