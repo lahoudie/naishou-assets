@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "ryoko-awakening-performance-v2",
+  "kind": "video",
+  "title": "Le Chant de l’Autre Rive",
+  "objects": [
+    {
+      "object": "objects/e589eff568ab46ae3f2c50da04ae9cfaa4e2f8583b4936b6b1a29c65755a246d.mp4",
+      "sha256": "e589eff568ab46ae3f2c50da04ae9cfaa4e2f8583b4936b6b1a29c65755a246d",
+      "bytes": 55294673,
+      "mime": "video/mp4",
+      "durationSeconds": 135,
+      "width": 1600,
+      "height": 900,
+      "sourceFile": "le-chant-de-lautre-rive-performance-v2.mp4"
+    }
+  ]
+}
