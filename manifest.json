@@ -2,6 +2,51 @@
   "repository": "lahoudie/naishou-assets",
   "baseUrl": "https://lahoudie.github.io/naishou-assets/",
   "files": {
+    "assets/battle/battlefield.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9.png",
+      "sha256": "982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9",
+      "bytes": 3072934
+    },
+    "assets/battle/props-atlas.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e.png",
+      "sha256": "532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e",
+      "bytes": 1600422
+    },
+    "assets/battle/refined-v2/terrain/field-forest.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21.png",
+      "sha256": "a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21",
+      "bytes": 1207983
+    },
+    "assets/battle/refined-v2/terrain/field-fortress.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e.png",
+      "sha256": "bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e",
+      "bytes": 784363
+    },
+    "assets/battle/refined-v2/terrain/field-plain.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c.png",
+      "sha256": "faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c",
+      "bytes": 1264225
+    },
+    "assets/battle/refined-v2/terrain/field-river.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf.png",
+      "sha256": "7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf",
+      "bytes": 1239263
+    },
+    "assets/battle/refined-v2/terrain/field-village.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d.png",
+      "sha256": "2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d",
+      "bytes": 1255626
+    },
+    "assets/battle/refined-v2/units.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb.png",
+      "sha256": "7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb",
+      "bytes": 2879355
+    },
+    "assets/battle/units-atlas.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac.png",
+      "sha256": "e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac",
+      "bytes": 1510202
+    },
     "assets/dialogues/naia-v1.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d.png",
       "sha256": "0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d",
@@ -787,10 +832,25 @@
       "sha256": "faf2c0f65eefa25176544c02506bd9816cc4ac627ae22610bc9aeeecc4295eb2",
       "bytes": 368836
     },
+    "assets/portraits/jia-lan-wen-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61.png",
+      "sha256": "77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61",
+      "bytes": 2519098
+    },
     "assets/portraits/kawa-no-taisho-v1.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735.webp",
       "sha256": "88ffeeaa96e7787039025c80f2a1c2aa32dd36a6a46c62c5aefbb13cd2ca9735",
       "bytes": 1024338
+    },
+    "assets/portraits/kazami/kazami-fatigue.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb.webp",
+      "sha256": "a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb",
+      "bytes": 59682
+    },
+    "assets/portraits/kazami/kazami-reference.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b.png",
+      "sha256": "a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b",
+      "bytes": 345650
     },
     "assets/portraits/kiyomori.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/f834e3c38365b090c74426607fb0f8f8150b441dbd104e83368ccd64bf03a070.png",
@@ -806,6 +866,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869.png",
       "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
       "bytes": 241751
+    },
+    "assets/portraits/ryoko/gennossuke.jpg": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d45f8903b657803aea508951b4f4c5d5371c283bbce2182089678aa3fbab46e0.jpg",
+      "sha256": "d45f8903b657803aea508951b4f4c5d5371c283bbce2182089678aa3fbab46e0",
+      "bytes": 277705
+    },
+    "assets/portraits/ryoko/hisato.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a50762ba9e206300294779893e3c8440b50c3fe84a1edb7ae93a4975f0e985e2.png",
+      "sha256": "a50762ba9e206300294779893e3c8440b50c3fe84a1edb7ae93a4975f0e985e2",
+      "bytes": 267678
+    },
+    "assets/portraits/ryoko/jiang.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/1971028a71f639db0b68946f9353be73c6fe401f5ccc10ef1cc98f7012524e47.png",
+      "sha256": "1971028a71f639db0b68946f9353be73c6fe401f5ccc10ef1cc98f7012524e47",
+      "bytes": 1083183
     },
     "assets/portraits/satoru.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/148c98ea55dc01c17d13e71a78d9a8084210e4bbb1c155fd2dec8e2cb56d85e6.png",
@@ -7871,66 +7946,6 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957.webp",
       "sha256": "9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957",
       "bytes": 9690
-    },
-    "assets/portraits/jia-lan-wen-v1.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61.png",
-      "sha256": "77fa6958dd7e4c6ad53de50c0f1669d21b1b130fbf9628ab01e4c7477c4fda61",
-      "bytes": 2519098
-    },
-    "assets/portraits/kazami/kazami-reference.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b.png",
-      "sha256": "a4da452e122710f6e6c879cacb07eb1f3dc22bf3fec8e8adaabca5da8786f81b",
-      "bytes": 345650
-    },
-    "assets/portraits/kazami/kazami-fatigue.webp": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb.webp",
-      "sha256": "a8cea1256d8809913e556a3e36eb56cf1eea58625c779e91992440140077ceeb",
-      "bytes": 59682
-    },
-    "assets/battle/battlefield.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9.png",
-      "sha256": "982a5059c74a885e0a75d2e94206def8f609da2743f1dbd9145f858eca8b3eb9",
-      "bytes": 3072934
-    },
-    "assets/battle/props-atlas.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e.png",
-      "sha256": "532e52a29985b911e3f79d627c1a28bd4d73a0548e2f34daafe74aee5b67791e",
-      "bytes": 1600422
-    },
-    "assets/battle/units-atlas.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac.png",
-      "sha256": "e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac",
-      "bytes": 1510202
-    },
-    "assets/battle/refined-v2/units.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb.png",
-      "sha256": "7d9b2692a3f4280d979090fd82a3e64fcd14e7affa47d64ad7d4896e8a2b23fb",
-      "bytes": 2879355
-    },
-    "assets/battle/refined-v2/terrain/field-plain.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c.png",
-      "sha256": "faf8d48bad714e5ef121b16f7454d20abe293def32c3f0bfad9a48bf53ede44c",
-      "bytes": 1264225
-    },
-    "assets/battle/refined-v2/terrain/field-village.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d.png",
-      "sha256": "2ac7c4c929f7b57ea0287c61e1d1fa2212b47e91c5dbe6e226d9ace40842423d",
-      "bytes": 1255626
-    },
-    "assets/battle/refined-v2/terrain/field-river.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf.png",
-      "sha256": "7b670c961796de7893796e1567f28010f523ffcb0e2e5c4df38c6b0227e793cf",
-      "bytes": 1239263
-    },
-    "assets/battle/refined-v2/terrain/field-forest.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21.png",
-      "sha256": "a132ae6c64d2db590457863158f087797201151ff3bb07bc496ad079569c3c21",
-      "bytes": 1207983
-    },
-    "assets/battle/refined-v2/terrain/field-fortress.png": {
-      "url": "https://lahoudie.github.io/naishou-assets/objects/bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e.png",
-      "sha256": "bf9b563bda4b45a795a8c9912b393f9a0a6402c0a4dc812dfaf517439aff027e",
-      "bytes": 784363
     }
   }
 }
