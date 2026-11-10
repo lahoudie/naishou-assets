@@ -867,6 +867,11 @@
       "sha256": "271abc78c026c913ec4a58076bec6724f60d1ad17f8a86d7d29c49ce6fb29869",
       "bytes": 241751
     },
+    "assets/portraits/ryoko/denbe.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c50febc16ffabba5c23338ca02efb13d58eea4692dea9ae486fd2d3abb14d6ab.png",
+      "sha256": "c50febc16ffabba5c23338ca02efb13d58eea4692dea9ae486fd2d3abb14d6ab",
+      "bytes": 2011386
+    },
     "assets/portraits/ryoko/gennossuke.jpg": {
       "url": "https://raw.githubusercontent.com/lahoudie/naishou-assets/e04468485231e7cdea1dc1dd90de1c6bdfee96cf/objects/d45f8903b657803aea508951b4f4c5d5371c283bbce2182089678aa3fbab46e0.jpg",
       "sha256": "d45f8903b657803aea508951b4f4c5d5371c283bbce2182089678aa3fbab46e0",
