@@ -62,6 +62,16 @@
       "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
       "bytes": 3908557
     },
+    "assets/encounters/cour-des-rencontres.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/98e572c563582e0118e52824120f1607d2ed4f2b32cbc9838a7b3f4664c1cc2d.webp",
+      "sha256": "98e572c563582e0118e52824120f1607d2ed4f2b32cbc9838a7b3f4664c1cc2d",
+      "bytes": 628602
+    },
+    "assets/maps/wardrobe-background.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dbb42457eccd2c90bb0864bd997bed60e501031fa329b5566c8cdee4018c54bf.webp",
+      "sha256": "dbb42457eccd2c90bb0864bd997bed60e501031fa329b5566c8cdee4018c54bf",
+      "bytes": 951220
+    },
     "assets/portraits/akari.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc.webp",
       "sha256": "b02434a0444fcaa23c8322d11d5d51493d84bfc9e9496ce8156f78a12fcaf1fc",
@@ -896,6 +906,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a.webp",
       "sha256": "008ad6bb9d3d87b8f1a78d5570da9e0a6d7d7c3d4a35d67ed2a8c7b4729c416a",
       "bytes": 109724
+    },
+    "assets/research/background.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c6e392cce7cc4e9fc684c1973684d7439ebbe45fa8a7174f347383ea2bf4ac91.webp",
+      "sha256": "c6e392cce7cc4e9fc684c1973684d7439ebbe45fa8a7174f347383ea2bf4ac91",
+      "bytes": 728668
     },
     "assets/wardrobe/abysses/bas-et-bottes.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/5f7876e0c50330a796d1d091a71a9c929d846ad2137c60cc882b5b8d7941995b.png",
