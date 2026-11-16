@@ -47,6 +47,41 @@
       "sha256": "e9f9f1c28f17cf15870206548023b6e8b01dad4dd2ca5f98331e45e220df5aac",
       "bytes": 1510202
     },
+    "assets/battle/walk-v3/units.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e84ccdd3156663d46873e437f3400962f305385ad42cd7cbd2090d4f16c7ffcf.png",
+      "sha256": "e84ccdd3156663d46873e437f3400962f305385ad42cd7cbd2090d4f16c7ffcf",
+      "bytes": 4722254
+    },
+    "assets/blood-rites/devoreur.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/31000009489a9384e1d51deae663a0d54f07a2eb1761c777da8d693483e07040.webp",
+      "sha256": "31000009489a9384e1d51deae663a0d54f07a2eb1761c777da8d693483e07040",
+      "bytes": 2618720
+    },
+    "assets/blood-rites/moisson.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/89502acec1eb50c4702028e67692fcace44e3f451c44cea1d8c94d6298a75373.webp",
+      "sha256": "89502acec1eb50c4702028e67692fcace44e3f451c44cea1d8c94d6298a75373",
+      "bytes": 2500438
+    },
+    "assets/blood-rites/nuit.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/dd9ffcc67f2ab135103c20e87d921f43b7c85239fbdd9587162d76a0bcd479ca.webp",
+      "sha256": "dd9ffcc67f2ab135103c20e87d921f43b7c85239fbdd9587162d76a0bcd479ca",
+      "bytes": 2215028
+    },
+    "assets/blood-rites/retour.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/58b6b763755ec23acfd465569a8b6b1c316ce54cab2072d307d31763fd2693b7.webp",
+      "sha256": "58b6b763755ec23acfd465569a8b6b1c316ce54cab2072d307d31763fd2693b7",
+      "bytes": 2422224
+    },
+    "assets/blood-rites/sang.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/86264e04bcdb6f80d3fe04d3e42acb42abcb66979934d1c95902ebe8e824c668.webp",
+      "sha256": "86264e04bcdb6f80d3fe04d3e42acb42abcb66979934d1c95902ebe8e824c668",
+      "bytes": 2513730
+    },
+    "assets/blood-rites/tribut.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9930c7d4d10c8956de307b26b2d2c5d57323b3c2790f304100e53da849e03579.webp",
+      "sha256": "9930c7d4d10c8956de307b26b2d2c5d57323b3c2790f304100e53da849e03579",
+      "bytes": 2239848
+    },
     "assets/dialogues/naia-v1.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d.png",
       "sha256": "0cdd89e8c2051abbc5cae756be44da5e5c9cc86e2f2b0ac5f753ca2ed76a2d7d",
