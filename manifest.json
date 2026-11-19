@@ -92,6 +92,11 @@
       "sha256": "98e0ebf4c925bae97bf6012267e467db425ded73fe318936270620c88eedbe91",
       "bytes": 3130649
     },
+    "assets/dialogues/yatsuhiro-v1.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/72d5c25205fdbedf2a0f064e850317cd6ffd711da21bc7a0e76359aa138ad6fb.png",
+      "sha256": "72d5c25205fdbedf2a0f064e850317cd6ffd711da21bc7a0e76359aa138ad6fb",
+      "bytes": 3076008
+    },
     "assets/dungeons/koso-theatre/jama-suru.png": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9.png",
       "sha256": "921b761abb2ad9f7d6902964397b97b576100f20ef6b561366e641ceeaf3b7b9",
@@ -101,6 +106,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/98e572c563582e0118e52824120f1607d2ed4f2b32cbc9838a7b3f4664c1cc2d.webp",
       "sha256": "98e572c563582e0118e52824120f1607d2ed4f2b32cbc9838a7b3f4664c1cc2d",
       "bytes": 628602
+    },
+    "assets/encounters/hajime-home.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6029641701ab0611a26d7144d8a589206ed74abdb71a06c0f6710a85e3a538ef.webp",
+      "sha256": "6029641701ab0611a26d7144d8a589206ed74abdb71a06c0f6710a85e3a538ef",
+      "bytes": 180050
+    },
+    "assets/encounters/rin-home-rain.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6b248856e6b5e9736c80a28e99ae84b1b57f792afcf0260f6f6b19f0d0241a45.webp",
+      "sha256": "6b248856e6b5e9736c80a28e99ae84b1b57f792afcf0260f6f6b19f0d0241a45",
+      "bytes": 406478
+    },
+    "assets/encounters/rin-home.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/42447446deca75fa42d3a67fd36fcf757afa77662cc2bcd13d513d80049b4719.webp",
+      "sha256": "42447446deca75fa42d3a67fd36fcf757afa77662cc2bcd13d513d80049b4719",
+      "bytes": 167224
     },
     "assets/maps/wardrobe-background.webp": {
       "url": "https://lahoudie.github.io/naishou-assets/objects/dbb42457eccd2c90bb0864bd997bed60e501031fa329b5566c8cdee4018c54bf.webp",
