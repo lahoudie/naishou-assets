@@ -14766,6 +14766,11 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/a2d4b6a1b86440c0812ca085223dc5678e7e878035ef2e7e33bacb0b0fed645d.webp",
       "sha256": "a2d4b6a1b86440c0812ca085223dc5678e7e878035ef2e7e33bacb0b0fed645d",
       "bytes": 59854
+    },
+    "assets/catalog/2f5f4424bc42c0dc18cda260.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2f5f4424bc42c0dc18cda26065f3c479fe4ba4c20104ef424421603fb8db8eb7.png",
+      "sha256": "2f5f4424bc42c0dc18cda26065f3c479fe4ba4c20104ef424421603fb8db8eb7",
+      "bytes": 235130
     }
   }
 }
