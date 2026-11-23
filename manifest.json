@@ -14751,6 +14751,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/f14645d3c65632fb57c52e86199161f7668152800683ce45ec6cb97b2b041d82.webp",
       "sha256": "f14645d3c65632fb57c52e86199161f7668152800683ce45ec6cb97b2b041d82",
       "bytes": 55728
+    },
+    "assets/encounters/rei-400/bol-50bba96a5933.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/50bba96a5933ff7af45be3c047c78aac4bd8f91f9929c976b6dde63798e7d2d2.webp",
+      "sha256": "50bba96a5933ff7af45be3c047c78aac4bd8f91f9929c976b6dde63798e7d2d2",
+      "bytes": 53776
+    },
+    "assets/encounters/rei-400/bokken-defb41839a7b.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/defb41839a7bd434c17ebc143227672907c9d734c5970ab3e3a3c9d947b16d50.webp",
+      "sha256": "defb41839a7bd434c17ebc143227672907c9d734c5970ab3e3a3c9d947b16d50",
+      "bytes": 57102
+    },
+    "assets/encounters/rei-400/lettre-a2d4b6a1b864.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a2d4b6a1b86440c0812ca085223dc5678e7e878035ef2e7e33bacb0b0fed645d.webp",
+      "sha256": "a2d4b6a1b86440c0812ca085223dc5678e7e878035ef2e7e33bacb0b0fed645d",
+      "bytes": 59854
     }
   }
 }
