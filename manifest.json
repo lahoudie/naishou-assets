@@ -14716,6 +14716,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957.webp",
       "sha256": "9df2ddc103cf28b501cd1527483577616f7c9635f8ba57c7d1cb68f0f5fe5957",
       "bytes": 9690
+    },
+    "assets/encounters/yunosuke-395/couture-9d07139c5ca5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/9d07139c5ca5c2e96bbd694ea456a5b2b1397b0b99a4f7888483bed296310dcd.webp",
+      "sha256": "9d07139c5ca5c2e96bbd694ea456a5b2b1397b0b99a4f7888483bed296310dcd",
+      "bytes": 101538
+    },
+    "assets/encounters/yunosuke-395/baton-d032bf15f584.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d032bf15f584fcddf583be225394f50987dc4a90e0db4f1b9ee7fc5a667a25f5.webp",
+      "sha256": "d032bf15f584fcddf583be225394f50987dc4a90e0db4f1b9ee7fc5a667a25f5",
+      "bytes": 81636
+    },
+    "assets/encounters/yunosuke-395/releve-8629c579c22c.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122.webp",
+      "sha256": "8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122",
+      "bytes": 64424
     }
   }
 }
