@@ -14731,6 +14731,26 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122.webp",
       "sha256": "8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122",
       "bytes": 64424
+    },
+    "assets/encounters/moshi-ryu-396/attente-8a067df62432.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/8a067df62432caac4102eb6164c31de540ea341028d039ec2d32c0e4d06668c1.webp",
+      "sha256": "8a067df62432caac4102eb6164c31de540ea341028d039ec2d32c0e4d06668c1",
+      "bytes": 49372
+    },
+    "assets/encounters/moshi-ryu-396/cachette-62383ed97c2c.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/62383ed97c2ce5e741bc11b163686a3a3cd63f9043034f50cbae26b83926b148.webp",
+      "sha256": "62383ed97c2ce5e741bc11b163686a3a3cd63f9043034f50cbae26b83926b148",
+      "bytes": 103202
+    },
+    "assets/encounters/moshi-ryu-396/carnet-11b530a586b7.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/11b530a586b7d471f1c43fa2f8a07fa21c665667b9ffd5a17bfd9034d4a5ef53.webp",
+      "sha256": "11b530a586b7d471f1c43fa2f8a07fa21c665667b9ffd5a17bfd9034d4a5ef53",
+      "bytes": 56676
+    },
+    "assets/encounters/moshi-ryu-396/des-f14645d3c656.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f14645d3c65632fb57c52e86199161f7668152800683ce45ec6cb97b2b041d82.webp",
+      "sha256": "f14645d3c65632fb57c52e86199161f7668152800683ce45ec6cb97b2b041d82",
+      "bytes": 55728
     }
   }
 }
