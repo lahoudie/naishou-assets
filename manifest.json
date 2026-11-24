@@ -14776,6 +14776,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/a572d4b448a27522264a8d011554b9d52f961458d20cabe8aaeb0951bce90e45.png",
       "sha256": "a572d4b448a27522264a8d011554b9d52f961458d20cabe8aaeb0951bce90e45",
       "bytes": 330478
+    },
+    "assets/encounters/yamanami-393/entier-audience-c8af3c66747a.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c8af3c66747a1996bba78be29fc0164751bdc4cbe9bf8560ba7a6b35de723fca.webp",
+      "sha256": "c8af3c66747a1996bba78be29fc0164751bdc4cbe9bf8560ba7a6b35de723fca",
+      "bytes": 84400
+    },
+    "assets/encounters/yamanami-393/entier-lettres-d1bb64dfb0b3.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d1bb64dfb0b353f6a14d67fbb5bdc2d93c1496231865b5e264efd5d1e480b5f2.webp",
+      "sha256": "d1bb64dfb0b353f6a14d67fbb5bdc2d93c1496231865b5e264efd5d1e480b5f2",
+      "bytes": 102036
+    },
+    "assets/encounters/yamanami-393/entier-atelier-ef4cbee7e14e.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/ef4cbee7e14e31b4bf9df202e03b2512494ada6be7241ba801b8d689277f76ac.webp",
+      "sha256": "ef4cbee7e14e31b4bf9df202e03b2512494ada6be7241ba801b8d689277f76ac",
+      "bytes": 82338
     }
   }
 }
