@@ -14806,6 +14806,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/fae5019c20064b639899901ef467c1ccb4f969f8c728913a39b8e26911aedbe9.webp",
       "sha256": "fae5019c20064b639899901ef467c1ccb4f969f8c728913a39b8e26911aedbe9",
       "bytes": 76518
+    },
+    "assets/encounters/tetikkir-386/entier-bol-7adaeef0f5d5.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7adaeef0f5d58061b207f7cca862545c0899e7f947be3127ccf320fc5995d6b5.webp",
+      "sha256": "7adaeef0f5d58061b207f7cca862545c0899e7f947be3127ccf320fc5995d6b5",
+      "bytes": 150170
+    },
+    "assets/encounters/tetikkir-386/entier-carnet-2575ea59c0a8.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/2575ea59c0a869966da55e2e03fe9d940c40eb7f81542f769da49246943aefd3.webp",
+      "sha256": "2575ea59c0a869966da55e2e03fe9d940c40eb7f81542f769da49246943aefd3",
+      "bytes": 121858
+    },
+    "assets/encounters/tetikkir-386/entier-tambour-239f46916bb0.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/239f46916bb0345b59a6ce64f4fc199fc7b37ca179c92a9ce6ae4794be758c1f.webp",
+      "sha256": "239f46916bb0345b59a6ce64f4fc199fc7b37ca179c92a9ce6ae4794be758c1f",
+      "bytes": 154518
     }
   }
 }
