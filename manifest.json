@@ -14791,6 +14791,21 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/ef4cbee7e14e31b4bf9df202e03b2512494ada6be7241ba801b8d689277f76ac.webp",
       "sha256": "ef4cbee7e14e31b4bf9df202e03b2512494ada6be7241ba801b8d689277f76ac",
       "bytes": 82338
+    },
+    "assets/encounters/tantoko-385/entier-ecoute-7a1254fc344e.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7a1254fc344ec2e7736cb10d2841c8e568ccf4cec07b180f2655698f0cd94de1.webp",
+      "sha256": "7a1254fc344ec2e7736cb10d2841c8e568ccf4cec07b180f2655698f0cd94de1",
+      "bytes": 49374
+    },
+    "assets/encounters/tantoko-385/entier-plateau-3952a58cfa73.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/3952a58cfa7386568f42789b3e31aaa22193d3516f4b38b271e1771d6cd17721.webp",
+      "sha256": "3952a58cfa7386568f42789b3e31aaa22193d3516f4b38b271e1771d6cd17721",
+      "bytes": 51746
+    },
+    "assets/encounters/tantoko-385/entier-banc-fae5019c2006.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fae5019c20064b639899901ef467c1ccb4f969f8c728913a39b8e26911aedbe9.webp",
+      "sha256": "fae5019c20064b639899901ef467c1ccb4f969f8c728913a39b8e26911aedbe9",
+      "bytes": 76518
     }
   }
 }
