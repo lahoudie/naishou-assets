@@ -14896,6 +14896,31 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/d654d49185c2ee904666200df3fd5b7f46529ada49dad40d829530b883ce5c8e.png",
       "sha256": "d654d49185c2ee904666200df3fd5b7f46529ada49dad40d829530b883ce5c8e",
       "bytes": 341331
+    },
+    "assets/encounters/tang-bow.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a361ae029adb2314751c8043c1728060c5421dc29884dc024d6bb32b10a4f70a.webp",
+      "sha256": "a361ae029adb2314751c8043c1728060c5421dc29884dc024d6bb32b10a4f70a",
+      "bytes": 33212
+    },
+    "assets/encounters/tang-eowa-jig.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4f658e8effef2e1cdf5b4435664b3793d7e8b0d15b06fb0ef98a1ca06df9cbc2.webp",
+      "sha256": "4f658e8effef2e1cdf5b4435664b3793d7e8b0d15b06fb0ef98a1ca06df9cbc2",
+      "bytes": 86282
+    },
+    "assets/encounters/tang-seika-jig.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/c7fb354bbf511d3353971d29a3ff831a5a4f4cf40cb8994b43f2bedbcf8c3e76.webp",
+      "sha256": "c7fb354bbf511d3353971d29a3ff831a5a4f4cf40cb8994b43f2bedbcf8c3e76",
+      "bytes": 145794
+    },
+    "assets/encounters/tang-stone-doll.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/e270225a2d8765744a1c19f7806c5feffeefacfb5d9074c55d09cbefa2dfdbdb.webp",
+      "sha256": "e270225a2d8765744a1c19f7806c5feffeefacfb5d9074c55d09cbefa2dfdbdb",
+      "bytes": 31228
+    },
+    "assets/encounters/tang-training.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/41796d7864c6402bac935e4305133075bd3cfcbc8aab1153c8b4762eb53dfb83.webp",
+      "sha256": "41796d7864c6402bac935e4305133075bd3cfcbc8aab1153c8b4762eb53dfb83",
+      "bytes": 35368
     }
   }
 }
