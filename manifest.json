@@ -14821,6 +14821,31 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/239f46916bb0345b59a6ce64f4fc199fc7b37ca179c92a9ce6ae4794be758c1f.webp",
       "sha256": "239f46916bb0345b59a6ce64f4fc199fc7b37ca179c92a9ce6ae4794be758c1f",
       "bytes": 154518
+    },
+    "assets/encounters/toki-388/corbeau-0bea9b58fdae.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0bea9b58fdae77a901cb53649b077e14dfa252eb0d42e99f47c5e66410e71930.webp",
+      "sha256": "0bea9b58fdae77a901cb53649b077e14dfa252eb0d42e99f47c5e66410e71930",
+      "bytes": 101964
+    },
+    "assets/encounters/toki-388/bol-debout-973ec6af43a9.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/973ec6af43a9861e7af69d992619a2742dfa348a8c9e5923524798cd97e99bb7.webp",
+      "sha256": "973ec6af43a9861e7af69d992619a2742dfa348a8c9e5923524798cd97e99bb7",
+      "bytes": 60496
+    },
+    "assets/encounters/toki-388/bol-assis-36f6b1bb8c91.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/36f6b1bb8c918e51e9ecec3eb995eab38ae511a247a6be8f49fc8c3e85a45d2c.webp",
+      "sha256": "36f6b1bb8c918e51e9ecec3eb995eab38ae511a247a6be8f49fc8c3e85a45d2c",
+      "bytes": 79330
+    },
+    "assets/encounters/toki-388/caillou-a4ae07e65941.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/a4ae07e6594186ead437bef1c2789d9e4c864ed815067eb4d50b724d95af5c62.webp",
+      "sha256": "a4ae07e6594186ead437bef1c2789d9e4c864ed815067eb4d50b724d95af5c62",
+      "bytes": 122374
+    },
+    "assets/encounters/toki-388/baton-4008acf8bad0.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/4008acf8bad0f72055665849504befe55616e7498ca88810e3b9ba1850bd725c.webp",
+      "sha256": "4008acf8bad0f72055665849504befe55616e7498ca88810e3b9ba1850bd725c",
+      "bytes": 63466
     }
   }
 }
