@@ -14846,6 +14846,36 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/4008acf8bad0f72055665849504befe55616e7498ca88810e3b9ba1850bd725c.webp",
       "sha256": "4008acf8bad0f72055665849504befe55616e7498ca88810e3b9ba1850bd725c",
       "bytes": 63466
+    },
+    "assets/encounters/tang/f1fff15bf85387960a6f0a9c36b6f862ba2c2be740ee888a363f683adaa3b359.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/f1fff15bf85387960a6f0a9c36b6f862ba2c2be740ee888a363f683adaa3b359.webp",
+      "sha256": "f1fff15bf85387960a6f0a9c36b6f862ba2c2be740ee888a363f683adaa3b359",
+      "bytes": 327426
+    },
+    "assets/encounters/tang/74f61c79fe07f5221b4c4bc372ec7cec7d44be4caa282ce81eeac9c78c1e5478.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/74f61c79fe07f5221b4c4bc372ec7cec7d44be4caa282ce81eeac9c78c1e5478.webp",
+      "sha256": "74f61c79fe07f5221b4c4bc372ec7cec7d44be4caa282ce81eeac9c78c1e5478",
+      "bytes": 141632
+    },
+    "assets/encounters/tang/fb860c38541f513bd52ebb13cf85523f378e7c5759a2c921330ad5715249562f.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/fb860c38541f513bd52ebb13cf85523f378e7c5759a2c921330ad5715249562f.webp",
+      "sha256": "fb860c38541f513bd52ebb13cf85523f378e7c5759a2c921330ad5715249562f",
+      "bytes": 157906
+    },
+    "assets/encounters/tang/0f1718c68c37ac114be618bed5a945cbf559b51e7af56745f0864475b2140a60.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0f1718c68c37ac114be618bed5a945cbf559b51e7af56745f0864475b2140a60.webp",
+      "sha256": "0f1718c68c37ac114be618bed5a945cbf559b51e7af56745f0864475b2140a60",
+      "bytes": 191056
+    },
+    "assets/encounters/tang/bbe272cfb40909dcdeb9723037b52492452b03c98960fc8eb115955cdd678b56.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/bbe272cfb40909dcdeb9723037b52492452b03c98960fc8eb115955cdd678b56.webp",
+      "sha256": "bbe272cfb40909dcdeb9723037b52492452b03c98960fc8eb115955cdd678b56",
+      "bytes": 163816
+    },
+    "assets/encounters/tang/0e1aa40ed31fd09ff25ba2eeabc120f1c3c55b3df4b03b9addf79789c9b47251.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/0e1aa40ed31fd09ff25ba2eeabc120f1c3c55b3df4b03b9addf79789c9b47251.webp",
+      "sha256": "0e1aa40ed31fd09ff25ba2eeabc120f1c3c55b3df4b03b9addf79789c9b47251",
+      "bytes": 285842
     }
   }
 }
