@@ -14876,6 +14876,26 @@
       "url": "https://lahoudie.github.io/naishou-assets/objects/0e1aa40ed31fd09ff25ba2eeabc120f1c3c55b3df4b03b9addf79789c9b47251.webp",
       "sha256": "0e1aa40ed31fd09ff25ba2eeabc120f1c3c55b3df4b03b9addf79789c9b47251",
       "bytes": 285842
+    },
+    "assets/encounters/sorcha-383/danse-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/48283e84d2f66b7eaf43b7efdb0c8a6deee04c2a09d0e165eca0a74f3a1688da.webp",
+      "sha256": "48283e84d2f66b7eaf43b7efdb0c8a6deee04c2a09d0e165eca0a74f3a1688da",
+      "bytes": 368314
+    },
+    "assets/encounters/sorcha-383/attente-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/6d5559d50e55f119e84cc93a640673e474fd6dafa89b3e66d7e75c3f735857b7.webp",
+      "sha256": "6d5559d50e55f119e84cc93a640673e474fd6dafa89b3e66d7e75c3f735857b7",
+      "bytes": 324336
+    },
+    "assets/encounters/sorcha-383/aengus-musicien-v1.webp": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/7fb13a0b1c686ea254d890fe84725f9fd47337e01413d6b289a9e710905f98ee.webp",
+      "sha256": "7fb13a0b1c686ea254d890fe84725f9fd47337e01413d6b289a9e710905f98ee",
+      "bytes": 395840
+    },
+    "assets/catalog/d654d49185c2ee904666200d.png": {
+      "url": "https://lahoudie.github.io/naishou-assets/objects/d654d49185c2ee904666200df3fd5b7f46529ada49dad40d829530b883ce5c8e.png",
+      "sha256": "d654d49185c2ee904666200df3fd5b7f46529ada49dad40d829530b883ce5c8e",
+      "bytes": 341331
     }
   }
 }
